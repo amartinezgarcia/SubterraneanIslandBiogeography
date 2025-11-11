@@ -1,0 +1,896 @@
+﻿type;ID;Included;Order;Group;name;Species;Island;paleo;Locality;Loc.ID;Type;group;group01;group02
+Troglo;-;no;Isopoda;Isopoda;fuerteventurae;Maghreboniscus n. sp.;C;C;Aslobas, Cueva de;CC03;cave;CC03.cave;C.cave;
+Troglo;-;no;Coleoptera;Hexapoda;Baezia_litoralis;Baezia litoralis Zarazaga & García, 1999;T;T;Bajamar subsuelo;.;;..;T.;
+Troglo;-;no;Araneae;Arachnida;Macarophaeus_nsp;Macarophaeus n. sp. ;C;C;Bebeideja, Mina de;CC05;cave;CC05.cave;C.cave;
+Troglo;-;no;Glomerida;Myriapoda;Glomeris_nsp1;Glomeris n.sp. 2        ;C;C;Bebeideja, Mina de;CC05;cave;CC05.cave;C.cave;
+Troglo;-;no;Araneae;Arachnida;Macarophaeus_nsp;Macarophaeus n. sp. ;C;C;Berrazales MSS, Los;CM01;mss;CM01.mss;C.mss;
+Troglo;-;no;Blattaria;Hexapoda;Loboptera_sp.;Loboptera sp. ;T;T;Blanca MSS, Montaña;TM10;mss;TM10.mss;T.mss;
+Troglo;-;no;Blattaria;Hexapoda;Loboptera_sp.;Loboptera sp. ;T;T;Chajaña, Cueva de (JLME tesis);TC05;cave;TC05.cave;T.cave;
+Troglo;-;no;Hemiptera;Hexapoda;Cixius_nsp2-life;Cixius n. sp. 2 - life    (Crucita);P;P;Crucita, Cueva de la;PC14;cave;PC14.cave;P.cave;
+Troglo;-;no;Araneae;Arachnida;Pholcomma_gibbum;Pholcomma cf. gibbum (Westring, 1851);H;H;Derrabado MSS, Pista del;HM06;mss;HM06.mss;H.mss;
+Troglo;-;no;Coleoptera;Hexapoda;Alevonota_palmi;Alevonota palmi (Franz, 1981);P;P;Diablo de Barlovento, Cueva del;PC16;cave;PC16.cave;P.cave;
+Troglo;-;no;Chilopoda;Myriapoda;Cryptops_nsp1;Cryptops n. sp. 1;H;H;Don Justo, Cueva de;HC02;cave;HC02.cave;H.cave;
+Troglo;-;no;Araneae;Arachnida;Macarophaeus_nsp;Macarophaeus n. sp. ;C;C;Draguillo MSS, Bco. del;CM03;mss;CM03.mss;C.mss;
+Troglo;-;no;Julida;Myriapoda;Dolichoiulus_sp.;Dolichoiulus sp.;C;C;Fataga, Mina de;CC08;cave;CC08.cave;C.cave;
+Troglo;-;no;Isopoda;Isopoda;Trichoniscus_bassoti;Trichoniscus bassoti Vandel, 1960;T;T;Fea de Arico, Cueva de;TC09;cave;TC09.cave;T.cave;
+Troglo;-;no;Araneae;Arachnida;Macarophaeus_nsp;Macarophaeus n. sp. ;C;C;Federica, Mina la;CC09;cave;CC09.cave;C.cave;
+Troglo;-;no;Entomobryomorpha;Collembola;Troglopedetes_cavernicola;Troglopedetes cavernicolus Delamare, 1944;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;
+Troglo;-;no;Entomobryomorpha;Collembola;Troglopedetes_vandeli;Troglopedetes vandeli Cassagnau &Delamare, 1951;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;
+Troglo;-;no;Isopoda;Isopoda;Trichoniscus_bassoti;Trichoniscus bassoti Vandel, 1960;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;
+Troglo;-;no;Hemiptera;Hexapoda;Cixius_palmirandus;Cixius palmirandus n.sp.;P;P;Honda de Miranda, Cueva;PC25;cave;PC25.cave;P.cave;
+Troglo;-;no;Isopoda;Isopoda;Trichoniscus_bassoti;Trichoniscus bassoti Vandel, 1960*;P;P;Hoya Grande-Bco. del Fraile MSS;PM13;mss;PM13.mss;P.mss;
+Troglo;-;no;Araneae;Arachnida;Eidmanella_pallida;Eidmanella pallida (Emerton, 1875);T;T;Hoya San Felipe, Cueva de la;TC14;cave;TC14.cave;T.cave;
+Troglo;-;no;Araneae;Arachnida;Robertus ?_sp_2;Robertus ? sp. 2;P;P;Hoyo de la Sima;PC27;cave;PC27.cave;P.cave;
+Troglo;-;no;Isopoda;Isopoda;Trichoniscus_bassoti;Trichoniscus bassoti Vandel, 1960;T;T;Labrada, Cueva;TC15;cave;TC15.cave;T.cave;
+Troglo;-;no;Chilopoda;Myriapoda;Cryptops_nsp1;Cryptops n. sp. 1;H;H;Lajial, Cueva del;HC07;cave;HC07.cave;H.cave;
+Troglo;-;no;Polydesmida;Myriapoda;Trichopolydesmidae cf_sp.;gen. sp. indet;C;C;Llanetes, Mina de los (Valsequillo);CC11;cave;CC11.cave;C.cave;
+Troglo;-;no;Isopoda;Isopoda;Armadillidae_sp.;Armadillidae sp. indet. - life    ???;P;P;Llano de los Caños, Cueva del;PC31;cave;PC31.cave;P.cave;
+Troglo;-;no;Isopoda;Isopoda;Trichoniscus_bassoti;Trichoniscus bassoti Vandel, 1960;P;P;Llano Negro MSS;PM18;mss;PM18.mss;P.mss;
+Troglo;-;no;Isopoda;Isopoda;n. gen._nsp;N. gen. cf. n.sp.;F;F;Llano, Cueva del (Villaverde);FC02;cave;FC02.cave;F.cave;
+Troglo;-;no;Araneae;Arachnida;Robertus ?_sp_1;Robertus ? sp. 1;H;H;Longueras, Cueva de;HC10;cave;HC10.cave;H.cave;
+Troglo;-;no;Hemiptera;Hexapoda;Cixius_nsp1;Cixius n.sp. 1;H;H;Longueras, Cueva de;HC10;cave;HC10.cave;H.cave;
+Troglo;-;no;Chilopoda;Myriapoda;Lithobius_nsp2-life;Lithobius n. sp. 2 - life            ???;P;P;Machacadora, Cueva de la;PC34;cave;PC34.cave;P.cave;
+Troglo;-;no;Blattaria;Hexapoda;Loboptera_sp.;Loboptera sp. ;T;T;Mallorquines (Izaña) MSS, Mña.;TM23;mss;TM23.mss;T.mss;
+Troglo;-;no;Isopoda;Isopoda;Trichoniscus_bassoti;Trichoniscus bassoti Vandel, 1960*;P;P;Mamona, Cueva de la;PC35;cave;PC35.cave;P.cave;
+Troglo;-;no;Araneae;Arachnida;Macarophaeus_nsp;Macarophaeus n. sp. ;C;C;Marteles MSS, Caldera de los;CM05;mss;CM05.mss;C.mss;
+Troglo;-;no;Araneae;Arachnida;Gnaphosidae_gen;Gnaphosidae gen indet;H;H;Mercader MSS;HM13;mss;HM13.mss;H.mss;
+Troglo;-;no;Glomerida;Myriapoda;Glomeris_nsp1;Glomeris n.sp. 1        ;H;H;Mercader MSS;HM13;mss;HM13.mss;H.mss;
+Troglo;-;no;Chilopoda;Myriapoda;Cryptops_nsp1;Cryptops n. sp. 1;H;H;Moleras, Juaclo de las;HC12;cave;HC12.cave;H.cave;
+Troglo;-;no;Pseudoscorpiones;Pseudoscorpiones;Gen. ind._sp.;Gen. Sp.;F;F;Montaña Blanca, Cueva de (El Castillo);FC03;cave;FC03.cave;F.cave;
+Troglo;-;no;Araneae;Arachnida;Robertus ?_sp_2;Robertus ? sp. 2;P;P;Palmeros, Cueva de los;PC42;cave;PC42.cave;P.cave;
+Troglo;-;no;Araneae;Arachnida;Robertus ?_sp_1;Robertus ? sp. 1;H;H;Palomas, Sima de las;HC13;cave;HC13.cave;H.cave;
+Troglo;-;no;Chilopoda;Myriapoda;Cryptops_nsp1;Cryptops n. sp. 1;H;H;Pocitos, Cueva de los;HC14;cave;HC14.cave;H.cave;
+Troglo;-;no;Araneae;Arachnida;Robertus ?_sp_1;Robertus ? sp. 1;H;H;Pozos, Cueva de los;HC15;cave;HC15.cave;H.cave;
+Troglo;-;no;Araneae;Arachnida;Agraecina_nsp;Agraecina n.sp.;G;G;Reventón Oscuro MSS;GM07;mss;GM07.mss;G.mss;
+Troglo;-;no;Araneae;Arachnida;Canarionesticus_nsp;Canarionesticus n.sp.;G;G;Reventón Oscuro MSS;GM07;mss;GM07.mss;G.mss;
+Troglo;-;no;Coleoptera;Hexapoda;Torneuma_orbatum;Torneuma orbatum (Wollaston, 1865) ;G;G;Reventón Oscuro MSS;GM07;mss;GM07.mss;G.mss;
+Troglo;-;no;Chilopoda;Myriapoda;Lithobius_sp1;Lithobius sp. 1;G;G;Reventón Oscuro MSS;GM07;mss;GM07.mss;G.mss;
+Troglo;-;no;Hemiptera;Hexapoda;Tachycixius_gomerobscurus;Tachycixius gomerobscurus n.sp.;G;G;Reventón Oscuro MSS;GM07;mss;GM07.mss;G.mss;
+Troglo;-;no;Araneae;Arachnida;Robertus ?_sp_1;Robertus ? sp. 1;H;H;Roja, Cueva;HC16;cave;HC16.cave;H.cave;
+Troglo;-;no;Chilopoda;Myriapoda;Cryptops_nsp1;Cryptops n. sp. 1;H;H;Roja, Cueva;HC16;cave;HC16.cave;H.cave;
+Troglo;-;no;Blattaria;Hexapoda;Loboptera_sp.;Loboptera sp. ;T;T;Roques, Cueva de los;TC25;cave;TC25.cave;T.cave;
+Troglo;-;no;Isopoda;Isopoda;Trichoniscus_bassoti;Trichoniscus bassoti Vandel, 1960*;P;P;Salto de Tigalate, Cueva del;PC47;cave;PC47.cave;P.cave;
+Troglo;-;no;Hemiptera;Hexapoda;Cixius_theseus;Cixius theseus n.sp.;H;H;San Salvador MSS, Camino de;HM16;mss;HM16.mss;H.mss;
+Troglo;-;no;Chilopoda;Myriapoda;Lithobius_nsp2;Lithobius n. sp. 2         ???;P;P;Sorprendidos, Cueva de los;PC50;cave;PC50.cave;P.cave;
+Troglo;-;no;Entomobryomorpha;Collembola;Troglopedetes_cavernicola;Troglopedetes cavernicolus Delamare, 1944;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;
+Troglo;-;no;Entomobryomorpha;Collembola;Troglopedetes_vandeli;Troglopedetes vandeli Cassagnau &Delamare, 1951;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;
+Troglo;-;no;Isopoda;Isopoda;Trichoniscus_bassoti;Trichoniscus bassoti Vandel, 1960*;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;
+Troglo;-;no;Coleoptera;Hexapoda;Oromia_sp10;Oromia sp. 10;F;F;Zarza MSS, Pico de la ;-;;-.;F.;
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Arenal, Cueva del;PC03;cave;PC03.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Cardos II (Laberintos), Cueva de;PC09;cave;PC09.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Ciro (Puntallana), Cueva de;PC13;cave;PC13.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Codezos (Garafía) MSS, Los;PM02;mss;PM02.mss;P.mss;P.mss
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Don Tomás (El Paso), Cueva de;PC18;cave;PC18.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Fajanita de Don Pedro, Cueva de la;PC21;cave;PC21.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Franceses, Cueva de;PC22;cave;PC22.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Fuente de la Canaria, Cueva;PC23;cave;PC23.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Honda de Miranda, Cueva;PC25;cave;PC25.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Honda del Bejenado, Cueva;PC26;cave;PC26.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Hoya Grande-Bco. del Fraile MSS;PM13;mss;PM13.mss;P.mss;P.mss
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;La Grilla, Cueva de la;PC24;cave;PC24.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;La Tosca (Honda Gallegos), Cueva de;PC29;cave;PC29.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Las Lomadas, Buraca de;PC30;cave;PC30.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Machacadora, Cueva de la;PC34;cave;PC34.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Mamona, Cueva de la;PC35;cave;PC35.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Mña. del Pino (Arreboles), Cueva de;PC38;cave;PC38.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Nagy, Cueva de;PC40;cave;PC40.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Palmeros de Aguatavar, Cueva de los;PC41;cave;PC41.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Palmeros, Cueva de los;PC42;cave;PC42.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Pilón (La Galga), Furna del;PC43;cave;PC43.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Polvorín (Las Hiedras), Cueva del;PC44;cave;PC44.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Ratón, Cueva del;PC45;cave;PC45.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Rincón I y II, Cuevas;PC46;cave;PC46.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Salto de Tigalate, Cueva del;PC47;cave;PC47.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Salvatierra, Cueva de;PC48;cave;PC48.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Tacande, Cueva de;PC52;cave;PC52.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Tijaraferas (Barros, Barrial), Cueva de las;PC54;cave;PC54.cave;P.cave;P.cave
+Troglo;Am001;yes;Amphipoda;Amphipoda;Palmorchestia_hypogaea;Palmorchestia hypogaea Stock & Martín, 1988;P;P;Virgen de Fátima, Cueva de la;PC57;cave;PC57.cave;P.cave;P.cave
+Troglo;Ar001;yes;Araneae;Arachnida;Dysdera_ambulotenta;Dysdera ambulotenta Ribera, Ferrández & Blasco, 1985    ;T;T;Bucio, Cueva del (Aguamansa);TC03;cave;TC03.cave;T.cave;T.cave
+Troglo;Ar001;yes;Araneae;Arachnida;Dysdera_ambulotenta;Dysdera ambulotenta Ribera, Ferrández & Blasco, 1985    ;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Ar001;yes;Araneae;Arachnida;Dysdera_ambulotenta;Dysdera ambulotenta Ribera, Ferrández & Blasco, 1985    ;T;T;Labrada, Cueva;TC15;cave;TC15.cave;T.cave;T.cave
+Troglo;Ar001;yes;Araneae;Arachnida;Dysdera_ambulotenta;Dysdera ambulotenta Ribera, Ferrández & Blasco, 1985    ;T;T;Negras, Cuevas;TC19;cave;TC19.cave;T.cave;T.cave
+Troglo;Ar001;yes;Araneae;Arachnida;Dysdera_ambulotenta;Dysdera ambulotenta Ribera, Ferrández & Blasco, 1985    ;T;T;Roques, Cueva de los;TC25;cave;TC25.cave;T.cave;T.cave
+Troglo;Ar001;yes;Araneae;Arachnida;Dysdera_ambulotenta;Dysdera ambulotenta Ribera, Ferrández & Blasco, 1985    ;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Ar002;yes;Araneae;Arachnida;Dysdera_chioensis;Dysdera chioensis Wunderlich, 1987;T;T;Blanca MSS, Montaña;TM10;mss;TM10.mss;T.mss;T.mss
+Troglo;Ar002;yes;Araneae;Arachnida;Dysdera_chioensis;Dysdera chioensis Wunderlich, 1987;T;T;Grande de Chío, Cueva;TC11;cave;TC11.cave;T.cave;T.cave
+Troglo;Ar002;yes;Araneae;Arachnida;Dysdera_chioensis;Dysdera chioensis Wunderlich, 1987;T;T;Honda de Güímar, Cueva;TC13;cave;TC13.cave;T.cave;T.cave
+Troglo;Ar002;yes;Araneae;Arachnida;Dysdera_chioensis;Dysdera chioensis Wunderlich, 1987;T;T;Negras, Cuevas;TC19;cave;TC19.cave;T.cave;T.cave
+Troglo;Ar002;yes;Araneae;Arachnida;Dysdera_chioensis;Dysdera chioensis Wunderlich, 1987;T;T;Roques, Cueva de los;TC25;cave;TC25.cave;T.cave;T.cave
+Troglo;Ar003;yes;Araneae;Arachnida;Dysdera_esquiveli;Dysdera esquiveli Ribera & Blasco, 1986;T;Tt;Cochinos MSS, Bco. de los;TM15;mss;TM15.mss;T.mss;Tt.mss
+Troglo;Ar003;yes;Araneae;Arachnida;Dysdera_esquiveli;Dysdera esquiveli Ribera & Blasco, 1986;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Ar003;yes;Araneae;Arachnida;Dysdera_esquiveli;Dysdera esquiveli Ribera & Blasco, 1986;T;T;Grande de Chío, Cueva;TC11;cave;TC11.cave;T.cave;T.cave
+Troglo;Ar003;yes;Araneae;Arachnida;Dysdera_esquiveli;Dysdera esquiveli Ribera & Blasco, 1986;T;T;Labrada, Cueva;TC15;cave;TC15.cave;T.cave;T.cave
+Troglo;Ar003;yes;Araneae;Arachnida;Dysdera_esquiveli;Dysdera esquiveli Ribera & Blasco, 1986;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Ar004;yes;Araneae;Arachnida;Dysdera_gollumi;Dysdera gollumi Ribera & Arnedo, 1994;T;T;Roques, Cueva de los;TC25;cave;TC25.cave;T.cave;T.cave
+Troglo;Ar005;yes;Araneae;Arachnida;Dysdera_hernandezi;Dysdera hernandezi Arnedo & Ribera, 1999;T;T;Labrada, Cueva;TC15;cave;TC15.cave;T.cave;T.cave
+Troglo;Ar005;yes;Araneae;Arachnida;Dysdera_hernandezi;Dysdera hernandezi Arnedo & Ribera, 1999;T;T;Puerta, Cueva de la;TC21;cave;TC21.cave;T.cave;T.cave
+Troglo;Ar006;yes;Araneae;Arachnida;Dysdera_labradaensis;Dysdera labradaensis Wunderlich, 1992;T;T;Bucio, Cueva del (Aguamansa);TC03;cave;TC03.cave;T.cave;T.cave
+Troglo;Ar006;yes;Araneae;Arachnida;Dysdera_labradaensis;Dysdera labradaensis Wunderlich, 1992;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Ar006;yes;Araneae;Arachnida;Dysdera_labradaensis;Dysdera labradaensis Wunderlich, 1992;T;T;Labrada, Cueva;TC15;cave;TC15.cave;T.cave;T.cave
+Troglo;Ar006;yes;Araneae;Arachnida;Dysdera_labradaensis;Dysdera labradaensis Wunderlich, 1992;T;T;Roques, Cueva de los;TC25;cave;TC25.cave;T.cave;T.cave
+Troglo;Ar006;yes;Araneae;Arachnida;Dysdera_labradaensis;Dysdera labradaensis Wunderlich, 1992;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Ar007;yes;Araneae;Arachnida;Dysdera_madai;Dysdera madai Arnedo, 2007;T;T;Blanca MSS, Montaña;TM10;mss;TM10.mss;T.mss;T.mss
+Troglo;Ar007;yes;Araneae;Arachnida;Dysdera_madai;Dysdera madai Arnedo, 2007;T;Tt;Cochinos MSS, Bco. de los;TM15;mss;TM15.mss;T.mss;Tt.mss
+Troglo;Ar007;yes;Araneae;Arachnida;Dysdera_madai;Dysdera madai Arnedo, 2007;T;T;Helechos, Sima de los;TC12;cave;TC12.cave;T.cave;T.cave
+Troglo;Ar007;yes;Araneae;Arachnida;Dysdera_madai;Dysdera madai Arnedo, 2007;T;T;Salto Frío (Izaña) MSS;TM37;mss;TM37.mss;T.mss;T.mss
+Troglo;Ar008;yes;Araneae;Arachnida;Dysdera_ratonensis;Dysdera ratonensis Wunderlich, 1991;P;P;Callejones, Cueva de los;PC06;cave;PC06.cave;P.cave;P.cave
+Troglo;Ar008;yes;Araneae;Arachnida;Dysdera_ratonensis;Dysdera ratonensis Wunderlich, 1991;P;P;Canal, Cueva del;PC07;cave;PC07.cave;P.cave;P.cave
+Troglo;Ar008;yes;Araneae;Arachnida;Dysdera_ratonensis;Dysdera ratonensis Wunderlich, 1991;P;P;Cardos II (Laberintos), Cueva de;PC09;cave;PC09.cave;P.cave;P.cave
+Troglo;Ar008;yes;Araneae;Arachnida;Dysdera_ratonensis;Dysdera ratonensis Wunderlich, 1991;P;P;Cardos III, Cueva de los;PC10;cave;PC10.cave;P.cave;P.cave
+Troglo;Ar008;yes;Araneae;Arachnida;Dysdera_ratonensis;Dysdera ratonensis Wunderlich, 1991;P;P;Don Tomás (El Paso), Cueva de;PC18;cave;PC18.cave;P.cave;P.cave
+Troglo;Ar008;yes;Araneae;Arachnida;Dysdera_ratonensis;Dysdera ratonensis Wunderlich, 1991;P;P;Excavada (Rincón), Cueva;PC19;cave;PC19.cave;P.cave;P.cave
+Troglo;Ar008;yes;Araneae;Arachnida;Dysdera_ratonensis;Dysdera ratonensis Wunderlich, 1991;P;P;Fajanita de Don Pedro, Cueva de la;PC21;cave;PC21.cave;P.cave;P.cave
+Troglo;Ar008;yes;Araneae;Arachnida;Dysdera_ratonensis;Dysdera ratonensis Wunderlich, 1991;P;P;La Tosca (Honda Gallegos), Cueva de;PC29;cave;PC29.cave;P.cave;P.cave
+Troglo;Ar008;yes;Araneae;Arachnida;Dysdera_ratonensis;Dysdera ratonensis Wunderlich, 1991;P;P;Las Lomadas, Buraca de;PC30;cave;PC30.cave;P.cave;P.cave
+Troglo;Ar008;yes;Araneae;Arachnida;Dysdera_ratonensis;Dysdera ratonensis Wunderlich, 1991;P;P;Llano de los Caños, Cueva del;PC31;cave;PC31.cave;P.cave;P.cave
+Troglo;Ar008;yes;Araneae;Arachnida;Dysdera_ratonensis;Dysdera ratonensis Wunderlich, 1991;P;P;M.A.P.O. (San Juan), Cueva de;PC33;cave;PC33.cave;P.cave;P.cave
+Troglo;Ar008;yes;Araneae;Arachnida;Dysdera_ratonensis;Dysdera ratonensis Wunderlich, 1991;P;P;Mña. del Pino (Arreboles), Cueva de;PC38;cave;PC38.cave;P.cave;P.cave
+Troglo;Ar008;yes;Araneae;Arachnida;Dysdera_ratonensis;Dysdera ratonensis Wunderlich, 1991;P;P;Murciélagos II, Cueva de los;PC39;cave;PC39.cave;P.cave;P.cave
+Troglo;Ar008;yes;Araneae;Arachnida;Dysdera_ratonensis;Dysdera ratonensis Wunderlich, 1991;P;P;Palmeros, Cueva de los;PC42;cave;PC42.cave;P.cave;P.cave
+Troglo;Ar008;yes;Araneae;Arachnida;Dysdera_ratonensis;Dysdera ratonensis Wunderlich, 1991;P;P;Ratón, Cueva del;PC45;cave;PC45.cave;P.cave;P.cave
+Troglo;Ar008;yes;Araneae;Arachnida;Dysdera_ratonensis;Dysdera ratonensis Wunderlich, 1991;P;P;Salto de Tigalate, Cueva del;PC47;cave;PC47.cave;P.cave;P.cave
+Troglo;Ar008;yes;Araneae;Arachnida;Dysdera_ratonensis;Dysdera ratonensis Wunderlich, 1991;P;P;Sorprendidos, Cueva de los;PC50;cave;PC50.cave;P.cave;P.cave
+Troglo;Ar008;yes;Araneae;Arachnida;Dysdera_ratonensis;Dysdera ratonensis Wunderlich, 1991;P;P;Tacande, Cueva de;PC52;cave;PC52.cave;P.cave;P.cave
+Troglo;Ar008;yes;Araneae;Arachnida;Dysdera_ratonensis;Dysdera ratonensis Wunderlich, 1991;P;P;Virgen de Fátima, Cueva de la;PC57;cave;PC57.cave;P.cave;P.cave
+Troglo;Ar009;yes;Araneae;Arachnida;Dysdera_sibyllina;Dysdera sibyllina Arnedo, 2007;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Ar009;yes;Araneae;Arachnida;Dysdera_sibyllina;Dysdera sibyllina Arnedo, 2007;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Ar010;yes;Araneae;Arachnida;Dysdera_unguimmanis;Dysdera unguimmanis Ribera, Ferrández & Blasco, 1985;T;T;Bucio, Cueva del (Aguamansa);TC03;cave;TC03.cave;T.cave;T.cave
+Troglo;Ar010;yes;Araneae;Arachnida;Dysdera_unguimmanis;Dysdera unguimmanis Ribera, Ferrández & Blasco, 1985;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Ar010;yes;Araneae;Arachnida;Dysdera_unguimmanis;Dysdera unguimmanis Ribera, Ferrández & Blasco, 1985;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Ar011;yes;Araneae;Arachnida;Dysdera_nsp;Dysdera n. sp. 1;H;H;Derrabado MSS, Pista del;HM06;mss;HM06.mss;H.mss;H.mss
+Troglo;Ar012;yes;Araneae;Arachnida;Dysdera_nsp;Dysdera n. sp. 2  (D. herii ?);C;C;Draguillo MSS, Bco. del;CM03;mss;CM03.mss;C.mss;C.mss
+Troglo;Ar012;yes;Araneae;Arachnida;Dysdera_nsp;Dysdera n. sp. 2  (D. herii ?);C;C;Federica, Mina la;CC09;cave;CC09.cave;C.cave;C.cave
+Troglo;Ar012;yes;Araneae;Arachnida;Dysdera_nsp;Dysdera n. sp. 2  (D. herii ?);C;C;Marteles MSS, Caldera de los;CM05;mss;CM05.mss;C.mss;C.mss
+Troglo;Ar013;yes;Araneae;Arachnida;Dysdera_nsp;Dysdera n. sp. 3;C;C;Federica, Mina la;CC09;cave;CC09.cave;C.cave;C.cave
+Troglo;Ar013;yes;Araneae;Arachnida;Dysdera_nsp;Dysdera n. sp. 3;C;C;Llanetes, Mina de los (Valsequillo);CC11;cave;CC11.cave;C.cave;C.cave
+Troglo;Ar014;yes;Araneae;Arachnida;Lepthyphantes_palmeroensis;Lepthyphantes palmeroensis Wunderlich, 1992         ;P;P;Diablo (Breña Baja), Cueva del ;PC17;cave;PC17.cave;P.cave;P.cave
+Troglo;Ar014;yes;Araneae;Arachnida;Lepthyphantes_palmeroensis;Lepthyphantes palmeroensis Wunderlich, 1992         ;P;P;Palmeros, Cueva de los;PC42;cave;PC42.cave;P.cave;P.cave
+Troglo;Ar015;yes;Araneae;Arachnida;Lepthyphantes_styx;Lepthyphantes styx Wunderlich, 2011;T;T;Blanca MSS, Cañada;TM09;mss;TM09.mss;T.mss;T.mss
+Troglo;Ar016;yes;Araneae;Arachnida;Metopobactrus_cavernicola;Metopobactrus cavernicola Wunderlich, 1992;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Ar016;yes;Araneae;Arachnida;Metopobactrus_cavernicola;Metopobactrus cavernicola Wunderlich, 1992;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Ar017;yes;Araneae;Arachnida;Troglohyphantes_labrada;Troglohyphantes labrada Wunderlich, 2012;T;T;Labrada, Cueva;TC15;cave;TC15.cave;T.cave;T.cave
+Troglo;Ar018;yes;Araneae;Arachnida;Troglohyphantes_oromii;Troglohyphantes oromii (Ribera & Blasco, 1986);T;T;Bucio, Cueva del (Aguamansa);TC03;cave;TC03.cave;T.cave;T.cave
+Troglo;Ar018;yes;Araneae;Arachnida;Troglohyphantes_oromii;Troglohyphantes oromii (Ribera & Blasco, 1986);T;T;Chatarra, Cueva de la;TC06;cave;TC06.cave;T.cave;T.cave
+Troglo;Ar018;yes;Araneae;Arachnida;Troglohyphantes_oromii;Troglohyphantes oromii (Ribera & Blasco, 1986);T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Ar018;yes;Araneae;Arachnida;Troglohyphantes_oromii;Troglohyphantes oromii (Ribera & Blasco, 1986);T;T;Grande de Chío, Cueva;TC11;cave;TC11.cave;T.cave;T.cave
+Troglo;Ar018;yes;Araneae;Arachnida;Troglohyphantes_oromii;Troglohyphantes oromii (Ribera & Blasco, 1986);T;T;Helechos, Sima de los;TC12;cave;TC12.cave;T.cave;T.cave
+Troglo;Ar018;yes;Araneae;Arachnida;Troglohyphantes_oromii;Troglohyphantes oromii (Ribera & Blasco, 1986);T;T;Labrada, Cueva;TC15;cave;TC15.cave;T.cave;T.cave
+Troglo;Ar018;yes;Araneae;Arachnida;Troglohyphantes_oromii;Troglohyphantes oromii (Ribera & Blasco, 1986);T;T;Mulo, Cueva del;TC18;cave;TC18.cave;T.cave;T.cave
+Troglo;Ar018;yes;Araneae;Arachnida;Troglohyphantes_oromii;Troglohyphantes oromii (Ribera & Blasco, 1986);T;T;Perdiz, Sima de la;TC20;cave;TC20.cave;T.cave;T.cave
+Troglo;Ar018;yes;Araneae;Arachnida;Troglohyphantes_oromii;Troglohyphantes oromii (Ribera & Blasco, 1986);T;T;Punto Blanco, Cueva de;TC22;cave;TC22.cave;T.cave;T.cave
+Troglo;Ar018;yes;Araneae;Arachnida;Troglohyphantes_oromii;Troglohyphantes oromii (Ribera & Blasco, 1986);T;T;Roques, Cueva de los;TC25;cave;TC25.cave;T.cave;T.cave
+Troglo;Ar018;yes;Araneae;Arachnida;Troglohyphantes_oromii;Troglohyphantes oromii (Ribera & Blasco, 1986);T;T;San Marcos, Cueva de;TC26;cave;TC26.cave;T.cave;T.cave
+Troglo;Ar018;yes;Araneae;Arachnida;Troglohyphantes_oromii;Troglohyphantes oromii (Ribera & Blasco, 1986);T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Ar019;yes;Araneae;Arachnida;Troglohyphantes_roquensis;Troglohyphantes roquensis Barrientos & Fdez. Pérez, 2018;C;C;Arrepentidos, Cueva de;CC02;cave;CC02.cave;C.cave;C.cave
+Troglo;Ar019;yes;Araneae;Arachnida;Troglohyphantes_roquensis;Troglohyphantes roquensis Barrientos & Fdez. Pérez, 2018;C;C;Draguillo MSS, Bco. del;CM03;mss;CM03.mss;C.mss;C.mss
+Troglo;Ar019;yes;Araneae;Arachnida;Troglohyphantes_roquensis;Troglohyphantes roquensis Barrientos & Fdez. Pérez, 2018;C;C;Federica, Mina la;CC09;cave;CC09.cave;C.cave;C.cave
+Troglo;Ar019;yes;Araneae;Arachnida;Troglohyphantes_roquensis;Troglohyphantes roquensis Barrientos & Fdez. Pérez, 2018;C;C;Luna, Cueva de la;CC12;cave;CC12.cave;C.cave;C.cave
+Troglo;Ar019;yes;Araneae;Arachnida;Troglohyphantes_roquensis;Troglohyphantes roquensis Barrientos & Fdez. Pérez, 2018;C;C;Roques, Mina de los (Tenteniguada);CC15;cave;CC15.cave;C.cave;C.cave
+Troglo;Ar020;yes;Araneae;Arachnida;Walckenaeria_cavernicola;Walckenaeria cavernicola Wunderlich, 1992;T;T;Roques, Cueva de los;TC25;cave;TC25.cave;T.cave;T.cave
+Troglo;Ar020;yes;Araneae;Arachnida;Walckenaeria_cavernicola;Walckenaeria cavernicola Wunderlich, 1992;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Ar021;yes;Araneae;Arachnida;Walckenaeria_subterranea;Walckenaeria subterranea Wunderlich, 2011;C;C;Marteles MSS, Caldera de los;CM05;mss;CM05.mss;C.mss;C.mss
+Troglo;Ar022;yes;Araneae;Arachnida;Agraecina_canariensis;Agraecina canariensis Wunderlich, 1992;T;T;Amparo (Icod) MSS, El;TM03;mss;TM03.mss;T.mss;T.mss
+Troglo;Ar022;yes;Araneae;Arachnida;Agraecina_canariensis;Agraecina canariensis Wunderlich, 1992;T;T;Arguayo (Chío) MSS;TM05;mss;TM05.mss;T.mss;T.mss
+Troglo;Ar022;yes;Araneae;Arachnida;Agraecina_canariensis;Agraecina canariensis Wunderlich, 1992;T;T;Arico MSS;TM06;mss;TM06.mss;T.mss;T.mss
+Troglo;Ar022;yes;Araneae;Arachnida;Agraecina_canariensis;Agraecina canariensis Wunderlich, 1992;T;T;Baldíos, Cueva de los;TC01;cave;TC01.cave;T.cave;T.cave
+Troglo;Ar022;yes;Araneae;Arachnida;Agraecina_canariensis;Agraecina canariensis Wunderlich, 1992;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Ar022;yes;Araneae;Arachnida;Agraecina_canariensis;Agraecina canariensis Wunderlich, 1992;T;T;Grande de Chío, Cueva;TC11;cave;TC11.cave;T.cave;T.cave
+Troglo;Ar022;yes;Araneae;Arachnida;Agraecina_canariensis;Agraecina canariensis Wunderlich, 1992;T;T;Honda de Güímar, Cueva;TC13;cave;TC13.cave;T.cave;T.cave
+Troglo;Ar022;yes;Araneae;Arachnida;Agraecina_canariensis;Agraecina canariensis Wunderlich, 1992;T;T;Labrada, Cueva;TC15;cave;TC15.cave;T.cave;T.cave
+Troglo;Ar022;yes;Araneae;Arachnida;Agraecina_canariensis;Agraecina canariensis Wunderlich, 1992;C;C;Marteles MSS, Caldera de los;CM05;mss;CM05.mss;C.mss;C.mss
+Troglo;Ar022;yes;Araneae;Arachnida;Agraecina_canariensis;Agraecina canariensis Wunderlich, 1992;T;T;Mulo, Cueva del;TC18;cave;TC18.cave;T.cave;T.cave
+Troglo;Ar022;yes;Araneae;Arachnida;Agraecina_canariensis;Agraecina canariensis Wunderlich, 1992;T;Ta;Robada, Sima;TC23;cave;TC23.cave;T.cave;Ta.cave
+Troglo;Ar022;yes;Araneae;Arachnida;Agraecina_canariensis;Agraecina canariensis Wunderlich, 1992;T;T;Salto Frío (Izaña) MSS;TM37;mss;TM37.mss;T.mss;T.mss
+Troglo;Ar022;yes;Araneae;Arachnida;Agraecina_canariensis;Agraecina canariensis Wunderlich, 1992;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Ar023;yes;Araneae;Arachnida;Canarionesticus_quadridentatus;Canarionesticus quadridentatus Wunderlich, 1989;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Ar023;yes;Araneae;Arachnida;Canarionesticus_quadridentatus;Canarionesticus quadridentatus Wunderlich, 1989;T;T;Labrada, Cueva;TC15;cave;TC15.cave;T.cave;T.cave
+Troglo;Ar023;yes;Araneae;Arachnida;Canarionesticus_quadridentatus;Canarionesticus quadridentatus Wunderlich, 1989;T;T;Perdiz, Sima de la;TC20;cave;TC20.cave;T.cave;T.cave
+Troglo;Ar023;yes;Araneae;Arachnida;Canarionesticus_quadridentatus;Canarionesticus quadridentatus Wunderlich, 1989;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Ar024;yes;Araneae;Arachnida;Ossinissa_justoi;Ossinissa justoi (Wunderlich, 1992);H;H;Don Justo, Cueva de;HC02;cave;HC02.cave;H.cave;H.cave
+Troglo;Ar024;yes;Araneae;Arachnida;Ossinissa_justoi;Ossinissa justoi (Wunderlich, 1992);H;H;Pocitos, Cueva de los;HC14;cave;HC14.cave;H.cave;H.cave
+Troglo;Ar025;yes;Araneae;Arachnida;Pholcus_baldiosensis;Pholcus baldiosensis Wunderlich, 1992;T;T;Baldíos, Cueva de los;TC01;cave;TC01.cave;T.cave;T.cave
+Troglo;Ar025;yes;Araneae;Arachnida;Pholcus_baldiosensis;Pholcus baldiosensis Wunderlich, 1992;T;T;Puerta, Cueva de la;TC21;cave;TC21.cave;T.cave;T.cave
+Troglo;Ar026;yes;Araneae;Arachnida;Pholcus_corniger;Pholcus corniger Dimitrov & Ribera, 2006;T;T;San Miguel, Cueva de;TC27;cave;TC27.cave;T.cave;T.cave
+Troglo;Ar027;yes;Araneae;Arachnida;Spermophorides_anophthalma;Spermophorides anophthalma Wunderlich, 1999;P;P;Palmeros, Cueva de los;PC42;cave;PC42.cave;P.cave;P.cave
+Troglo;Ar028;yes;Araneae;Arachnida;Spermophorides_flava;Spermophorides flava Wunderlich, 1992;C;C;Degollada de las Brujas, Sima (Inagua);CC07;cave;CC07.cave;C.cave;C.cave
+Troglo;Ar028;no;Araneae;Arachnida;Spermophorides_flava;Spermophorides flava Wunderlich, 1992;C;;loc SW Manolo Naranjo (unkown);-;;-.;C.;
+Troglo;Ar029;yes;Araneae;Arachnida;Spermophorides_fuertecavensis;Spermophorides fuertecavensis Wunderlich, 1992;F;F;Corredores, Cueva de los;FC01;cave;FC01.cave;F.cave;F.cave
+Troglo;Ar029;yes;Araneae;Arachnida;Spermophorides_fuertecavensis;Spermophorides fuertecavensis Wunderlich, 1992;F;F;Llano, Cueva del (Villaverde);FC02;cave;FC02.cave;F.cave;F.cave
+Troglo;Ar030;yes;Araneae;Arachnida;Spermophorides_reventoni;Spermophorides reventoni Wunderlich, 1992;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Ar030;yes;Araneae;Arachnida;Spermophorides_reventoni;Spermophorides reventoni Wunderlich, 1992;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Ar031;yes;Araneae;Arachnida;Anapistula_sp.;Anapistula sp.;T;T;Tacoronte (El Pris) MSS;TM39;mss;TM39.mss;T.mss;T.mss
+Troglo;Bl001;yes;Blattaria;Hexapoda;Loboptera_anagae;Loboptera anagae Martín & Oromí, 1987;T;Ta;Bicora (Anaga) MSS, Degollada de;TM08;mss;TM08.mss;T.mss;Ta.mss
+Troglo;Bl001;yes;Blattaria;Hexapoda;Loboptera_anagae;Loboptera anagae Martín & Oromí, 1987;T;Ta;Chamuscada (Anaga) MSS, Mña. ;TM12;mss;TM12.mss;T.mss;Ta.mss
+Troglo;Bl002;yes;Blattaria;Hexapoda;Loboptera_cavernicola;Loboptera cavernicola Martín & Oromí, 1987;T;Ta;Robada, Sima;TC23;cave;TC23.cave;T.cave;Ta.cave
+Troglo;Bl003;yes;Blattaria;Hexapoda;Loboptera_chioensis;Loboptera chioensis Martín & Izquierdo, 1999;T;T;Arguayo (Chío) MSS;TM05;mss;TM05.mss;T.mss;T.mss
+Troglo;Bl003;yes;Blattaria;Hexapoda;Loboptera_chioensis;Loboptera chioensis Martín & Izquierdo, 1999;T;T;Cascajos (Chío) MSS, Mña.;TM11;mss;TM11.mss;T.mss;T.mss
+Troglo;Bl003;yes;Blattaria;Hexapoda;Loboptera_chioensis;Loboptera chioensis Martín & Izquierdo, 1999;T;T;Grande de Chío, Cueva;TC11;cave;TC11.cave;T.cave;T.cave
+Troglo;Bl003;yes;Blattaria;Hexapoda;Loboptera_chioensis;Loboptera chioensis Martín & Izquierdo, 1999;T;T;Negras, Cuevas;TC19;cave;TC19.cave;T.cave;T.cave
+Troglo;Bl004;yes;Blattaria;Hexapoda;Loboptera_fortunata;Loboptera fortunata Krauss, 1892;P;P;Agua (La Galga) MSS, Bco. del;PM01;mss;PM01.mss;P.mss;P.mss
+Troglo;Bl004;yes;Blattaria;Hexapoda;Loboptera_fortunata;Loboptera fortunata Krauss, 1892;P;P;Cáscaras, Cueva de las;PC11;cave;PC11.cave;P.cave;P.cave
+Troglo;Bl004;yes;Blattaria;Hexapoda;Loboptera_fortunata;Loboptera fortunata Krauss, 1892;P;P;Ciro (Puntallana), Cueva de;PC13;cave;PC13.cave;P.cave;P.cave
+Troglo;Bl004;yes;Blattaria;Hexapoda;Loboptera_fortunata;Loboptera fortunata Krauss, 1892;P;P;Codezos (Garafía) MSS, Los;PM02;mss;PM02.mss;P.mss;P.mss
+Troglo;Bl004;yes;Blattaria;Hexapoda;Loboptera_fortunata;Loboptera fortunata Krauss, 1892;P;P;Corcho (Puntallana) MSS, Pista del;PM03;mss;PM03.mss;P.mss;P.mss
+Troglo;Bl004;yes;Blattaria;Hexapoda;Loboptera_fortunata;Loboptera fortunata Krauss, 1892;P;P;Franceses, Cueva de;PC22;cave;PC22.cave;P.cave;P.cave
+Troglo;Bl004;yes;Blattaria;Hexapoda;Loboptera_fortunata;Loboptera fortunata Krauss, 1892;P;P;Honda de Miranda, Cueva;PC25;cave;PC25.cave;P.cave;P.cave
+Troglo;Bl004;yes;Blattaria;Hexapoda;Loboptera_fortunata;Loboptera fortunata Krauss, 1892;P;P;Honda del Bejenado, Cueva;PC26;cave;PC26.cave;P.cave;P.cave
+Troglo;Bl004;yes;Blattaria;Hexapoda;Loboptera_fortunata;Loboptera fortunata Krauss, 1892;P;P;Hoya Grande-Bco. del Fraile MSS;PM13;mss;PM13.mss;P.mss;P.mss
+Troglo;Bl004;yes;Blattaria;Hexapoda;Loboptera_fortunata;Loboptera fortunata Krauss, 1892;P;P;Hoyo de la Sima;PC27;cave;PC27.cave;P.cave;P.cave
+Troglo;Bl004;yes;Blattaria;Hexapoda;Loboptera_fortunata;Loboptera fortunata Krauss, 1892;P;P;Mamona, Cueva de la;PC35;cave;PC35.cave;P.cave;P.cave
+Troglo;Bl004;yes;Blattaria;Hexapoda;Loboptera_fortunata;Loboptera fortunata Krauss, 1892;P;P;Milagros, Cueva de los;PC37;cave;PC37.cave;P.cave;P.cave
+Troglo;Bl004;yes;Blattaria;Hexapoda;Loboptera_fortunata;Loboptera fortunata Krauss, 1892;P;P;Nagy, Cueva de;PC40;cave;PC40.cave;P.cave;P.cave
+Troglo;Bl004;yes;Blattaria;Hexapoda;Loboptera_fortunata;Loboptera fortunata Krauss, 1892;P;P;Puntagorda Las Eras MSS;PM24;mss;PM24.mss;P.mss;P.mss
+Troglo;Bl004;yes;Blattaria;Hexapoda;Loboptera_fortunata;Loboptera fortunata Krauss, 1892;P;P;Rincón I y II, Cuevas;PC46;cave;PC46.cave;P.cave;P.cave
+Troglo;Bl004;yes;Blattaria;Hexapoda;Loboptera_fortunata;Loboptera fortunata Krauss, 1892;P;P;Tilos MSS, Los;PM30;mss;PM30.mss;P.mss;P.mss
+Troglo;Bl005;yes;Blattaria;Hexapoda;Loboptera_lagunensis;Loboptera lagunensis Martín & Izquierdo, 1999;T;T;Baldíos, Cueva de los;TC01;cave;TC01.cave;T.cave;T.cave
+Troglo;Bl005;yes;Blattaria;Hexapoda;Loboptera_lagunensis;Loboptera lagunensis Martín & Izquierdo, 1999  ;T;T;Bco. de la Arena, Cueva del;TC02;cave;TC02.cave;T.cave;T.cave
+Troglo;Bl005;yes;Blattaria;Hexapoda;Loboptera_lagunensis;Loboptera lagunensis Martín & Izquierdo, 1999  ;T;T;Yeso, Cueva del;TC29;cave;TC29.cave;T.cave;T.cave
+Troglo;Bl006;yes;Blattaria;Hexapoda;Loboptera_ombriosa;Loboptera ombriosa Martín & Izquierdo, 1987;H;H;Calzadillas (El Pinar) MSS, Las;HM03;mss;HM03.mss;H.mss;H.mss
+Troglo;Bl006;yes;Blattaria;Hexapoda;Loboptera_ombriosa;Loboptera ombriosa Martín & Izquierdo, 1987;H;H;Curva, Cueva de la;HC01;cave;HC01.cave;H.cave;H.cave
+Troglo;Bl006;yes;Blattaria;Hexapoda;Loboptera_ombriosa;Loboptera ombriosa Martín & Izquierdo, 1987;H;H;Dehesa MSS, Pista de la;HM05;mss;HM05.mss;H.mss;H.mss
+Troglo;Bl006;yes;Blattaria;Hexapoda;Loboptera_ombriosa;Loboptera ombriosa Martín & Izquierdo, 1987;H;H;Derrabado MSS, Pista del;HM06;mss;HM06.mss;H.mss;H.mss
+Troglo;Bl006;yes;Blattaria;Hexapoda;Loboptera_ombriosa;Loboptera ombriosa Martín & Izquierdo, 1987;H;H;Don Justo, Cueva de;HC02;cave;HC02.cave;H.cave;H.cave
+Troglo;Bl006;yes;Blattaria;Hexapoda;Loboptera_ombriosa;Loboptera ombriosa Martín & Izquierdo, 1987;H;H;Gallego (El Pinar) MSS, Hoya del;HM07;mss;HM07.mss;H.mss;H.mss
+Troglo;Bl006;yes;Blattaria;Hexapoda;Loboptera_ombriosa;Loboptera ombriosa Martín & Izquierdo, 1987;H;H;Gramales MSS, Los;HM09;mss;HM09.mss;H.mss;H.mss
+Troglo;Bl006;yes;Blattaria;Hexapoda;Loboptera_ombriosa;Loboptera ombriosa Martín & Izquierdo, 1987;H;H;Gretime MSS, El;HM10;mss;HM10.mss;H.mss;H.mss
+Troglo;Bl006;yes;Blattaria;Hexapoda;Loboptera_ombriosa;Loboptera ombriosa Martín & Izquierdo, 1987;H;H;Guillén (El Pinar) MSS, Llano;HM11;mss;HM11.mss;H.mss;H.mss
+Troglo;Bl006;yes;Blattaria;Hexapoda;Loboptera_ombriosa;Loboptera ombriosa Martín & Izquierdo, 1987;H;H;Hoyo, Cueva del;HC05;cave;HC05.cave;H.cave;H.cave
+Troglo;Bl006;yes;Blattaria;Hexapoda;Loboptera_ombriosa;Loboptera ombriosa Martín & Izquierdo, 1987;H;H;Lajial, Cueva del;HC07;cave;HC07.cave;H.cave;H.cave
+Troglo;Bl006;yes;Blattaria;Hexapoda;Loboptera_ombriosa;Loboptera ombriosa Martín & Izquierdo, 1987;H;H;Linke, Cueva del;HC08;cave;HC08.cave;H.cave;H.cave
+Troglo;Bl006;yes;Blattaria;Hexapoda;Loboptera_ombriosa;Loboptera ombriosa Martín & Izquierdo, 1987;H;H;Lomo Blanco (El Golfo) MSS;HM12;mss;HM12.mss;H.mss;H.mss
+Troglo;Bl006;yes;Blattaria;Hexapoda;Loboptera_ombriosa;Loboptera ombriosa Martín & Izquierdo, 1987;H;H;Longueras, Cueva de;HC10;cave;HC10.cave;H.cave;H.cave
+Troglo;Bl006;yes;Blattaria;Hexapoda;Loboptera_ombriosa;Loboptera ombriosa Martín & Izquierdo, 1987;H;H;Mercader MSS;HM13;mss;HM13.mss;H.mss;H.mss
+Troglo;Bl006;yes;Blattaria;Hexapoda;Loboptera_ombriosa;Loboptera ombriosa Martín & Izquierdo, 1987;H;H;Moleras, Juaclo de las;HC12;cave;HC12.cave;H.cave;H.cave
+Troglo;Bl006;yes;Blattaria;Hexapoda;Loboptera_ombriosa;Loboptera ombriosa Martín & Izquierdo, 1987;H;H;Moreno MSS, Hoya;HM15;mss;HM15.mss;H.mss;H.mss
+Troglo;Bl006;yes;Blattaria;Hexapoda;Loboptera_ombriosa;Loboptera ombriosa Martín & Izquierdo, 1987;H;H;Palomas, Sima de las;HC13;cave;HC13.cave;H.cave;H.cave
+Troglo;Bl006;yes;Blattaria;Hexapoda;Loboptera_ombriosa;Loboptera ombriosa Martín & Izquierdo, 1987;H;H;Pocitos, Cueva de los;HC14;cave;HC14.cave;H.cave;H.cave
+Troglo;Bl006;yes;Blattaria;Hexapoda;Loboptera_ombriosa;Loboptera ombriosa Martín & Izquierdo, 1987;H;H;Pozos, Cueva de los;HC15;cave;HC15.cave;H.cave;H.cave
+Troglo;Bl007;yes;Blattaria;Hexapoda;Loboptera_penirobusta;Loboptera penirobusta Martín & Izquierdo, 1999;T;T;Labrada, Cueva;TC15;cave;TC15.cave;T.cave;T.cave
+Troglo;Bl007;yes;Blattaria;Hexapoda;Loboptera_penirobusta;Loboptera penirobusta Martín & Izquierdo, 1999;T;T;Mechas, Cueva de las (Agua García);TC16;cave;TC16.cave;T.cave;T.cave
+Troglo;Bl007;yes;Blattaria;Hexapoda;Loboptera_penirobusta;Loboptera penirobusta Martín & Izquierdo, 1999;T;T;Metra, Cueva del;TC17;cave;TC17.cave;T.cave;T.cave
+Troglo;Bl008;yes;Blattaria;Hexapoda;Loboptera_subterranea;Loboptera subterranea Martín & Oromí, 1987;T;T;Amparo (Icod) MSS, El;TM03;mss;TM03.mss;T.mss;T.mss
+Troglo;Bl008;yes;Blattaria;Hexapoda;Loboptera_subterranea;Loboptera subterranea Martín & Oromí, 1987;T;T;Candelaria, Cueva de la;TC04;cave;TC04.cave;T.cave;T.cave
+Troglo;Bl008;yes;Blattaria;Hexapoda;Loboptera_subterranea;Loboptera subterranea Martín & Oromí, 1987;T;T;Corredera Blanca (Icod) MSS;TM16;mss;TM16.mss;T.mss;T.mss
+Troglo;Bl008;yes;Blattaria;Hexapoda;Loboptera_subterranea;Loboptera subterranea Martín & Oromí, 1987;T;T;Era de las Fayas (Icod) MSS;TM18;mss;TM18.mss;T.mss;T.mss
+Troglo;Bl008;yes;Blattaria;Hexapoda;Loboptera_subterranea;Loboptera subterranea Martín & Oromí, 1987;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Bl008;yes;Blattaria;Hexapoda;Loboptera_subterranea;Loboptera subterranea Martín & Oromí, 1987;T;T;Hoya San Felipe, Cueva de la;TC14;cave;TC14.cave;T.cave;T.cave
+Troglo;Bl008;no;Blattaria;Hexapoda;Loboptera_subterranea;Loboptera subterranea Martín & Oromí, 1987;T;T;La Guancha MSS;-;mss;-.mss;T.mss;T.mss
+Troglo;Bl008;yes;Blattaria;Hexapoda;Loboptera_subterranea;Loboptera subterranea Martín & Oromí, 1987;T;T;Meleros (Garachico) MSS, Hoya;TM25;mss;TM25.mss;T.mss;T.mss
+Troglo;Bl008;yes;Blattaria;Hexapoda;Loboptera_subterranea;Loboptera subterranea Martín & Oromí, 1987;T;T;Montañeta Garachico MSS, La;TM26;mss;TM26.mss;T.mss;T.mss
+Troglo;Bl008;yes;Blattaria;Hexapoda;Loboptera_subterranea;Loboptera subterranea Martín & Oromí, 1987;T;T;Palomera (La Guancha) MSS, Hoya;TM29;mss;TM29.mss;T.mss;T.mss
+Troglo;Bl008;yes;Blattaria;Hexapoda;Loboptera_subterranea;Loboptera subterranea Martín & Oromí, 1987;T;T;Pinos (Icod) MSS, Hoya de los;TM34;mss;TM34.mss;T.mss;T.mss
+Troglo;Bl008;yes;Blattaria;Hexapoda;Loboptera_subterranea;Loboptera subterranea Martín & Oromí, 1987;T;T;Punto Blanco, Cueva de;TC22;cave;TC22.cave;T.cave;T.cave
+Troglo;Bl008;yes;Blattaria;Hexapoda;Loboptera_subterranea;Loboptera subterranea Martín & Oromí, 1987;T;T;Redondo MSS, Hoya de;TM36;mss;TM36.mss;T.mss;T.mss
+Troglo;Bl008;yes;Blattaria;Hexapoda;Loboptera_subterranea;Loboptera subterranea Martín & Oromí, 1987;T;T;San Felipe (Icod) MSS, Vista;TM38;mss;TM38.mss;T.mss;T.mss
+Troglo;Bl008;yes;Blattaria;Hexapoda;Loboptera_subterranea;Loboptera subterranea Martín & Oromí, 1987;T;T;San Marcos, Cueva de;TC26;cave;TC26.cave;T.cave;T.cave
+Troglo;Bl008;yes;Blattaria;Hexapoda;Loboptera_subterranea;Loboptera subterranea Martín & Oromí, 1987;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Bl009;yes;Blattaria;Hexapoda;Loboptera_teneguia;Loboptera teneguia Izquierdo & Martín, 1999;P;P;Cardos II (Laberintos), Cueva de;PC09;cave;PC09.cave;P.cave;P.cave
+Troglo;Bl009;yes;Blattaria;Hexapoda;Loboptera_teneguia;Loboptera teneguia Izquierdo & Martín, 1999;P;P;Cardos III, Cueva de los;PC10;cave;PC10.cave;P.cave;P.cave
+Troglo;Bl009;yes;Blattaria;Hexapoda;Loboptera_teneguia;Loboptera teneguia Izquierdo & Martín, 1999;P;P;Ceguera (San Juan), Cueva de la;PC12;cave;PC12.cave;P.cave;P.cave
+Troglo;Bl009;yes;Blattaria;Hexapoda;Loboptera_teneguia;Loboptera teneguia Izquierdo & Martín, 1999;P;P;Don Tomás (El Paso), Cueva de;PC18;cave;PC18.cave;P.cave;P.cave
+Troglo;Bl009;yes;Blattaria;Hexapoda;Loboptera_teneguia;Loboptera teneguia Izquierdo & Martín, 1999;P;P;Excavada (Rincón), Cueva;PC19;cave;PC19.cave;P.cave;P.cave
+Troglo;Bl009;yes;Blattaria;Hexapoda;Loboptera_teneguia;Loboptera teneguia Izquierdo & Martín, 1999;P;P;La Sabina, Cueva de;PC28;cave;PC28.cave;P.cave;P.cave
+Troglo;Bl009;yes;Blattaria;Hexapoda;Loboptera_teneguia;Loboptera teneguia Izquierdo & Martín, 1999;P;P;Llano de los Caños, Cueva del;PC31;cave;PC31.cave;P.cave;P.cave
+Troglo;Bl009;yes;Blattaria;Hexapoda;Loboptera_teneguia;Loboptera teneguia Izquierdo & Martín, 1999;P;P;Llano de los Cestos, Sima del;PC32;cave;PC32.cave;P.cave;P.cave
+Troglo;Bl009;yes;Blattaria;Hexapoda;Loboptera_teneguia;Loboptera teneguia Izquierdo & Martín, 1999;P;P;Luna MSS, Montes de;PM20;mss;PM20.mss;P.mss;P.mss
+Troglo;Bl009;yes;Blattaria;Hexapoda;Loboptera_teneguia;Loboptera teneguia Izquierdo & Martín, 1999;P;P;Machacadora, Cueva de la;PC34;cave;PC34.cave;P.cave;P.cave
+Troglo;Bl009;yes;Blattaria;Hexapoda;Loboptera_teneguia;Loboptera teneguia Izquierdo & Martín, 1999;P;P;Mña. del Pino (Arreboles), Cueva de;PC38;cave;PC38.cave;P.cave;P.cave
+Troglo;Bl009;yes;Blattaria;Hexapoda;Loboptera_teneguia;Loboptera teneguia Izquierdo & Martín, 1999;P;P;Palmeros, Cueva de los;PC42;cave;PC42.cave;P.cave;P.cave
+Troglo;Bl009;yes;Blattaria;Hexapoda;Loboptera_teneguia;Loboptera teneguia Izquierdo & Martín, 1999;P;P;Polvorín (Las Hiedras), Cueva del;PC44;cave;PC44.cave;P.cave;P.cave
+Troglo;Bl009;yes;Blattaria;Hexapoda;Loboptera_teneguia;Loboptera teneguia Izquierdo & Martín, 1999;P;P;Ratón, Cueva del;PC45;cave;PC45.cave;P.cave;P.cave
+Troglo;Bl009;yes;Blattaria;Hexapoda;Loboptera_teneguia;Loboptera teneguia Izquierdo & Martín, 1999;P;P;Riveros (Fuencaliente) MSS, Los;PM25;mss;PM25.mss;P.mss;P.mss
+Troglo;Bl009;yes;Blattaria;Hexapoda;Loboptera_teneguia;Loboptera teneguia Izquierdo & Martín, 1999;P;P;Salto de Tigalate, Cueva del;PC47;cave;PC47.cave;P.cave;P.cave
+Troglo;Bl009;yes;Blattaria;Hexapoda;Loboptera_teneguia;Loboptera teneguia Izquierdo & Martín, 1999;P;P;Sorprendidos, Cueva de los;PC50;cave;PC50.cave;P.cave;P.cave
+Troglo;Bl009;yes;Blattaria;Hexapoda;Loboptera_teneguia;Loboptera teneguia Izquierdo & Martín, 1999;P;P;Susi, Cueva de;PC51;cave;PC51.cave;P.cave;P.cave
+Troglo;Bl009;yes;Blattaria;Hexapoda;Loboptera_teneguia;Loboptera teneguia Izquierdo & Martín, 1999;P;P;Tacande, Cueva de;PC52;cave;PC52.cave;P.cave;P.cave
+Troglo;Bl009;yes;Blattaria;Hexapoda;Loboptera_teneguia;Loboptera teneguia Izquierdo & Martín, 1999;P;P;Tijaraferas (Barros, Barrial), Cueva de las;PC54;cave;PC54.cave;P.cave;P.cave
+Troglo;Bl009;yes;Blattaria;Hexapoda;Loboptera_teneguia;Loboptera teneguia Izquierdo & Martín, 1999;P;P;Todoque, Cueva de;PC55;cave;PC55.cave;P.cave;P.cave
+Troglo;Bl009;yes;Blattaria;Hexapoda;Loboptera_teneguia;Loboptera teneguia Izquierdo & Martín, 1999;P;P;Virgen de Fátima, Cueva de la;PC57;cave;PC57.cave;P.cave;P.cave
+Troglo;Bl009;yes;Blattaria;Hexapoda;Loboptera_teneguia;Loboptera teneguia Izquierdo & Martín, 1999;P;P;Volcán Martín MSS;PM33;mss;PM33.mss;P.mss;P.mss
+Troglo;Bl010;yes;Blattaria;Hexapoda;Loboptera_tenoensis;Loboptera tenoensis Izquierdo & Martin, 1999;T;Tt;Cochinos MSS, Bco. de los;TM15;mss;TM15.mss;T.mss;Tt.mss
+Troglo;Bl011;yes;Blattaria;Hexapoda;Loboptera_troglobia;Loboptera troglobia Izquierdo & Martín, 1990;T;T;Bucio, Cueva del (Aguamansa);TC03;cave;TC03.cave;T.cave;T.cave
+Troglo;Bl011;yes;Blattaria;Hexapoda;Loboptera_troglobia;Loboptera troglobia Izquierdo & Martín, 1990;T;T;Fea de Arico, Cueva de;TC09;cave;TC09.cave;T.cave;T.cave
+Troglo;Bl011;yes;Blattaria;Hexapoda;Loboptera_troglobia;Loboptera troglobia Izquierdo & Martín, 1990;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Bl011;yes;Blattaria;Hexapoda;Loboptera_troglobia;Loboptera troglobia Izquierdo & Martín, 1990;T;T;Grande de Chío, Cueva;TC11;cave;TC11.cave;T.cave;T.cave
+Troglo;Bl011;yes;Blattaria;Hexapoda;Loboptera_troglobia;Loboptera troglobia Izquierdo & Martín, 1990;T;T;Mulo, Cueva del;TC18;cave;TC18.cave;T.cave;T.cave
+Troglo;Bl011;yes;Blattaria;Hexapoda;Loboptera_troglobia;Loboptera troglobia Izquierdo & Martín, 1990;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Bl012;yes;Blattaria;Hexapoda;Symploce_microphthalma;Symploce microphthalma Izquierdo & Medina, 1993;C;C;Arrepentidos, Cueva de;CC02;cave;CC02.cave;C.cave;C.cave
+Troglo;Bl012;yes;Blattaria;Hexapoda;Symploce_microphthalma;Symploce microphthalma Izquierdo & Medina, 1999;C;C;Fataga, Mina de;CC08;cave;CC08.cave;C.cave;C.cave
+Troglo;Bl012;yes;Blattaria;Hexapoda;Symploce_microphthalma;Symploce microphthalma Izquierdo & Medina, 1992;C;C;Luna, Cueva de la;CC12;cave;CC12.cave;C.cave;C.cave
+Troglo;Bl012;yes;Blattaria;Hexapoda;Symploce_microphthalma;Symploce microphthalma Izquierdo & Medina, 2002;C;C;Tirajana-Degollada de Rociana MSS, Pinar de;CM09;mss;CM09.mss;C.mss;C.mss
+Troglo;Bl013;yes;Blattaria;Hexapoda;Symploce_nsp1;Symploce n. sp. 1;C;C;Berrazales MSS, Los;CM01;mss;CM01.mss;C.mss;C.mss
+Troglo;Bl014;yes;Blattaria;Hexapoda;Symploce_nsp2;Symploce n. sp. 2 anoftalma;C;C;Clérigos, Cueva de los (Ingenio);CC10;cave;CC10.cave;C.cave;C.cave
+Troglo;Bl015;yes;Blattaria;Hexapoda;Symploce_nsp3;Symploce n. sp. 3;C;C;Ancones, Galería de;CC01;cave;CC01.cave;C.cave;C.cave
+Troglo;Bl015;yes;Blattaria;Hexapoda;Symploce_nsp3;Symploce n. sp. 3;C;C;Casa de Job MSS (Andén Verde);CM02;mss;CM02.mss;C.mss;C.mss
+Troglo;Bl016;yes;Blattaria;Hexapoda;Symploce_nsp2;Symploce n. sp. 4 (anoftalma y oculada);C;C;Aslobas, Cueva de;CC03;cave;CC03.cave;C.cave;C.cave
+Troglo;Bl016;yes;Blattaria;Hexapoda;Symploce_nsp4;Symploce n. sp. 4;C;C;Tasarte, Mina de;CC16;cave;CC16.cave;C.cave;C.cave
+Troglo;Bl017;yes;Blattaria;Hexapoda;Symploce_nsp5;Symploce n. sp. 5;C;C;Azuaje, Mina de;CC04;cave;CC04.cave;C.cave;C.cave
+Troglo;Bl017;yes;Blattaria;Hexapoda;Symploce_nsp5;Symploce n. sp. 5;C;C;Bebeideja, Mina de;CC05;cave;CC05.cave;C.cave;C.cave
+Troglo;Bl017;yes;Blattaria;Hexapoda;Symploce_nsp5;Symploce n. sp. 5;C;C;Bucios, Cueva de los (Marteles);CC06;cave;CC06.cave;C.cave;C.cave
+Troglo;Bl017;yes;Blattaria;Hexapoda;Symploce_nsp5;Symploce n. sp. 5;C;C;Draguillo MSS, Bco. del;CM03;mss;CM03.mss;C.mss;C.mss
+Troglo;Bl017;yes;Blattaria;Hexapoda;Symploce_nsp5;Symploce n. sp. 5;C;C;Federica, Mina la;CC09;cave;CC09.cave;C.cave;C.cave
+Troglo;Bl017;yes;Blattaria;Hexapoda;Symploce_nsp5;Symploce n. sp. 5;C;C;Llanetes, Mina de los (Valsequillo);CC11;cave;CC11.cave;C.cave;C.cave
+Troglo;Bl017;yes;Blattaria;Hexapoda;Symploce_nsp5;Symploce n. sp. 5;C;C;Majaletes MSS, Los;CM04;mss;CM04.mss;C.mss;C.mss
+Troglo;Bl017;yes;Blattaria;Hexapoda;Symploce_nsp5;Symploce n. sp. 5;C;C;Marteles MSS, Caldera de los;CM05;mss;CM05.mss;C.mss;C.mss
+Troglo;Bl017;yes;Blattaria;Hexapoda;Symploce_sp.;Symploce cf sp. 5 (1 ninfa);C;C;Oscuro MSS, Barranco;CM06;mss;CM06.mss;C.mss;C.mss
+Troglo;Bl017;yes;Blattaria;Hexapoda;Symploce_nsp5;Symploce n. sp. 5;C;C;Roques, Mina de los (Tenteniguada);CC15;cave;CC15.cave;C.cave;C.cave
+Troglo;Ch001;yes;Chilopoda;Myriapoda;Cryptops_vulcanicus;Cryptops vulcanicus Zapparoli, 1990;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Ch001;yes;Chilopoda;Myriapoda;Cryptops_vulcanicus;Cryptops vulcanicus Zapparoli, 1990;T;T;Grande de Chío, Cueva;TC11;cave;TC11.cave;T.cave;T.cave
+Troglo;Ch002;yes;Chilopoda;Myriapoda;Lithobius_speleovulcanus;Lithobius speleovulcanus Serra, 1984;T;T;Bucio, Cueva del (Aguamansa);TC03;cave;TC03.cave;T.cave;T.cave
+Troglo;Ch002;yes;Chilopoda;Myriapoda;Lithobius_speleovulcanus;Lithobius speleovulcanus Serra, 1984;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Ch002;yes;Chilopoda;Myriapoda;Lithobius_speleovulcanus;Lithobius speleovulcanus Serra, 1984;T;T;Grande de Chío, Cueva;TC11;cave;TC11.cave;T.cave;T.cave
+Troglo;Ch002;yes;Chilopoda;Myriapoda;Lithobius_speleovulcanus;Lithobius speleovulcanus Serra, 1984;T;T;Labrada, Cueva;TC15;cave;TC15.cave;T.cave;T.cave
+Troglo;Ch002;yes;Chilopoda;Myriapoda;Lithobius_speleovulcanus;Lithobius speleovulcanus Serra, 1984;T;T;Lajas (Vilaflor) MSS, Las;TM22;mss;TM22.mss;T.mss;T.mss
+Troglo;Ch002;yes;Chilopoda;Myriapoda;Lithobius_speleovulcanus;Lithobius speleovulcanus Serra, 1984;T;T;Pegueros (Vilaflor) MSS, Lomo de los;TM32;mss;TM32.mss;T.mss;T.mss
+Troglo;Ch002;yes;Chilopoda;Myriapoda;Lithobius_speleovulcanus;Lithobius speleovulcanus Serra, 1984;T;T;Roques, Cueva de los;TC25;cave;TC25.cave;T.cave;T.cave
+Troglo;Ch002;yes;Chilopoda;Myriapoda;Lithobius_speleovulcanus;Lithobius speleovulcanus Serra, 1984;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Co001;yes;Coleoptera;Hexapoda;Alevonota_canariensis;Alevonota canariensis (Oromí & Martín, 1984);T;T;Blanca MSS, Montaña;TM10;mss;TM10.mss;T.mss;T.mss
+Troglo;Co001;yes;Coleoptera;Hexapoda;Alevonota_canariensis;Alevonota canariensis (Oromí & Martín, 1984);T;T;Grande de Chío, Cueva;TC11;cave;TC11.cave;T.cave;T.cave
+Troglo;Co001;yes;Coleoptera;Hexapoda;Alevonota_canariensis;Alevonota canariensis (Oromí & Martín, 1984);T;T;Helechos, Sima de los;TC12;cave;TC12.cave;T.cave;T.cave
+Troglo;Co001;yes;Coleoptera;Hexapoda;Alevonota_canariensis;Alevonota canariensis (Oromí & Martín, 1984);T;T;Mulo, Cueva del;TC18;cave;TC18.cave;T.cave;T.cave
+Troglo;Co001;yes;Coleoptera;Hexapoda;Alevonota_canariensis;Alevonota canariensis (Oromí & Martín, 1984);T;T;Negras, Cuevas;TC19;cave;TC19.cave;T.cave;T.cave
+Troglo;Co001;yes;Coleoptera;Hexapoda;Alevonota_canariensis;Alevonota canariensis (Oromí & Martín, 1984);T;T;Roques Superior 1, Cueva de los;TC24;cave;TC24.cave;T.cave;T.cave
+Troglo;Co001;yes;Coleoptera;Hexapoda;Alevonota_canariensis;Alevonota canariensis (Oromí & Martín, 1984);T;T;Roques, Cueva de los;TC25;cave;TC25.cave;T.cave;T.cave
+Troglo;Co001;yes;Coleoptera;Hexapoda;Alevonota_canariensis;Alevonota canariensis (Oromí & Martín, 1984);T;T;Volcán de Fasnia tephra;TM20;mss;TM20.mss;T.mss;T.mss
+Troglo;Co002;yes;Coleoptera;Hexapoda;Alevonota_sp1;Alevonota cf hephaestos (sp. 1?);P;P;Altaguna, Cueva de;PC01;cave;PC01.cave;P.cave;P.cave
+Troglo;Co002;yes;Coleoptera;Hexapoda;Alevonota_sp1;Alevonota cf hephaestos (sp. 1?);P;P;Bco. de los Guanches (El Paso), Cueva del;PC05;cave;PC05.cave;P.cave;P.cave
+Troglo;Co002;yes;Coleoptera;Hexapoda;Alevonota_hephaestos;Alevonota hephaestos (Hernández & García, 1989)        ;P;P;Diablo (Breña Baja), Cueva del ;PC17;cave;PC17.cave;P.cave;P.cave
+Troglo;Co002;yes;Coleoptera;Hexapoda;Alevonota_hephaestos;Alevonota hephaestos (Hernández & García, 1989)        ;P;P;Espinel (Breña Alta) MSS, Ladera;PM06;mss;PM06.mss;P.mss;P.mss
+Troglo;Co002;yes;Coleoptera;Hexapoda;Alevonota_hephaestos;Alevonota hephaestos (Hernández & García, 1989)        ;P;P;La Galga MSS, Cubo de;PM14;mss;PM14.mss;P.mss;P.mss
+Troglo;Co002;yes;Coleoptera;Hexapoda;Alevonota_hephaestos;Alevonota hephaestos (Hernández & García, 1989)        ;P;P;Palmeros, Cueva de los;PC42;cave;PC42.cave;P.cave;P.cave
+Troglo;Co002;yes;Coleoptera;Hexapoda;Alevonota_hephaestos;Alevonota hephaestos (Hernández & García, 1989)        ;P;P;Salto de Tigalate, Cueva del;PC47;cave;PC47.cave;P.cave;P.cave
+Troglo;Co003;yes;Coleoptera;Hexapoda;Alevonota_hierroensis;Alevonota hierroensis Assing & Wunderle, 2008;H;H;Longueras, Cueva de;HC10;cave;HC10.cave;H.cave;H.cave
+Troglo;Co004;yes;Coleoptera;Hexapoda;Alevonota_junoniae;Alevonota junoniae Hernández & Martín, 1990;P;P;Asomada Alta, Furna de la;PC04;cave;PC04.cave;P.cave;P.cave
+Troglo;Co004;yes;Coleoptera;Hexapoda;Alevonota_junoniae;Alevonota junoniae Hernández & Martín, 1990;P;P;Crucita, Cueva de la;PC14;cave;PC14.cave;P.cave;P.cave
+Troglo;Co004;yes;Coleoptera;Hexapoda;Alevonota_junoniae;Alevonota junoniae Hernández & Martín, 1990;P;P;Diablo de Barlovento, Cueva del;PC16;cave;PC16.cave;P.cave;P.cave
+Troglo;Co004;yes;Coleoptera;Hexapoda;Alevonota_junoniae;Alevonota junoniae Hernández & Martín, 1990;P;P;La Grilla, Cueva de la;PC24;cave;PC24.cave;P.cave;P.cave
+Troglo;Co004;yes;Coleoptera;Hexapoda;Alevonota_junoniae;Alevonota junoniae Hernández & Martín, 1990;P;P;Llano de los Caños, Cueva del;PC31;cave;PC31.cave;P.cave;P.cave
+Troglo;Co004;yes;Coleoptera;Hexapoda;Alevonota_junoniae;Alevonota junoniae Hernández & Martín, 1990;P;P;Martín, Búcaro del;PC36;cave;PC36.cave;P.cave;P.cave
+Troglo;Co005;yes;Coleoptera;Hexapoda;Alevonota_oromii;Alevonota oromii Assing, 2002;T;Tt;Cochinos MSS, Bco. de los;TM15;mss;TM15.mss;T.mss;Tt.mss
+Troglo;Co005;yes;Coleoptera;Hexapoda;Alevonota_oromii;Alevonota oromii Assing, 2002;T;T;Palo Blanco MSS;TM28;mss;TM28.mss;T.mss;T.mss
+Troglo;Co005;yes;Coleoptera;Hexapoda;Alevonota_oromii;Alevonota oromii Assing, 2002;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Co006;yes;Coleoptera;Hexapoda;Alevonota_outereloi;Alevonota outereloi (Gamarra & Hernández, 1989);T;T;Bucio, Cueva del (Aguamansa);TC03;cave;TC03.cave;T.cave;T.cave
+Troglo;Co006;yes;Coleoptera;Hexapoda;Alevonota_outereloi;Alevonota outereloi (Gamarra & Hernández, 1989);T;T;Grande de Chío, Cueva;TC11;cave;TC11.cave;T.cave;T.cave
+Troglo;Co006;yes;Coleoptera;Hexapoda;Alevonota_outereloi;Alevonota outereloi (Gamarra & Hernández, 1989);T;T;Helechos, Sima de los;TC12;cave;TC12.cave;T.cave;T.cave
+Troglo;Co006;yes;Coleoptera;Hexapoda;Alevonota_outereloi;Alevonota outereloi (Gamarra & Hernández, 1989);T;T;Mulo, Cueva del;TC18;cave;TC18.cave;T.cave;T.cave
+Troglo;Co006;yes;Coleoptera;Hexapoda;Alevonota_outereloi;Alevonota outereloi (Gamarra & Hernández, 1989);T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Co007;yes;Coleoptera;Hexapoda;Alevonota_tanausui;Alevonota tanausui (Hernández & Martín, 1990);P;P;Diablo de Barlovento, Cueva del;PC16;cave;PC16.cave;P.cave;P.cave
+Troglo;Co007;yes;Coleoptera;Hexapoda;Alevonota_tanausui;Alevonota tanausui (Hernández & Martín, 1990);P;P;Don Tomás (El Paso), Cueva de;PC18;cave;PC18.cave;P.cave;P.cave
+Troglo;Co007;yes;Coleoptera;Hexapoda;Alevonota_tanausui;Alevonota tanausui (Hernández & Martín, 1990);P;P;Fuente de la Canaria, Cueva;PC23;cave;PC23.cave;P.cave;P.cave
+Troglo;Co007;yes;Coleoptera;Hexapoda;Alevonota_tanausui;Alevonota tanausui (Hernández & Martín, 1990);P;P;La Galga MSS, Cubo de;PM14;mss;PM14.mss;P.mss;P.mss
+Troglo;Co007;yes;Coleoptera;Hexapoda;Alevonota_tanausui;Alevonota tanausui (Hernández & Martín, 1990);P;P;La Tosca (Honda Gallegos), Cueva de;PC29;cave;PC29.cave;P.cave;P.cave
+Troglo;Co007;yes;Coleoptera;Hexapoda;Alevonota_tanausui;Alevonota tanausui (Hernández & Martín, 1990);P;P;Milagros, Cueva de los;PC37;cave;PC37.cave;P.cave;P.cave
+Troglo;Co007;yes;Coleoptera;Hexapoda;Alevonota_tanausui;Alevonota tanausui (Hernández & Martín, 1990);P;P;Mña. del Pino (Arreboles), Cueva de;PC38;cave;PC38.cave;P.cave;P.cave
+Troglo;Co007;yes;Coleoptera;Hexapoda;Alevonota_tanausui;Alevonota tanausui (Hernández & Martín, 1990);P;P;Palmeros, Cueva de los;PC42;cave;PC42.cave;P.cave;P.cave
+Troglo;Co007;yes;Coleoptera;Hexapoda;Alevonota_tanausui;Alevonota tanausui (Hernández & Martín, 1990);P;P;Pilón (La Galga), Furna del;PC43;cave;PC43.cave;P.cave;P.cave
+Troglo;Co007;yes;Coleoptera;Hexapoda;Alevonota_tanausui;Alevonota tanausui (Hernández & Martín, 1990);P;P;Ratón, Cueva del;PC45;cave;PC45.cave;P.cave;P.cave
+Troglo;Co007;yes;Coleoptera;Hexapoda;Alevonota_tanausui;Alevonota tanausui (Hernández & Martín, 1990);P;P;Salto de Tigalate, Cueva del;PC47;cave;PC47.cave;P.cave;P.cave
+Troglo;Co007;yes;Coleoptera;Hexapoda;Alevonota_tanausui;Alevonota tanausui (Hernández & Martín, 1990);P;P;Salvatierra, Cueva de;PC48;cave;PC48.cave;P.cave;P.cave
+Troglo;Co007;yes;Coleoptera;Hexapoda;Alevonota_tanausui;Alevonota tanausui (Hernández & Martín, 1990);P;P;Todoque, Cueva de;PC55;cave;PC55.cave;P.cave;P.cave
+Troglo;Co007;yes;Coleoptera;Hexapoda;Alevonota_tanausui;Alevonota tanausui (Hernández & Martín, 1990);P;P;Virgen de Fátima, Cueva de la;PC57;cave;PC57.cave;P.cave;P.cave
+Troglo;Co008;yes;Coleoptera;Hexapoda;Anophthalmolamus_sp.;Anophthalmolamus fuerteventurae Ferrer, 1993;F;F;Cavadero, Morro del (soil);FM02;mss;FM02.mss;F.mss;F.mss
+Troglo;Co009;yes;Coleoptera;Hexapoda;Anophthalmolamus_sp.;Anophthalmolamus sp. 1;F;F;Pico de la Zarza, Camino del;FM01;mss;FM01.mss;F.mss;F.mss
+Troglo;Co010;yes;Coleoptera;Hexapoda;Anophthalmolamus_sp.;Anophthalmolamus sp. 2;C;C;Draguillo MSS, Bco. del;CM03;mss;CM03.mss;C.mss;C.mss
+Troglo;Co011;yes;Coleoptera;Hexapoda;Baezia_aranfaibo;Baezia aranfaibo García & López, 2020;H;H;Longueras, Cueva de;HC10;cave;HC10.cave;H.cave;H.cave
+Troglo;Co012;yes;Coleoptera;Hexapoda;Baezia_bimbache;Baezia bimbache García & López, 2007;H;H;Curva, Cueva de la;HC01;cave;HC01.cave;H.cave;H.cave
+Troglo;Co013;yes;Coleoptera;Hexapoda;Baezia_madai;Baezia madai García & Oromí, 2020 ;P;P;Tijaraferas (Barros, Barrial), Cueva de las;PC54;cave;PC54.cave;P.cave;P.cave
+Troglo;Co014;yes;Coleoptera;Hexapoda;Baezia_martini;Baezia martini García, 2003;P;P;Cáscaras, Cueva de las;PC11;cave;PC11.cave;P.cave;P.cave
+Troglo;Co014;yes;Coleoptera;Hexapoda;Baezia_martini;Baezia martini García, 2003;P;P;Mamona, Cueva de la;PC35;cave;PC35.cave;P.cave;P.cave
+Troglo;Co015;yes;Coleoptera;Hexapoda;Baezia_tizziri;Baezia tizziri García & Andújar, 2020 ;P;P;Fajana de Franceses, Cueva de la;PC20;cave;PC20.cave;P.cave;P.cave
+Troglo;Co015;yes;Coleoptera;Hexapoda;Baezia_tizziri;Baezia tizziri García & Andújar, 2020 ;P;P;Hombres (Garafía) MSS, Bco. de los;PM11;mss;PM11.mss;P.mss;P.mss
+Troglo;Co016;yes;Coleoptera;Hexapoda;Baezia_vulcania;Baezia vulcania Zarazaga & García, 2002;P;P;Callejones, Cueva de los;PC06;cave;PC06.cave;P.cave;P.cave
+Troglo;Co016;yes;Coleoptera;Hexapoda;Baezia_vulcania;Baezia vulcania Zarazaga & García, 2002;P;P;Canalizo A (Jedey), Cueva del;PC08;cave;PC08.cave;P.cave;P.cave
+Troglo;Co016;yes;Coleoptera;Hexapoda;Baezia_vulcania;Baezia vulcania Zarazaga & García, 2002;P;P;Diablo (Breña Baja), Cueva del ;PC17;cave;PC17.cave;P.cave;P.cave
+Troglo;Co016;yes;Coleoptera;Hexapoda;Baezia_vulcania;Baezia vulcania Zarazaga & García, 2002;P;P;Palmeros, Cueva de los;PC42;cave;PC42.cave;P.cave;P.cave
+Troglo;Co016;yes;Coleoptera;Hexapoda;Baezia_vulcania;Baezia vulcania Zarazaga & García, 2002;P;P;Ratón, Cueva del;PC45;cave;PC45.cave;P.cave;P.cave
+Troglo;Co016;yes;Coleoptera;Hexapoda;Baezia_vulcania;Baezia vulcania Zarazaga & García, 2002;P;P;Torreta de Tacande, Cueva de la;PC56;cave;PC56.cave;P.cave;P.cave
+Troglo;Co017;yes;Coleoptera;Hexapoda;Baezia_nsp1;Baezia n. sp. 1;H;H;Guinea, Sima de;HC04;cave;HC04.cave;H.cave;H.cave
+Troglo;Co018;yes;Coleoptera;Hexapoda;Calathidius_brevithorax;Calathidius brevithorax Machado, 1992 ;T;T;Grande de Chío, Cueva;TC11;cave;TC11.cave;T.cave;T.cave
+Troglo;Co018;yes;Coleoptera;Hexapoda;Calathidius_brevithorax;Calathidius brevithorax Machado, 1992 ;T;T;Palomera (La Guancha) MSS, Hoya;TM29;mss;TM29.mss;T.mss;T.mss
+Troglo;Co019;yes;Coleoptera;Hexapoda;Canarobius_chusyae;Canarobius oromii Machado, 1987 ;T;T;Bucio, Cueva del (Aguamansa);TC03;cave;TC03.cave;T.cave;T.cave
+Troglo;Co019;yes;Coleoptera;Hexapoda;Canarobius_chusyae;Canarobius oromii Machado, 1987 ;T;T;Roques, Cueva de los;TC25;cave;TC25.cave;T.cave;T.cave
+Troglo;Co020;yes;Coleoptera;Hexapoda;Canarobius_chusyae;Canarobius chusyae Machado, 1987 ;T;T;Bucio, Cueva del (Aguamansa);TC03;cave;TC03.cave;T.cave;T.cave
+Troglo;Co020;yes;Coleoptera;Hexapoda;Canarobius_chusyae;Canarobius chusyae Machado, 1987 ;T;T;Labrada, Cueva;TC15;cave;TC15.cave;T.cave;T.cave
+Troglo;Co020;yes;Coleoptera;Hexapoda;Canarobius_chusyae;Canarobius chusyae Machado, 1987 ;T;T;Mechas, Cueva de las (Agua García);TC16;cave;TC16.cave;T.cave;T.cave
+Troglo;Co021;yes;Coleoptera;Hexapoda;Gietopus_martini;Gietopus martini (Machado, 1984) ;T;T;Agua (Güímar) MSS, Bco. del ;TM01;mss;TM01.mss;T.mss;T.mss
+Troglo;Co021;yes;Coleoptera;Hexapoda;Gietopus_martini;Gietopus martini (Machado, 1984) ;T;T;Bco. de la Arena, Cueva del;TC02;cave;TC02.cave;T.cave;T.cave
+Troglo;Co021;yes;Coleoptera;Hexapoda;Gietopus_martini;Gietopus martini (Machado, 1984) ;T;T;Blanca MSS, Montaña;TM10;mss;TM10.mss;T.mss;T.mss
+Troglo;Co021;yes;Coleoptera;Hexapoda;Gietopus_martini;Gietopus martini (Machado, 1984) ;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Co021;yes;Coleoptera;Hexapoda;Gietopus_martini;Gietopus martini (Machado, 1984) ;T;T;Grande de Chío, Cueva;TC11;cave;TC11.cave;T.cave;T.cave
+Troglo;Co021;yes;Coleoptera;Hexapoda;Gietopus_martini;Gietopus martini (Machado, 1984) ;T;T;Mallorquines (Izaña) MSS, Mña.;TM23;mss;TM23.mss;T.mss;T.mss
+Troglo;Co021;yes;Coleoptera;Hexapoda;Gietopus_martini;Gietopus martini (Machado, 1984) ;T;T;Mechas, Cueva de las (Agua García);TC16;cave;TC16.cave;T.cave;T.cave
+Troglo;Co021;yes;Coleoptera;Hexapoda;Gietopus_martini;Gietopus martini (Machado, 1984) ;T;T;Mulo, Cueva del;TC18;cave;TC18.cave;T.cave;T.cave
+Troglo;Co021;yes;Coleoptera;Hexapoda;Gietopus_martini;Gietopus martini (Machado, 1984) ;T;T;Negras, Cuevas;TC19;cave;TC19.cave;T.cave;T.cave
+Troglo;Co021;yes;Coleoptera;Hexapoda;Gietopus_martini;Gietopus martini (Machado, 1984) ;T;T;Perdiz, Sima de la;TC20;cave;TC20.cave;T.cave;T.cave
+Troglo;Co021;yes;Coleoptera;Hexapoda;Gietopus_martini;Gietopus martini (Machado, 1984) ;T;T;Roques, Cueva de los;TC25;cave;TC25.cave;T.cave;T.cave
+Troglo;Co021;yes;Coleoptera;Hexapoda;Gietopus_martini;Gietopus martini (Machado, 1984) ;T;T;Salto Frío (Izaña) MSS;TM37;mss;TM37.mss;T.mss;T.mss
+Troglo;Co021;yes;Coleoptera;Hexapoda;Gietopus_martini;Gietopus martini (Machado, 1984) ;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Agua (La Galga) MSS, Bco. del;PM01;mss;PM01.mss;P.mss;P.mss
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Arenal, Cueva del;PC03;cave;PC03.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Cardos II (Laberintos), Cueva de;PC09;cave;PC09.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Cardos III, Cueva de los;PC10;cave;PC10.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Cáscaras, Cueva de las;PC11;cave;PC11.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Ciro (Puntallana), Cueva de;PC13;cave;PC13.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Codezos (Garafía) MSS, Los;PM02;mss;PM02.mss;P.mss;P.mss
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Corral del Palo (Gallegos) MSS;PM04;mss;PM04.mss;P.mss;P.mss
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Crucita, Cueva de la;PC14;cave;PC14.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Cuchillo de Torres, Cueva del;PC15;cave;PC15.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Diablo (Breña Baja), Cueva del ;PC17;cave;PC17.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Don Tomás (El Paso), Cueva de;PC18;cave;PC18.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Espinel (Breña Alta) MSS, Ladera;PM06;mss;PM06.mss;P.mss;P.mss
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Excavada (Rincón), Cueva;PC19;cave;PC19.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Franceses-La Toleda MSS;PM07;mss;PM07.mss;P.mss;P.mss
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Franceses, Cueva de;PC22;cave;PC22.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Fuente de la Canaria, Cueva;PC23;cave;PC23.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Guago (Breña Alta) MSS, Lomo;PM09;mss;PM09.mss;P.mss;P.mss
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Hombres (Garafía) MSS, Bco. de los;PM11;mss;PM11.mss;P.mss;P.mss
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Honda de Miranda, Cueva;PC25;cave;PC25.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Honda del Bejenado, Cueva;PC26;cave;PC26.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Hoya Grande-Bco. del Fraile MSS;PM13;mss;PM13.mss;P.mss;P.mss
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Hoyo de la Sima;PC27;cave;PC27.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;La Sabina, Cueva de;PC28;cave;PC28.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;La Tosca (Honda Gallegos), Cueva de;PC29;cave;PC29.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;La Venta (Breña Baja) MSS, Mña. de la;PM16;mss;PM16.mss;P.mss;P.mss
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Las Breñas MSS, Alto de;PM17;mss;PM17.mss;P.mss;P.mss
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Las Lomadas, Buraca de;PC30;cave;PC30.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Llano de los Caños, Cueva del;PC31;cave;PC31.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Llano de los Cestos, Sima del;PC32;cave;PC32.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Luna MSS, Montes de;PM20;mss;PM20.mss;P.mss;P.mss
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;M.A.P.O. (San Juan), Cueva de;PC33;cave;PC33.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Machacadora, Cueva de la;PC34;cave;PC34.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Machines MSS, Lomo;PM21;mss;PM21.mss;P.mss;P.mss
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Mamona, Cueva de la;PC35;cave;PC35.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Martín, Búcaro del;PC36;cave;PC36.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Mastres MSS, Lomo de;PM22;mss;PM22.mss;P.mss;P.mss
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Mña. del Pino (Arreboles), Cueva de;PC38;cave;PC38.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Muerto (La Galga) MSS, Lomo;PM23;mss;PM23.mss;P.mss;P.mss
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Palmeros de Aguatavar, Cueva de los;PC41;cave;PC41.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Palmeros, Cueva de los;PC42;cave;PC42.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Pilón (La Galga), Furna del;PC43;cave;PC43.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Polvorín (Las Hiedras), Cueva del;PC44;cave;PC44.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Puntagorda Las Eras MSS;PM24;mss;PM24.mss;P.mss;P.mss
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Rincón I y II, Cuevas;PC46;cave;PC46.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Roque Faro MSS;PM26;mss;PM26.mss;P.mss;P.mss
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Salto de Tigalate, Cueva del;PC47;cave;PC47.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Salvatierra, Cueva de;PC48;cave;PC48.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;San Juan, Cueva VII del;PC49;cave;PC49.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Sorprendidos, Cueva de los;PC50;cave;PC50.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Susi, Cueva de;PC51;cave;PC51.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Tacande, Cueva de;PC52;cave;PC52.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Tamano MSS;PM28;mss;PM28.mss;P.mss;P.mss
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Tamarahoya I, Cueva de;PC53;cave;PC53.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Tijaraferas (Barros, Barrial), Cueva de las;PC54;cave;PC54.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Tiseras (La Galga) MSS, Lomo;PM31;mss;PM31.mss;P.mss;P.mss
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Vaqueros (Llano Negro) MSS;PM32;mss;PM32.mss;P.mss;P.mss
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Virgen de Fátima, Cueva de la;PC57;cave;PC57.cave;P.cave;P.cave
+Troglo;Co022;yes;Coleoptera;Hexapoda;Licinopsis_angustula;Licinopsis angustula Machado, 1987;P;P;Volcán Martín MSS;PM33;mss;PM33.mss;P.mss;P.mss
+Troglo;Co023;yes;Coleoptera;Hexapoda;Licinopsis_schurmanni;Licinopsis schurmanni Machado, 1987;H;H;Fileba, Cueva de;HC03;cave;HC03.cave;H.cave;H.cave
+Troglo;Co023;yes;Coleoptera;Hexapoda;Licinopsis_schurmanni;Licinopsis schurmanni Machado, 1987;H;H;Gallego (El Pinar) MSS, Hoya del;HM07;mss;HM07.mss;H.mss;H.mss
+Troglo;Co023;yes;Coleoptera;Hexapoda;Licinopsis_schurmanni;Licinopsis schurmanni Machado, 1987;H;H;Guillén (El Pinar) MSS, Llano;HM11;mss;HM11.mss;H.mss;H.mss
+Troglo;Co023;yes;Coleoptera;Hexapoda;Licinopsis_schurmanni;Licinopsis schurmanni Machado, 1987;H;H;Jinama, Cueva de;HC06;cave;HC06.cave;H.cave;H.cave
+Troglo;Co023;yes;Coleoptera;Hexapoda;Licinopsis_schurmanni;Licinopsis schurmanni Machado, 1987;H;H;Mercader MSS;HM13;mss;HM13.mss;H.mss;H.mss
+Troglo;Co023;yes;Coleoptera;Hexapoda;Licinopsis_schurmanni;Licinopsis schurmanni Machado, 1987;H;H;Mocán, Cueva del;HC11;cave;HC11.cave;H.cave;H.cave
+Troglo;Co023;yes;Coleoptera;Hexapoda;Licinopsis_schurmanni;Licinopsis schurmanni Machado, 1987;H;H;Moleras, Juaclo de las;HC12;cave;HC12.cave;H.cave;H.cave
+Troglo;Co023;yes;Coleoptera;Hexapoda;Licinopsis_schurmanni;Licinopsis schurmanni Machado, 1987;H;H;Montañetas MSS, Las;HM14;mss;HM14.mss;H.mss;H.mss
+Troglo;Co023;yes;Coleoptera;Hexapoda;Licinopsis_schurmanni;Licinopsis schurmanni Machado, 1987;H;H;Pozos, Cueva de los;HC15;cave;HC15.cave;H.cave;H.cave
+Troglo;Co024;yes;Coleoptera;Hexapoda;Lymnastis_gaudini;Lymnastis gaudini gaudini Jeannel ;T;Ta;Bicora (Anaga) MSS, Degollada de;TM08;mss;TM08.mss;T.mss;Ta.mss
+Troglo;Co024;yes;Coleoptera;Hexapoda;Lymnastis_gaudini;Lymnastis gaudini gaudini Jeannel  ;T;T;Labrada, Cueva;TC15;cave;TC15.cave;T.cave;T.cave
+Troglo;Co025;yes;Coleoptera;Hexapoda;Lymnastis_gaudini;Lymnastis gaudini gomerae Franz ;G;G;Meriga MSS;GM05;mss;GM05.mss;G.mss;G.mss
+Troglo;Co025;yes;Coleoptera;Hexapoda;Lymnastis_gaudini;Lymnastis gaudini gomerae Franz ;G;G;Quemada MSS, Mña.;GM06;mss;GM06.mss;G.mss;G.mss
+Troglo;Co025;yes;Coleoptera;Hexapoda;Lymnastis_gaudini;Lymnastis gaudini gomerae Franz ;G;G;Reventón Oscuro MSS;GM07;mss;GM07.mss;G.mss;G.mss
+Troglo;Co026;yes;Coleoptera;Hexapoda;Lymnastis_subovatus;Lymnastis subovatus Machado, 1992;T;T;Blanca MSS, Montaña;TM10;mss;TM10.mss;T.mss;T.mss
+Troglo;Co026;yes;Coleoptera;Hexapoda;Lymnastis_subovatus;Lymnastis subovatus Machado, 1992;T;T;Chiquero (PN Teide) tephra;TM14;mss;TM14.mss;T.mss;T.mss
+Troglo;Co026;yes;Coleoptera;Hexapoda;Lymnastis_subovatus;Lymnastis subovatus Machado, 1992;T;Tt;Cochinos MSS, Bco. de los;TM15;mss;TM15.mss;T.mss;Tt.mss
+Troglo;Co026;yes;Coleoptera;Hexapoda;Lymnastis_subovatus;Lymnastis subovatus Machado, 1992;T;T;Cruz de Tea tephra;TM17;mss;TM17.mss;T.mss;T.mss
+Troglo;Co026;yes;Coleoptera;Hexapoda;Lymnastis_subovatus;Lymnastis subovatus Machado, 1992;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Co026;yes;Coleoptera;Hexapoda;Lymnastis_subovatus;Lymnastis subovatus Machado, 1992;T;T;Mancha Ruana tephra;TM24;mss;TM24.mss;T.mss;T.mss
+Troglo;Co026;yes;Coleoptera;Hexapoda;Lymnastis_subovatus;Lymnastis subovatus Machado, 1992;T;T;Negras MSS, Cuevas;TM27;mss;TM27.mss;T.mss;T.mss
+Troglo;Co026;yes;Coleoptera;Hexapoda;Lymnastis_subovatus;Lymnastis subovatus Machado, 1992;T;T;Roques Superior 1, Cueva de los;TC24;cave;TC24.cave;T.cave;T.cave
+Troglo;Co026;yes;Coleoptera;Hexapoda;Lymnastis_subovatus;Lymnastis subovatus Machado, 1992;T;T;Roques, Cueva de los;TC25;cave;TC25.cave;T.cave;T.cave
+Troglo;Co026;yes;Coleoptera;Hexapoda;Lymnastis_subovatus;Lymnastis subovatus Machado, 1992;T;T;Salto Frío (Izaña) MSS;TM37;mss;TM37.mss;T.mss;T.mss
+Troglo;Co026;yes;Coleoptera;Hexapoda;Lymnastis_subovatus;Lymnastis subovatus Machado, 1992;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Co026;yes;Coleoptera;Hexapoda;Lymnastis_subovatus;Lymnastis subovatus Machado, 1992;T;T;Volcán de Fasnia tephra;TM20;mss;TM20.mss;T.mss;T.mss
+Troglo;Co027;yes;Coleoptera;Hexapoda;Lymnastis_thoracicus;Lymnastis thoracicus Machado, 1992;T;T;Blanca MSS, Montaña;TM10;mss;TM10.mss;T.mss;T.mss
+Troglo;Co027;yes;Coleoptera;Hexapoda;Lymnastis_thoracicus;Lymnastis thoracicus Machado, 1992;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Co027;yes;Coleoptera;Hexapoda;Lymnastis_thoracicus;Lymnastis thoracicus Machado, 1992;T;T;Mancha Ruana tephra;TM24;mss;TM24.mss;T.mss;T.mss
+Troglo;Co027;yes;Coleoptera;Hexapoda;Lymnastis_thoracicus;Lymnastis thoracicus Machado, 1992;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Co028;yes;Coleoptera;Hexapoda;Lymnastis_nsp1;Lymnastis n. sp.1;H;H;Curva, Cueva de la;HC01;cave;HC01.cave;H.cave;H.cave
+Troglo;Co028;yes;Coleoptera;Hexapoda;Lymnastis_nsp1;Lymnastis n. sp.1;H;H;Don Justo, Cueva de;HC02;cave;HC02.cave;H.cave;H.cave
+Troglo;Co028;yes;Coleoptera;Hexapoda;Lymnastis_nsp1;Lymnastis n. sp.1;H;H;Lajial, Cueva del;HC07;cave;HC07.cave;H.cave;H.cave
+Troglo;Co029;yes;Coleoptera;Hexapoda;Lymnastis_nsp2;Lymnastis n. sp.2;P;P;Pilón (La Galga), Furna del;PC43;cave;PC43.cave;P.cave;P.cave
+Troglo;Co030;yes;Coleoptera;Hexapoda;Lymnastis_nsp3;Lymnastis n. sp.3 ;C;C;Llanetes, Mina de los (Valsequillo);CC11;cave;CC11.cave;C.cave;C.cave
+Troglo;Co031;yes;Coleoptera;Hexapoda;Lymnastis_nsp4;Lymnastis n. sp.4;C;C;Marteles MSS, Caldera de los;CM05;mss;CM05.mss;C.mss;C.mss
+Troglo;Co032;yes;Coleoptera;Hexapoda;Lymnastis_nsp5;Lymnastis n. sp.5;T;T;Eras MSS, Las;TM19;mss;TM19.mss;T.mss;T.mss
+Troglo;Co033;yes;Coleoptera;Hexapoda;Parazuphium_damascenum canariense;Parazuphium damascenum canariense Machado, 1992;T;T;Bajamar subsuelo;TM42;mss;TM42.mss;T.mss;T.mss
+Troglo;Co034;yes;Coleoptera;Hexapoda;Parazuphium_feloi;Parazuphium feloi Machado, 1997;P;P;Asomada Alta, Furna de la;PC04;cave;PC04.cave;P.cave;P.cave
+Troglo;Co034;yes;Coleoptera;Hexapoda;Parazuphium_feloi;Parazuphium feloi Machado, 1997;P;P;Hombres (Garafía) MSS, Bco. de los;PM11;mss;PM11.mss;P.mss;P.mss
+Troglo;Co034;yes;Coleoptera;Hexapoda;Parazuphium_feloi;Parazuphium feloi Machado, 1997;P;P;La Grilla, Cueva de la;PC24;cave;PC24.cave;P.cave;P.cave
+Troglo;Co034;yes;Coleoptera;Hexapoda;Parazuphium_feloi;Parazuphium feloi Machado, 1997;P;P;La Tosca (Honda Gallegos), Cueva de;PC29;cave;PC29.cave;P.cave;P.cave
+Troglo;Co034;yes;Coleoptera;Hexapoda;Parazuphium_feloi;Parazuphium feloi Machado, 1997;P;P;Las Lomadas, Buraca de;PC30;cave;PC30.cave;P.cave;P.cave
+Troglo;Co034;yes;Coleoptera;Hexapoda;Parazuphium_feloi;Parazuphium feloi Machado, 1997;P;P;Llano de los Caños, Cueva del;PC31;cave;PC31.cave;P.cave;P.cave
+Troglo;Co034;yes;Coleoptera;Hexapoda;Parazuphium_feloi;Parazuphium feloi Machado, 1997;P;P;Pilón (La Galga), Furna del;PC43;cave;PC43.cave;P.cave;P.cave
+Troglo;Co035;yes;Coleoptera;Hexapoda;Parazuphium_nsp;Parazuphium n.sp.;C;C;Federica, Mina la;CC09;cave;CC09.cave;C.cave;C.cave
+Troglo;Co035;yes;Coleoptera;Hexapoda;Parazuphium_nsp;Parazuphium n. sp.;C;C;Llanetes, Mina de los (Valsequillo);CC11;cave;CC11.cave;C.cave;C.cave
+Troglo;Co036;yes;Coleoptera;Hexapoda;Pseudoplatyderus_amblyops;Pseudoplatyderus amblyops Bolívar, 1940;G;G;Campamento Viejo MSS;GM02;mss;GM02.mss;G.mss;G.mss
+Troglo;Co036;yes;Coleoptera;Hexapoda;Pseudoplatyderus_amblyops;Pseudoplatyderus amblyops Bolívar, 1940;G;G;Helechos (Los Acebiños) MSS, Mña. los;GM04;mss;GM04.mss;G.mss;G.mss
+Troglo;Co036;yes;Coleoptera;Hexapoda;Pseudoplatyderus_amblyops;Pseudoplatyderus amblyops Bolívar, 1940;G;G;Meriga MSS;GM05;mss;GM05.mss;G.mss;G.mss
+Troglo;Co036;yes;Coleoptera;Hexapoda;Pseudoplatyderus_amblyops;Pseudoplatyderus amblyops Bolívar, 1940;G;G;Quemada MSS, Mña.;GM06;mss;GM06.mss;G.mss;G.mss
+Troglo;Co036;yes;Coleoptera;Hexapoda;Pseudoplatyderus_amblyops;Pseudoplatyderus amblyops Bolívar, 1940;G;G;Reventón Oscuro MSS;GM07;mss;GM07.mss;G.mss;G.mss
+Troglo;Co037;yes;Coleoptera;Hexapoda;Pseudoplatyderus_nsp;Pseudoplatyderus n.sp.;C;C;Federica, Mina la;CC09;cave;CC09.cave;C.cave;C.cave
+Troglo;Co038;yes;Coleoptera;Hexapoda;Spelaeovulcania_canariensis;Spelaeovulcania canariensis Machado, 1987 ;T;T;Chiguergue, Cueva de;TC07;cave;TC07.cave;T.cave;T.cave
+Troglo;Co038;yes;Coleoptera;Hexapoda;Spelaeovulcania_canariensis;Spelaeovulcania canariensis Machado, 1987 ;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Co038;yes;Coleoptera;Hexapoda;Spelaeovulcania_canariensis;Spelaeovulcania canariensis Machado, 1987 ;T;T;Labrada, Cueva;TC15;cave;TC15.cave;T.cave;T.cave
+Troglo;Co038;yes;Coleoptera;Hexapoda;Spelaeovulcania_canariensis;Spelaeovulcania canariensis Machado, 1987 ;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Co039;yes;Coleoptera;Hexapoda;Thalassophilus_subterraneus;Thalassophilus subterraneus Machado, 1990;P;P;Asomada Alta, Furna de la;PC04;cave;PC04.cave;P.cave;P.cave
+Troglo;Co039;yes;Coleoptera;Hexapoda;Thalassophilus_subterraneus;Thalassophilus subterraneus Machado, 1990;P;P;Diablo (Breña Baja), Cueva del ;PC17;cave;PC17.cave;P.cave;P.cave
+Troglo;Co039;yes;Coleoptera;Hexapoda;Thalassophilus_subterraneus;Thalassophilus subterraneus Machado, 1990;P;P;Fuente de la Canaria, Cueva;PC23;cave;PC23.cave;P.cave;P.cave
+Troglo;Co039;yes;Coleoptera;Hexapoda;Thalassophilus_subterraneus;Thalassophilus subterraneus Machado, 1990;P;P;La Galga MSS, Cubo de;PM14;mss;PM14.mss;P.mss;P.mss
+Troglo;Co039;yes;Coleoptera;Hexapoda;Thalassophilus_subterraneus;Thalassophilus subterraneus Machado, 1990;P;P;La Grilla, Cueva de la;PC24;cave;PC24.cave;P.cave;P.cave
+Troglo;Co039;yes;Coleoptera;Hexapoda;Thalassophilus_subterraneus;Thalassophilus subterraneus Machado, 1990;P;P;Las Lomadas, Buraca de;PC30;cave;PC30.cave;P.cave;P.cave
+Troglo;Co039;yes;Coleoptera;Hexapoda;Thalassophilus_subterraneus;Thalassophilus subterraneus Machado, 1990;P;P;Pilón (La Galga), Furna del;PC43;cave;PC43.cave;P.cave;P.cave
+Troglo;Co039;yes;Coleoptera;Hexapoda;Thalassophilus_subterraneus;Thalassophilus subterraneus Machado, 1990;P;P;Rincón I y II, Cuevas;PC46;cave;PC46.cave;P.cave;P.cave
+Troglo;Co039;yes;Coleoptera;Hexapoda;Thalassophilus_subterraneus;Thalassophilus subterraneus Machado, 1990;P;P;Salvatierra, Cueva de;PC48;cave;PC48.cave;P.cave;P.cave
+Troglo;Co039;yes;Coleoptera;Hexapoda;Thalassophilus_subterraneus;Thalassophilus subterraneus Machado, 1990;P;P;Tijaraferas (Barros, Barrial), Cueva de las;PC54;cave;PC54.cave;P.cave;P.cave
+Troglo;Co040;yes;Coleoptera;Hexapoda;Trechus_benahoaritus;Trechus benahoaritus Machado, 1989;P;P;Andenes, Cueva de los;PC02;cave;PC02.cave;P.cave;P.cave
+Troglo;Co040;yes;Coleoptera;Hexapoda;Trechus_benahoaritus;Trechus benahoaritus Machado, 1989;P;P;Diablo (Breña Baja), Cueva del ;PC17;cave;PC17.cave;P.cave;P.cave
+Troglo;Co040;yes;Coleoptera;Hexapoda;Trechus_benahoaritus;Trechus benahoaritus Machado, 1989;P;P;Hoyo de la Sima;PC27;cave;PC27.cave;P.cave;P.cave
+Troglo;Co040;yes;Coleoptera;Hexapoda;Trechus_benahoaritus;Trechus benahoaritus Machado, 1989;P;P;Salto de Tigalate, Cueva del;PC47;cave;PC47.cave;P.cave;P.cave
+Troglo;Co041;yes;Coleoptera;Hexapoda;Trechus_minioculatus;Trechus minioculatus Machado, 1987;H;H;Casa Forestal MSS, Supra;HM04;mss;HM04.mss;H.mss;H.mss
+Troglo;Co041;yes;Coleoptera;Hexapoda;Trechus_minioculatus;Trechus minioculatus Machado, 1987;H;H;Derrabado MSS, Pista del;HM06;mss;HM06.mss;H.mss;H.mss
+Troglo;Co041;yes;Coleoptera;Hexapoda;Trechus_minioculatus;Trechus minioculatus Machado, 1987;H;H;Garoé MSS, Pista del;HM08;mss;HM08.mss;H.mss;H.mss
+Troglo;Co041;yes;Coleoptera;Hexapoda;Trechus_minioculatus;Trechus minioculatus Machado, 1987;H;H;Gramales MSS, Los;HM09;mss;HM09.mss;H.mss;H.mss
+Troglo;Co041;yes;Coleoptera;Hexapoda;Trechus_minioculatus;Trechus minioculatus Machado, 1987;H;H;Jinama, Cueva de;HC06;cave;HC06.cave;H.cave;H.cave
+Troglo;Co041;yes;Coleoptera;Hexapoda;Trechus_minioculatus;Trechus minioculatus Machado, 1987;H;H;Lomo Blanco, Morada de;HC09;cave;HC09.cave;H.cave;H.cave
+Troglo;Co041;yes;Coleoptera;Hexapoda;Trechus_minioculatus;Trechus minioculatus Machado, 1987;H;H;Longueras, Cueva de;HC10;cave;HC10.cave;H.cave;H.cave
+Troglo;Co041;yes;Coleoptera;Hexapoda;Trechus_minioculatus;Trechus minioculatus Machado, 1987;H;H;Mercader MSS;HM13;mss;HM13.mss;H.mss;H.mss
+Troglo;Co041;yes;Coleoptera;Hexapoda;Trechus_minioculatus;Trechus minioculatus Machado, 1987;H;H;Palomas, Sima de las;HC13;cave;HC13.cave;H.cave;H.cave
+Troglo;Co041;yes;Coleoptera;Hexapoda;Trechus_minioculatus;Trechus minioculatus Machado, 1987;H;H;Pocitos, Cueva de los;HC14;cave;HC14.cave;H.cave;H.cave
+Troglo;Co041;yes;Coleoptera;Hexapoda;Trechus_minioculatus;Trechus minioculatus Machado, 1987;H;H;Pozos, Cueva de los;HC15;cave;HC15.cave;H.cave;H.cave
+Troglo;Co042;yes;Coleoptera;Hexapoda;Wolltinerfia_anagae;Wolltinerfia anagae Medina & Oromí, 1991 ;T;Ta;Bicora (Anaga) MSS, Degollada de;TM08;mss;TM08.mss;T.mss;Ta.mss
+Troglo;Co043;yes;Coleoptera;Hexapoda;Wolltinerfia_tenerifae;Wolltinerfia tenerifae (Machado, 1984) ;T;T;Bucio, Cueva del (Aguamansa);TC03;cave;TC03.cave;T.cave;T.cave
+Troglo;Co043;yes;Coleoptera;Hexapoda;Wolltinerfia_tenerifae;Wolltinerfia tenerifae (Machado, 1984) ;T;Tt;Cochinos MSS, Bco. de los;TM15;mss;TM15.mss;T.mss;Tt.mss
+Troglo;Co043;yes;Coleoptera;Hexapoda;Wolltinerfia_tenerifae;Wolltinerfia tenerifae (Machado, 1984) ;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Co043;yes;Coleoptera;Hexapoda;Wolltinerfia_tenerifae;Wolltinerfia tenerifae (Machado, 1984) ;T;T;Grande de Chío, Cueva;TC11;cave;TC11.cave;T.cave;T.cave
+Troglo;Co043;yes;Coleoptera;Hexapoda;Wolltinerfia_tenerifae;Wolltinerfia tenerifae (Machado, 1984) ;T;T;Mulo, Cueva del;TC18;cave;TC18.cave;T.cave;T.cave
+Troglo;Co043;yes;Coleoptera;Hexapoda;Wolltinerfia_tenerifae;Wolltinerfia tenerifae (Machado, 1984) ;T;T;Negras, Cuevas;TC19;cave;TC19.cave;T.cave;T.cave
+Troglo;Co043;yes;Coleoptera;Hexapoda;Wolltinerfia_tenerifae;Wolltinerfia tenerifae (Machado, 1984) ;T;T;Roques, Cueva de los;TC25;cave;TC25.cave;T.cave;T.cave
+Troglo;Co043;yes;Coleoptera;Hexapoda;Wolltinerfia_tenerifae;Wolltinerfia tenerifae (Machado, 1984) ;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Co044;yes;Coleoptera;Hexapoda;Domene_alticola;Domene alticola Oromí & Hernández, 1986;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Co044;yes;Coleoptera;Hexapoda;Domene_alticola;Domene alticola Oromí & Hernández, 1986;T;T;Roques Superior 1, Cueva de los;TC24;cave;TC24.cave;T.cave;T.cave
+Troglo;Co044;yes;Coleoptera;Hexapoda;Domene_alticola;Domene alticola Oromí & Hernández, 1986;T;T;Roques, Cueva de los;TC25;cave;TC25.cave;T.cave;T.cave
+Troglo;Co044;yes;Coleoptera;Hexapoda;Domene_alticola;Domene alticola Oromí & Hernández, 1986;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Co045;yes;Coleoptera;Hexapoda;Domene_benahoarensis;Domene benahoarensis Oromí & Martín, 1990;P;P;Altaguna, Cueva de;PC01;cave;PC01.cave;P.cave;P.cave
+Troglo;Co045;yes;Coleoptera;Hexapoda;Domene_benahoarensis;Domene benahoarensis Oromí & Martín, 1990;P;P;Andenes, Cueva de los;PC02;cave;PC02.cave;P.cave;P.cave
+Troglo;Co045;yes;Coleoptera;Hexapoda;Domene_benahoarensis;Domene benahoarensis Oromí & Martín, 1990;P;P;Ciro (Puntallana), Cueva de;PC13;cave;PC13.cave;P.cave;P.cave
+Troglo;Co045;yes;Coleoptera;Hexapoda;Domene_benahoarensis;Domene benahoarensis Oromí & Martín, 1990;P;P;Crucita, Cueva de la;PC14;cave;PC14.cave;P.cave;P.cave
+Troglo;Co045;yes;Coleoptera;Hexapoda;Domene_benahoarensis;Domene benahoarensis Oromí & Martín, 1990;P;P;Diablo (Breña Baja), Cueva del ;PC17;cave;PC17.cave;P.cave;P.cave
+Troglo;Co045;yes;Coleoptera;Hexapoda;Domene_benahoarensis;Domene benahoarensis Oromí & Martín, 1990;P;P;Diablo de Barlovento, Cueva del;PC16;cave;PC16.cave;P.cave;P.cave
+Troglo;Co045;yes;Coleoptera;Hexapoda;Domene_benahoarensis;Domene benahoarensis Oromí & Martín, 1990;P;P;Franceses, Cueva de;PC22;cave;PC22.cave;P.cave;P.cave
+Troglo;Co045;yes;Coleoptera;Hexapoda;Domene_benahoarensis;Domene benahoarensis Oromí & Martín, 1990;P;P;Hombres (Garafía) MSS, Bco. de los;PM11;mss;PM11.mss;P.mss;P.mss
+Troglo;Co045;yes;Coleoptera;Hexapoda;Domene_benahoarensis;Domene benahoarensis Oromí & Martín, 1990;P;P;Honda de Miranda, Cueva;PC25;cave;PC25.cave;P.cave;P.cave
+Troglo;Co045;yes;Coleoptera;Hexapoda;Domene_benahoarensis;Domene benahoarensis Oromí & Martín, 1990;P;P;La Grilla, Cueva de la;PC24;cave;PC24.cave;P.cave;P.cave
+Troglo;Co045;yes;Coleoptera;Hexapoda;Domene_benahoarensis;Domene benahoarensis Oromí & Martín, 1990;P;P;La Tosca (Honda Gallegos), Cueva de;PC29;cave;PC29.cave;P.cave;P.cave
+Troglo;Co045;yes;Coleoptera;Hexapoda;Domene_benahoarensis;Domene benahoarensis Oromí & Martín, 1990;P;P;Llano de los Caños, Cueva del;PC31;cave;PC31.cave;P.cave;P.cave
+Troglo;Co045;yes;Coleoptera;Hexapoda;Domene_benahoarensis;Domene benahoarensis Oromí & Martín, 1990;P;P;Llano de los Cestos, Sima del;PC32;cave;PC32.cave;P.cave;P.cave
+Troglo;Co045;yes;Coleoptera;Hexapoda;Domene_benahoarensis;Domene benahoarensis Oromí & Martín, 1990;P;P;Machacadora, Cueva de la;PC34;cave;PC34.cave;P.cave;P.cave
+Troglo;Co045;yes;Coleoptera;Hexapoda;Domene_benahoarensis;Domene benahoarensis Oromí & Martín, 1990;P;P;Martín, Búcaro del;PC36;cave;PC36.cave;P.cave;P.cave
+Troglo;Co045;yes;Coleoptera;Hexapoda;Domene_benahoarensis;Domene benahoarensis Oromí & Martín, 1990;P;P;Mña. del Pino (Arreboles), Cueva de;PC38;cave;PC38.cave;P.cave;P.cave
+Troglo;Co045;yes;Coleoptera;Hexapoda;Domene_benahoarensis;Domene benahoarensis Oromí & Martín, 1990;P;P;Palmeros, Cueva de los;PC42;cave;PC42.cave;P.cave;P.cave
+Troglo;Co045;yes;Coleoptera;Hexapoda;Domene_benahoarensis;Domene benahoarensis Oromí & Martín, 1990;P;P;Rincón I y II, Cuevas;PC46;cave;PC46.cave;P.cave;P.cave
+Troglo;Co045;yes;Coleoptera;Hexapoda;Domene_benahoarensis;Domene benahoarensis Oromí & Martín, 1990;P;P;Salto de Tigalate, Cueva del;PC47;cave;PC47.cave;P.cave;P.cave
+Troglo;Co045;yes;Coleoptera;Hexapoda;Domene_benahoarensis;Domene benahoarensis Oromí & Martín, 1990;P;P;Salvatierra, Cueva de;PC48;cave;PC48.cave;P.cave;P.cave
+Troglo;Co046;yes;Coleoptera;Hexapoda;Domene_jonayi;Domene jonayi Hernández & Medina, 1990;G;G;Reventón Oscuro MSS;GM07;mss;GM07.mss;G.mss;G.mss
+Troglo;Co046;yes;Coleoptera;Hexapoda;Domene_jonayi;Domene jonayi Hernández & Medina, 1990;G;G;Zarcita MSS, Roque de la;GM08;mss;GM08.mss;G.mss;G.mss
+Troglo;Co047;yes;Coleoptera;Hexapoda;Domene_sylvatica;Domene sylvatica Hernández & Oromí, 1993;T;Ta;Bicora (Anaga) MSS, Degollada de;TM08;mss;TM08.mss;T.mss;Ta.mss
+Troglo;Co047;yes;Coleoptera;Hexapoda;Domene_sylvatica;Domene sylvatica Hernández & Oromí, 1993;T;Ta;Ijuana MSS;TM21;mss;TM21.mss;T.mss;Ta.mss
+Troglo;Co047;yes;Coleoptera;Hexapoda;Domene_sylvatica;Domene sylvatica Hernández & Oromí, 1993;T;Ta;Pasos MSS, Roque de los;TM30;mss;TM30.mss;T.mss;Ta.mss
+Troglo;Co048;yes;Coleoptera;Hexapoda;Domene_vulcanica;Domene vulcanica Oromí & Hernández, 1986;T;T;Bucio, Cueva del (Aguamansa);TC03;cave;TC03.cave;T.cave;T.cave
+Troglo;Co048;yes;Coleoptera;Hexapoda;Domene_vulcanica;Domene vulcanica Oromí & Hernández, 1986;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Co048;yes;Coleoptera;Hexapoda;Domene_vulcanica;Domene vulcanica Oromí & Hernández, 1986;T;T;Roques, Cueva de los;TC25;cave;TC25.cave;T.cave;T.cave
+Troglo;Co048;yes;Coleoptera;Hexapoda;Domene_vulcanica;Domene vulcanica Oromí & Hernández, 1986;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Co049;yes;Coleoptera;Hexapoda;Medon_feloi;Medon feloi Assing, 1998;P;P;Cardos II (Laberintos), Cueva de;PC09;cave;PC09.cave;P.cave;P.cave
+Troglo;Co049;yes;Coleoptera;Hexapoda;Medon_feloi;Medon feloi Assing, 1998;P;P;Honda del Bejenado, Cueva;PC26;cave;PC26.cave;P.cave;P.cave
+Troglo;Co049;yes;Coleoptera;Hexapoda;Medon_feloi;Medon feloi Assing, 1998;P;P;Sorprendidos, Cueva de los;PC50;cave;PC50.cave;P.cave;P.cave
+Troglo;Co050;yes;Coleoptera;Hexapoda;Medon_antricola;Medon antricola Assing, 2006;H;H;Casa Forestal MSS, Supra;HM04;mss;HM04.mss;H.mss;H.mss
+Troglo;Co050;yes;Coleoptera;Hexapoda;Medon_antricola;Medon antricola Assing, 2006;H;H;Derrabado MSS, Pista del;HM06;mss;HM06.mss;H.mss;H.mss
+Troglo;Co050;yes;Coleoptera;Hexapoda;Medon_antricola;Medon antricola Assing, 2006;H;H;Don Justo, Cueva de;HC02;cave;HC02.cave;H.cave;H.cave
+Troglo;Co050;yes;Coleoptera;Hexapoda;Medon_antricola;Medon antricola Assing, 2006;H;H;Fileba, Cueva de;HC03;cave;HC03.cave;H.cave;H.cave
+Troglo;Co050;yes;Coleoptera;Hexapoda;Medon_antricola;Medon antricola Assing, 2006;H;H;Jinama, Cueva de;HC06;cave;HC06.cave;H.cave;H.cave
+Troglo;Co050;yes;Coleoptera;Hexapoda;Medon_antricola;Medon antricola Assing, 2006;H;H;Lajial, Cueva del;HC07;cave;HC07.cave;H.cave;H.cave
+Troglo;Co051;yes;Coleoptera;Hexapoda;Medon_nsp1;Medon n. sp. 1;C;C;Montañón Negro, Cueva Grande de ;CC13;cave;CC13.cave;C.cave;C.cave
+Troglo;Co052;yes;Coleoptera;Hexapoda;Medon_nsp2;Medon n. sp. 2;C;C;Oscuro MSS, Barranco;CM06;mss;CM06.mss;C.mss;C.mss
+Troglo;Co053;yes;Coleoptera;Hexapoda;Medon_nsp3;Medon n. sp. 3;C;C;Marteles MSS, Caldera de los;CM05;mss;CM05.mss;C.mss;C.mss
+Troglo;Co054;yes;Coleoptera;Hexapoda;Micranops_bifossicapitata;Micranops bifossicapitata (Outerelo & Oromí, 1987)     dudosa?;G;G;Campamento Viejo MSS;GM02;mss;GM02.mss;G.mss;G.mss
+Troglo;Co054;yes;Coleoptera;Hexapoda;Micranops_bifossicapitata;Micranops bifossicapitata (Outerelo & Oromí, 1987);T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Co054;yes;Coleoptera;Hexapoda;Micranops_bifossicapitata;Micranops bifossicapitata (Outerelo & Oromí, 1987);T;T;Labrada, Cueva;TC15;cave;TC15.cave;T.cave;T.cave
+Troglo;Co055;yes;Coleoptera;Hexapoda;Micranops_mlejneki;Micranops mlejneki Frisch & Oromí, 2006               ;T;T;Negras MSS, Cuevas;TM27;mss;TM27.mss;T.mss;T.mss
+Troglo;Co055;yes;Coleoptera;Hexapoda;Micranops_mlejneki;Micranops mlejneki Frisch & Oromí, 2006               ;T;T;Negras, Cuevas;TC19;cave;TC19.cave;T.cave;T.cave
+Troglo;Co055;yes;Coleoptera;Hexapoda;Micranops_mlejneki;Micranops mlejneki Frisch & Oromí, 2006               ;T;T;Rajada tephra, Montaña;TM35;mss;TM35.mss;T.mss;T.mss
+Troglo;Co055;yes;Coleoptera;Hexapoda;Micranops_mlejneki;Micranops mlejneki Frisch & Oromí, 2006               ;T;T;Roques, Cueva de los;TC25;cave;TC25.cave;T.cave;T.cave
+Troglo;Co055;yes;Coleoptera;Hexapoda;Micranops_mlejneki;Micranops mlejneki Frisch & Oromí, 2006               ;T;T;Volcán de Fasnia tephra;TM20;mss;TM20.mss;T.mss;T.mss
+Troglo;Co056;yes;Coleoptera;Hexapoda;Micranops_spelaeus;Micranops spelaeus Frisch & Oromí, 2006;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Co057;yes;Coleoptera;Hexapoda;Micranops_subterraneus;Micranops subterraneus Frisch & Oromí, 2006;G;G;Campamento Viejo MSS;GM02;mss;GM02.mss;G.mss;G.mss
+Troglo;Co058;yes;Coleoptera;Hexapoda;Ocypus_anophthalmicus;Ocypus anophthalmicus (Hernández & Aguiar, 1988);T;Tt;Cochinos MSS, Bco. de los;TM15;mss;TM15.mss;T.mss;Tt.mss
+Troglo;Co059;yes;Coleoptera;Hexapoda;Ocypus_nsp1;Ocypus n. sp. 1;T;T;Mallorquines (Izaña) MSS, Mña.;TM23;mss;TM23.mss;T.mss;T.mss
+Troglo;Co059;yes;Coleoptera;Hexapoda;Ocypus_nsp1;Ocypus n. sp. 1;T;T;Roques, Cueva de los;TC25;cave;TC25.cave;T.cave;T.cave
+Troglo;Co060;yes;Coleoptera;Hexapoda;Ocypus_nsp2;Ocypus n. sp. 2;T;Tt;Cochinos MSS, Bco. de los;TM15;mss;TM15.mss;T.mss;Tt.mss
+Troglo;Co061;yes;Coleoptera;Hexapoda;Oxypoda_caeca;Oxypoda caeca Assing, 2005;G;G;Campamento Viejo MSS;GM02;mss;GM02.mss;G.mss;G.mss
+Troglo;Co062;yes;Coleoptera;Hexapoda;Sunius_microphthalmus;Sunius microphthalmus (Franz, 1979);H;H;Binto MSS;HM01;mss;HM01.mss;H.mss;H.mss
+Troglo;Co062;yes;Coleoptera;Hexapoda;Sunius_microphthalmus;Sunius microphthalmus (Franz, 1979);H;H;Casa Forestal MSS, Supra;HM04;mss;HM04.mss;H.mss;H.mss
+Troglo;Co062;yes;Coleoptera;Hexapoda;Sunius_microphthalmus;Sunius microphthalmus (Franz, 1979);H;H;Derrabado MSS, Pista del;HM06;mss;HM06.mss;H.mss;H.mss
+Troglo;Co062;yes;Coleoptera;Hexapoda;Sunius_microphthalmus;Sunius microphthalmus (Franz, 1979);H;H;Mercader MSS;HM13;mss;HM13.mss;H.mss;H.mss
+Troglo;Co063;yes;Coleoptera;Hexapoda;Sunius_anophthalmus;Sunius anophthalmus Hernández & García, 1992;P;P;Tagoja MSS, Mña.;PM27;mss;PM27.mss;P.mss;P.mss
+Troglo;Co064;yes;Coleoptera;Hexapoda;Aeletes_oromii;Aeletes oromii Yélamos, 1995;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Co064;yes;Coleoptera;Hexapoda;Aeletes_oromii;Aeletes oromii Yélamos, 1995;T;T;Negras MSS, Cuevas;TM27;mss;TM27.mss;T.mss;T.mss
+Troglo;Co065;yes;Coleoptera;Hexapoda;Aeletes_gemmula;Aeletes gemmula(Wollaston, 1865);G;G;Reventón Oscuro MSS;GM07;mss;GM07.mss;G.mss;G.mss
+Troglo;Co066;yes;Coleoptera;Hexapoda;Euconnus_specusus;Euconnus specusus Vit, 2004;G;G;Reventón Oscuro MSS;GM07;mss;GM07.mss;G.mss;G.mss
+Troglo;Co067;yes;Coleoptera;Hexapoda;Euconnus_nsp1;Euconnus n.sp. 1;T;T;Salto Frío (Izaña) MSS;TM37;mss;TM37.mss;T.mss;T.mss
+Troglo;Co068;yes;Coleoptera;Hexapoda;Euconnus_nsp2;Euconnus n.sp. 2;C;C;Marteles MSS, Caldera de los;CM05;mss;CM05.mss;C.mss;C.mss
+Troglo;Co068;yes;Coleoptera;Hexapoda;Euconnus_nsp2;Euconnus n.sp. 2;C;C;Roques, Mina de los (Tenteniguada);CC15;cave;CC15.cave;C.cave;C.cave
+Troglo;Co069;yes;Coleoptera;Hexapoda;Derolathrus_n.sp.?;Derolathrus anophthalmus (sp.1 Anoftalmo de verdad);P;P;Don Mendo MSS;PM05;mss;PM05.mss;P.mss;P.mss
+Troglo;Co069;yes;Coleoptera;Hexapoda;Derolathrus_n.sp.?;Derolathrus anophthalmus (sp.1 Anoftalmo de verdad);P;P;Franceses MSS, Fajana de;PM08;mss;PM08.mss;P.mss;P.mss
+Troglo;Co069;yes;Coleoptera;Hexapoda;Derolathrus_n.sp.?;Derolathrus anophthalmus (sp.1 Anoftalmo de verdad);P;P;Hondo MSS, Bco.;PM12;mss;PM12.mss;P.mss;P.mss
+Troglo;Co069;yes;Coleoptera;Hexapoda;Derolathrus_n.sp.?;Derolathrus anophthalmus (sp.1 Anoftalmo de verdad);P;P;Las Lomadas MSS;PM19;mss;PM19.mss;P.mss;P.mss
+Troglo;Co069;yes;Coleoptera;Hexapoda;Derolathrus_anophthalmus;Derolathrus anophthalmus (Franz, 1969);C;C;Palmital MSS, Brezal del;CM07;mss;CM07.mss;C.mss;C.mss
+Troglo;Co069;yes;Coleoptera;Hexapoda;Derolathrus_n.sp.?;Derolathrus anophthalmus (sp.1 Anoftalmo de verdad);P;P;Tigalate MSS;PM29;mss;PM29.mss;P.mss;P.mss
+Troglo;Co070;yes;Coleoptera;Hexapoda;Laparocerus_cavernarius;Laparocerus cavernarius Machado, 2011;H;H;Curva, Cueva de la;HC01;cave;HC01.cave;H.cave;H.cave
+Troglo;Co071;yes;Coleoptera;Hexapoda;Laparocerus_dacilae;Laparocerus dacilae García, 1998;P;P;Callejones, Cueva de los;PC06;cave;PC06.cave;P.cave;P.cave
+Troglo;Co071;yes;Coleoptera;Hexapoda;Laparocerus_dacilae;Laparocerus dacilae García, 1998;P;P;Canal, Cueva del;PC07;cave;PC07.cave;P.cave;P.cave
+Troglo;Co071;yes;Coleoptera;Hexapoda;Laparocerus_dacilae;Laparocerus dacilae García, 1998;P;P;Canalizo A (Jedey), Cueva del;PC08;cave;PC08.cave;P.cave;P.cave
+Troglo;Co071;yes;Coleoptera;Hexapoda;Laparocerus_dacilae;Laparocerus dacilae García, 1998;P;P;Don Tomás (El Paso), Cueva de;PC18;cave;PC18.cave;P.cave;P.cave
+Troglo;Co071;yes;Coleoptera;Hexapoda;Laparocerus_dacilae;Laparocerus dacilae García, 1998;P;P;Honda de Miranda, Cueva;PC25;cave;PC25.cave;P.cave;P.cave
+Troglo;Co071;yes;Coleoptera;Hexapoda;Laparocerus_dacilae;Laparocerus dacilae García, 1998;P;P;Machacadora, Cueva de la;PC34;cave;PC34.cave;P.cave;P.cave
+Troglo;Co071;yes;Coleoptera;Hexapoda;Laparocerus_dacilae;Laparocerus dacilae García, 1998;P;P;Palmeros, Cueva de los;PC42;cave;PC42.cave;P.cave;P.cave
+Troglo;Co071;yes;Coleoptera;Hexapoda;Laparocerus_dacilae;Laparocerus dacilae García, 1998;P;P;Ratón, Cueva del;PC45;cave;PC45.cave;P.cave;P.cave
+Troglo;Co071;yes;Coleoptera;Hexapoda;Laparocerus_dacilae;Laparocerus dacilae García, 1998;P;P;Rincón I y II, Cuevas;PC46;cave;PC46.cave;P.cave;P.cave
+Troglo;Co071;yes;Coleoptera;Hexapoda;Laparocerus_dacilae;Laparocerus dacilae García, 1998;P;P;Salto de Tigalate, Cueva del;PC47;cave;PC47.cave;P.cave;P.cave
+Troglo;Co071;yes;Coleoptera;Hexapoda;Laparocerus_dacilae;Laparocerus dacilae García, 1998;P;P;Tacande, Cueva de;PC52;cave;PC52.cave;P.cave;P.cave
+Troglo;Co072;yes;Coleoptera;Hexapoda;Laparocerus_edaphicus;Laparocerus edaphicus Machado, 2008;T;Ta;Anambro MSS;TM04;mss;TM04.mss;T.mss;Ta.mss
+Troglo;Co072;yes;Coleoptera;Hexapoda;Laparocerus_edaphicus;Laparocerus edaphicus Machado, 2008;T;Ta;Chinobre MSS;TM13;mss;TM13.mss;T.mss;Ta.mss
+Troglo;Co072;yes;Coleoptera;Hexapoda;Laparocerus_edaphicus;Laparocerus edaphicus Machado, 2008;T;Ta;Ijuana MSS;TM21;mss;TM21.mss;T.mss;Ta.mss
+Troglo;Co072;yes;Coleoptera;Hexapoda;Laparocerus_edaphicus;Laparocerus edaphicus Machado, 2008;T;Ta;Vueltas de Taganana MSS;TM40;mss;TM40.mss;T.mss;Ta.mss
+Troglo;Co073;yes;Coleoptera;Hexapoda;Laparocerus_federico;Laparocerus federico Machado in press;C;C;Federica, Mina la;CC09;cave;CC09.cave;C.cave;C.cave
+Troglo;Co074;yes;Coleoptera;Hexapoda;Laparocerus_hypogeus;Laparocerus hypogeus Machado, 2011;H;H;Derrabado MSS, Pista del;HM06;mss;HM06.mss;H.mss;H.mss
+Troglo;Co075;yes;Coleoptera;Hexapoda;Laparocerus_idafe;Laparocerus idafe García & Alonso Zarazaga, 2011 ;P;P;Cardos III, Cueva de los;PC10;cave;PC10.cave;P.cave;P.cave
+Troglo;Co075;yes;Coleoptera;Hexapoda;Laparocerus_idafe;Laparocerus idafe García & Alonso Zarazaga, 2011 ;P;P;Herreros (Puntagorda) MSS, Bco. de;PM10;mss;PM10.mss;P.mss;P.mss
+Troglo;Co076;yes;Coleoptera;Hexapoda;Laparocerus_iruene;Laparocerus iruene Machado, 2010;P;P;La Tosca (Honda Gallegos), Cueva de;PC29;cave;PC29.cave;P.cave;P.cave
+Troglo;Co077;yes;Coleoptera;Hexapoda;Laparocerus_lopezi;Laparocerus lopezi Machado, 2008;C;C;Oscuro MSS, Barranco;CM06;mss;CM06.mss;C.mss;C.mss
+Troglo;Co077;yes;Coleoptera;Hexapoda;Laparocerus_lopezi;Laparocerus lopezi Machado, 2008;C;C;Tiles de Moya (suelo), Los;CM10;mss;CM10.mss;C.mss;
+Troglo;Co078;yes;Coleoptera;Hexapoda;Laparocerus_machadoi;Laparocerus machadoi García & González, 2006;P;P;Pilón (La Galga), Furna del;PC43;cave;PC43.cave;P.cave;P.cave
+Troglo;Co079;yes;Coleoptera;Hexapoda;Laparocerus_oromii;Laparocerus oromii Machado, 2008;G;G;Acebiños MSS, Los;GM01;mss;GM01.mss;G.mss;G.mss
+Troglo;Co079;yes;Coleoptera;Hexapoda;Laparocerus_oromii;Laparocerus oromii Machado, 2008;G;G;Reventón Oscuro MSS;GM07;mss;GM07.mss;G.mss;G.mss
+Troglo;Co079;no;Coleoptera;Hexapoda;Laparocerus_oromii;Laparocerus oromii Machado, 2008;G;;Teselinde (lavado de tierra);-;;-.;G.;
+Troglo;Co080;yes;Coleoptera;Hexapoda;Laparocerus_soniae;Laparocerus soniae Machado, 2016;C;C;Roques, Mina de los (Tenteniguada);CC15;cave;CC15.cave;C.cave;C.cave
+Troglo;Co081;yes;Coleoptera;Hexapoda;Laparocerus_zarazagai;Laparocerus zarazagai subreflexus Machado, 2010;P;P;Cardos II (Laberintos), Cueva de;PC09;cave;PC09.cave;P.cave;P.cave
+Troglo;Co081;yes;Coleoptera;Hexapoda;Laparocerus_zarazagai;Laparocerus zarazagai subreflexus Machado, 2010;P;P;Excavada (Rincón), Cueva;PC19;cave;PC19.cave;P.cave;P.cave
+Troglo;Co081;yes;Coleoptera;Hexapoda;Laparocerus_zarazagai;Laparocerus zarazagai subreflexus Machado, 2010;P;P;Honda del Bejenado, Cueva;PC26;cave;PC26.cave;P.cave;P.cave
+Troglo;Co081;yes;Coleoptera;Hexapoda;Laparocerus_zarazagai;Laparocerus zarazagai subreflexus Machado, 2010;P;P;Sorprendidos, Cueva de los;PC50;cave;PC50.cave;P.cave;P.cave
+Troglo;Co082;yes;Coleoptera;Hexapoda;Laparocerus_zarazagai;Laparocerus zarazagai zarazagai García & Oromí, 1996;P;P;La Galga MSS, Cubo de;PM14;mss;PM14.mss;P.mss;P.mss
+Troglo;Co082;yes;Coleoptera;Hexapoda;Laparocerus_zarazagai;Laparocerus zarazagai zarazagai García & Oromí, 1996;P;P;Las Breñas MSS, Alto de;PM17;mss;PM17.mss;P.mss;P.mss
+Troglo;Co082;yes;Coleoptera;Hexapoda;Laparocerus_zarazagai;Laparocerus zarazagai zarazagai García & Oromí, 1996;P;P;Tagoja MSS, Mña.;PM27;mss;PM27.mss;P.mss;P.mss
+Troglo;Co083;yes;Coleoptera;Hexapoda;Oromia_aguiari;Oromia aguiari Alonso Zarazaga, 1990;T;T;Palo Blanco MSS;TM28;mss;TM28.mss;T.mss;T.mss
+Troglo;Co084;yes;Coleoptera;Hexapoda;Oromia_hephaestos;Oromia hephaestos Zarazaga, 1987 ;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Co084;yes;Coleoptera;Hexapoda;Oromia_hephaestos;Oromia hephaestos Zarazaga, 1987 ;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Co085;yes;Coleoptera;Hexapoda;Oromia_orahan;Oromia orahan;G;G;Acebiños MSS, Los;GM01;mss;GM01.mss;G.mss;G.mss
+Troglo;Co085;yes;Coleoptera;Hexapoda;Oromia_orahan;Oromia orahan;G;G;Reventón Oscuro MSS;GM07;mss;GM07.mss;G.mss;G.mss
+Troglo;Co086;yes;Coleoptera;Hexapoda;Oromia_thoracica;Oromia thoracica Machado & López, 2015 ;C;C;Berrazales MSS, Los;CM01;mss;CM01.mss;C.mss;C.mss
+Troglo;Co087;yes;Coleoptera;Hexapoda;Oromia_sp2;Oromia sp. 2  acoran;C;C;Berrazales MSS, Los;CM01;mss;CM01.mss;C.mss;C.mss
+Troglo;Co088;yes;Coleoptera;Hexapoda;Oromia_sp3;Oromia sp. 3 gumidafe;C;C;Palmital MSS, Brezal del;CM07;mss;CM07.mss;C.mss;C.mss
+Troglo;Co089;yes;Coleoptera;Hexapoda;Oromia_sp4;Oromia sp. 4 achicasnai;C;C;Oscuro MSS, Barranco;CM06;mss;CM06.mss;C.mss;C.mss
+Troglo;Co090;yes;Coleoptera;Hexapoda;Oromia_sp5;Oromia sp. 5 tamaran;C;C;Majaletes MSS, Los;CM04;mss;CM04.mss;C.mss;C.mss
+Troglo;Co090;yes;Coleoptera;Hexapoda;Oromia_sp5;Oromia sp. 5 tamaran;C;C;Marteles MSS, Caldera de los;CM05;mss;CM05.mss;C.mss;C.mss
+Troglo;Co090;yes;Coleoptera;Hexapoda;Oromia_sp5;Oromia sp. 5 tamaran;C;C;Nieves, Pozo de las;CC14;cave;CC14.cave;C.cave;C.cave
+Troglo;Co091;yes;Coleoptera;Hexapoda;Oromia_sp6;Oromia sp. 6 benesmer;C;C;Bebeideja, Mina de;CC05;cave;CC05.cave;C.cave;C.cave
+Troglo;Co092;yes;Coleoptera;Hexapoda;Oromia_sp7;Oromia sp. 7;C;C;Azuaje, Mina de;CC04;cave;CC04.cave;C.cave;C.cave
+Troglo;Co093;yes;Coleoptera;Hexapoda;Oromia_sp8;Oromia sp. 8;C;C;Federica, Mina la;CC09;cave;CC09.cave;C.cave;C.cave
+Troglo;Co094;yes;Coleoptera;Hexapoda;Oromia_sp9;Oromia sp. 9;C;C;Roques, Mina de los (Tenteniguada);CC15;cave;CC15.cave;C.cave;C.cave
+Troglo;Co095;yes;Coleoptera;Hexapoda;Torneuma_alexi;Torneuma alexi Stüben, 2018 ;C;C;Berrazales MSS, Los;CM01;mss;CM01.mss;C.mss;C.mss
+Troglo;Co096;yes;Coleoptera;Hexapoda;Torneuma_nsp;Torneuma n.sp.;H;H;Caldereta MSS, Mña. de la;HM02;mss;HM02.mss;H.mss;H.mss
+Troglo;Co097;yes;Coleoptera;Hexapoda;Torneuma_feloi;Torneuma feloi (Stüben, 2007) ;T;Ta;Aguirre MSS, Monte;TM02;mss;TM02.mss;T.mss;Ta.mss
+Troglo;Co097;yes;Coleoptera;Hexapoda;Torneuma_feloi;Torneuma feloi (Stüben, 2007) ;T;Ta;Ijuana MSS;TM21;mss;TM21.mss;T.mss;Ta.mss
+Troglo;Co097;yes;Coleoptera;Hexapoda;Torneuma_feloi;Torneuma feloi (Stüben, 2007) ;T;Ta;Vueltas de Taganana MSS;TM40;mss;TM40.mss;T.mss;Ta.mss
+Troglo;Co097;yes;Coleoptera;Hexapoda;Torneuma_feloi;Torneuma feloi (Stüben, 2007) ;T;Ta;Zapata MSS;TM41;mss;TM41.mss;T.mss;Ta.mss
+Troglo;Co098;yes;Coleoptera;Hexapoda;Torneuma_franzi;Torneuma franzi (González, 1971) ;T;Tt;Cochinos MSS, Bco. de los;TM15;mss;TM15.mss;T.mss;Tt.mss
+Troglo;Co098;no;Coleoptera;Hexapoda;Torneuma_franzi;Torneuma franzi (González, 1971) ;T;;unk;-;;-.;T.;
+Troglo;Co098;no;Coleoptera;Hexapoda;Torneuma_franzi;Torneuma franzi (González, 1971) ;T;;unk;-;;-.;T.;
+Troglo;Co099;no;Coleoptera;Hexapoda;Torneuma_lindrothi;Torneuma lindrothi (Franz, 1971) ;P;;Callejón de Judas MSS;-;;-.;P.;
+Troglo;Co099;yes;Coleoptera;Hexapoda;Torneuma_lindrothi;Torneuma lindrothi (Franz, 1971) ;P;P;Herreros (Puntagorda) MSS, Bco. de;PM10;mss;PM10.mss;P.mss;P.mss
+Troglo;Co099;yes;Coleoptera;Hexapoda;Torneuma_lindrothi;Torneuma lindrothi (Franz, 1971) ;P;P;Hombres (Garafía) MSS, Bco. de los;PM11;mss;PM11.mss;P.mss;P.mss
+Troglo;Co099;yes;Coleoptera;Hexapoda;Torneuma_lindrothi;Torneuma lindrothi (Franz, 1971) ;P;P;La Galga MSS, Cubo de;PM14;mss;PM14.mss;P.mss;P.mss
+Troglo;Co099;yes;Coleoptera;Hexapoda;Torneuma_lindrothi;Torneuma lindrothi (Franz, 1971) ;P;P;La Tosca MSS;PM15;mss;PM15.mss;P.mss;P.mss
+Troglo;Co099;yes;Coleoptera;Hexapoda;Torneuma_lindrothi;Torneuma lindrothi (Franz, 1971) ;P;P;Puntagorda Las Eras MSS;PM24;mss;PM24.mss;P.mss;P.mss
+Troglo;Co099;yes;Coleoptera;Hexapoda;Torneuma_lindrothi;Torneuma lindrothi (Franz, 1971) ;P;P;Tilos MSS, Los;PM30;mss;PM30.mss;P.mss;P.mss
+Troglo;Co100;yes;Coleoptera;Hexapoda;Curculionidae_nsp1;Curculionidae gen. n.sp. 1;F;F;Montaña Blanca, Cueva de (El Castillo);FC03;cave;FC03.cave;F.cave;F.cave
+Troglo;Co101;yes;Coleoptera;Hexapoda;Curculionidae_nsp2;Curculionidae gen. n.sp. 2;F;F;Montaña Blanca, Cueva de (El Castillo);FC03;cave;FC03.cave;F.cave;F.cave
+Troglo;Co102;yes;Coleoptera;Hexapoda;Curculionidae_nsp3;Curculionidae gen. n.sp. 3;F;F;Llano, Cueva del (Villaverde);FC02;cave;FC02.cave;F.cave;F.cave
+Troglo;De001;yes;Dermaptera;Hexapoda;Anataelia_troglobia;Anataelia troglobia Martín & Oromí, 1988;P;P;M.A.P.O. (San Juan), Cueva de;PC33;cave;PC33.cave;P.cave;P.cave
+Troglo;De001;yes;Dermaptera;Hexapoda;Anataelia_troglobia;Anataelia troglobia Martín & Oromí, 1988;P;P;Palmeros, Cueva de los;PC42;cave;PC42.cave;P.cave;P.cave
+Troglo;De001;yes;Dermaptera;Hexapoda;Anataelia_troglobia;Anataelia troglobia Martín & Oromí, 1988;P;P;Rincón I y II, Cuevas;PC46;cave;PC46.cave;P.cave;P.cave
+Troglo;De001;yes;Dermaptera;Hexapoda;Anataelia_troglobia;Anataelia troglobia Martín & Oromí, 1988;P;P;Salto de Tigalate, Cueva del;PC47;cave;PC47.cave;P.cave;P.cave
+Troglo;De001;yes;Dermaptera;Hexapoda;Anataelia_troglobia;Anataelia troglobia Martín & Oromí, 1988;P;P;Sorprendidos, Cueva de los;PC50;cave;PC50.cave;P.cave;P.cave
+Troglo;De001;yes;Dermaptera;Hexapoda;Anataelia_troglobia;Anataelia troglobia Martín & Oromí, 1988;P;P;Todoque, Cueva de;PC55;cave;PC55.cave;P.cave;P.cave
+Troglo;Di001;yes;Diplura;Hexapoda;Remycampa_erbanica;Remycampa erbanica Sendra & Oromí, 2020;F;F;Montaña Blanca, Cueva de (El Castillo);FC03;cave;FC03.cave;F.cave;F.cave
+Troglo;Di002;yes;Diplura;Hexapoda;Spaniocampa_relicta;Spaniocampa relicta Sendra & López, 2020;C;C;Palmital MSS, Brezal del;CM07;mss;CM07.mss;C.mss;C.mss
+Troglo;Dp001;yes;Glomerida;Myriapoda;Glomeris_speobia;Glomeris speobia Golovatch& Enghoff, 2003;T;T;Chatarra, Cueva de la;TC06;cave;TC06.cave;T.cave;T.cave
+Troglo;Dp001;yes;Glomerida;Myriapoda;Glomeris_speobia;Glomeris speobia Golovatch& Enghoff, 2003;T;Tt;Cochinos MSS, Bco. de los;TM15;mss;TM15.mss;T.mss;Tt.mss
+Troglo;Dp001;yes;Glomerida;Myriapoda;Glomeris_speobia;Glomeris speobia Golovatch& Enghoff, 2003;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Dp001;yes;Glomerida;Myriapoda;Glomeris_speobia;Glomeris speobia Golovatch& Enghoff, 2003;T;T;Grande de Chío, Cueva;TC11;cave;TC11.cave;T.cave;T.cave
+Troglo;Dp001;yes;Glomerida;Myriapoda;Glomeris_speobia;Glomeris speobia Golovatch& Enghoff, 2003;T;T;Labrada, Cueva;TC15;cave;TC15.cave;T.cave;T.cave
+Troglo;Dp001;yes;Glomerida;Myriapoda;Glomeris_speobia;Glomeris speobia Golovatch& Enghoff, 2003;T;T;Roques, Cueva de los;TC25;cave;TC25.cave;T.cave;T.cave
+Troglo;Dp001;yes;Glomerida;Myriapoda;Glomeris_speobia;Glomeris speobia Golovatch& Enghoff, 2003;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Dp002;yes;Julida;Myriapoda;Dolichoiulus_chioensis;Dolichoiulus chioensis Enghoff, 1992;T;T;Grande de Chío, Cueva;TC11;cave;TC11.cave;T.cave;T.cave
+Troglo;Dp003;yes;Julida;Myriapoda;Dolichoiulus_labradae;Dolichoiulus labradae Enghoff, 1992;T;T;Baldíos, Cueva de los;TC01;cave;TC01.cave;T.cave;T.cave
+Troglo;Dp003;yes;Julida;Myriapoda;Dolichoiulus_labradae;Dolichoiulus labradae Enghoff, 1992;T;T;Labrada, Cueva;TC15;cave;TC15.cave;T.cave;T.cave
+Troglo;Dp003;yes;Julida;Myriapoda;Dolichoiulus_labradae;Dolichoiulus labradae Enghoff, 1992;T;T;Mechas, Cueva de las (Agua García);TC16;cave;TC16.cave;T.cave;T.cave
+Troglo;Dp003;yes;Julida;Myriapoda;Dolichoiulus_labradae;Dolichoiulus labradae Enghoff, 1992;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Dp004;yes;Julida;Myriapoda;Dolichoiulus_longunguis;Dolichoiulus longunguis Enghoff, 2012;C;C;Federica, Mina la;CC09;cave;CC09.cave;C.cave;C.cave
+Troglo;Dp004;yes;Julida;Myriapoda;Dolichoiulus_longunguis;Dolichoiulus longunguis Enghoff, 2012;C;C;Roques, Mina de los (Tenteniguada);CC15;cave;CC15.cave;C.cave;C.cave
+Troglo;Dp005;yes;Julida;Myriapoda;Dolichoiulus_oromii;Dolichoiulus oromii Enghoff, 2012;C;C;Berrazales MSS, Los;CM01;mss;CM01.mss;C.mss;C.mss
+Troglo;Dp005;yes;Julida;Myriapoda;Dolichoiulus_oromii;Dolichoiulus oromii Enghoff, 2012;C;C;Marteles MSS, Caldera de los;CM05;mss;CM05.mss;C.mss;C.mss
+Troglo;Dp006;yes;Julida;Myriapoda;Dolichoiulus_troglohierro;Dolichoiulus troglohierro Enghoff, 1992 ;H;H;Casa Forestal MSS, Supra;HM04;mss;HM04.mss;H.mss;H.mss
+Troglo;Dp006;yes;Julida;Myriapoda;Dolichoiulus_troglohierro;Dolichoiulus troglohierro Enghoff, 1992 ;H;H;Derrabado MSS, Pista del;HM06;mss;HM06.mss;H.mss;H.mss
+Troglo;Dp006;yes;Julida;Myriapoda;Dolichoiulus_troglohierro;Dolichoiulus troglohierro Enghoff, 1992 ;H;H;Moleras, Juaclo de las;HC12;cave;HC12.cave;H.cave;H.cave
+Troglo;Dp007;yes;Julida;Myriapoda;Dolichoiulus_typhlocanaria;Dolichoiulus typhlocanaria Enghoff, 2012;C;C;Arrepentidos, Cueva de;CC02;cave;CC02.cave;C.cave;C.cave
+Troglo;Dp007;yes;Julida;Myriapoda;Dolichoiulus_typhlocanaria;Dolichoiulus typhlocanaria Enghoff, 2012;C;C;Draguillo MSS, Bco. del;CM03;mss;CM03.mss;C.mss;C.mss
+Troglo;Dp007;yes;Julida;Myriapoda;Dolichoiulus_typhlocanaria;Dolichoiulus typhlocanaria Enghoff, 2012;C;C;Luna, Cueva de la;CC12;cave;CC12.cave;C.cave;C.cave
+Troglo;Dp008;yes;Julida;Myriapoda;Dolichoiulus_ypsilon;Dolichoiulus ypsilon Enghoff, 1992;T;T;Blanca MSS, Montaña;TM10;mss;TM10.mss;T.mss;T.mss
+Troglo;Dp008;yes;Julida;Myriapoda;Dolichoiulus_ypsilon;Dolichoiulus ypsilon Enghoff, 1992;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Dp008;yes;Julida;Myriapoda;Dolichoiulus_ypsilon;Dolichoiulus ypsilon Enghoff, 1992;T;T;Mancha Ruana tephra;TM24;mss;TM24.mss;T.mss;T.mss
+Troglo;Dp008;yes;Julida;Myriapoda;Dolichoiulus_ypsilon;Dolichoiulus ypsilon Enghoff, 1992;T;T;Roques, Cueva de los;TC25;cave;TC25.cave;T.cave;T.cave
+Troglo;Dp008;yes;Julida;Myriapoda;Dolichoiulus_ypsilon;Dolichoiulus ypsilon Enghoff, 1992;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Dp009;yes;Julida;Myriapoda;Thalassisobates_emesesensis;Thalassisobates emesesensis Enghoff, 2013;G;G;Reventón Oscuro MSS;GM07;mss;GM07.mss;G.mss;G.mss
+Troglo;Hm001;yes;Hemiptera;Hexapoda;Ceratocombus_stysi;Ceratocombus stysi Roca-Cusachs, García-Becerra & Jung, 2019;P;P;Cáscaras, Cueva de las;PC11;cave;PC11.cave;P.cave;P.cave
+Troglo;Hm001;yes;Hemiptera;Hexapoda;Ceratocombus_stysi;Ceratocombus stysi Roca-Cusachs, García-Becerra & Jung, 2019;P;P;La Grilla, Cueva de la;PC24;cave;PC24.cave;P.cave;P.cave
+Troglo;Hm001;yes;Hemiptera;Hexapoda;Ceratocombus_stysi;Ceratocombus stysi Roca-Cusachs, García-Becerra & Jung, 2019;P;P;Llano de los Caños, Cueva del;PC31;cave;PC31.cave;P.cave;P.cave
+Troglo;Hm002;yes;Hemiptera;Hexapoda;Collartida_anophthalma;Collartida anophthalma Español & Ribes, 1981;H;H;Casa Forestal MSS, Supra;HM04;mss;HM04.mss;H.mss;H.mss
+Troglo;Hm002;yes;Hemiptera;Hexapoda;Collartida_anophthalma;Collartida anophthalma Español & Ribes, 1981;H;H;Curva, Cueva de la;HC01;cave;HC01.cave;H.cave;H.cave
+Troglo;Hm002;yes;Hemiptera;Hexapoda;Collartida_anophthalma;Collartida anophthalma Español & Ribes, 1981;H;H;Don Justo, Cueva de;HC02;cave;HC02.cave;H.cave;H.cave
+Troglo;Hm002;yes;Hemiptera;Hexapoda;Collartida_anophthalma;Collartida anophthalma Español & Ribes, 1981;H;H;Lomo Blanco, Morada de;HC09;cave;HC09.cave;H.cave;H.cave
+Troglo;Hm002;yes;Hemiptera;Hexapoda;Collartida_anophthalma;Collartida anophthalma Español & Ribes, 1981;H;H;Longueras, Cueva de;HC10;cave;HC10.cave;H.cave;H.cave
+Troglo;Hm002;yes;Hemiptera;Hexapoda;Collartida_anophthalma;Collartida anophthalma Español & Ribes, 1981;H;H;Palomas, Sima de las;HC13;cave;HC13.cave;H.cave;H.cave
+Troglo;Hm002;yes;Hemiptera;Hexapoda;Collartida_anophthalma;Collartida anophthalma Español & Ribes, 1981;H;H;Pocitos, Cueva de los;HC14;cave;HC14.cave;H.cave;H.cave
+Troglo;Hm003;yes;Hemiptera;Hexapoda;Collartida_tanausu;Collartida tanausu Ribes, Oromí & Ribes, 1998;P;P;Cardos III, Cueva de los;PC10;cave;PC10.cave;P.cave;P.cave
+Troglo;Hm003;yes;Hemiptera;Hexapoda;Collartida_tanausu;Collartida tanausu Ribes, Oromí & Ribes, 2003;P;P;Fuente de la Canaria, Cueva;PC23;cave;PC23.cave;P.cave;P.cave
+Troglo;Hm003;yes;Hemiptera;Hexapoda;Collartida_tanausu;Collartida tanausu Ribes, Oromí & Ribes, 2005;P;P;Honda de Miranda, Cueva;PC25;cave;PC25.cave;P.cave;P.cave
+Troglo;Hm003;yes;Hemiptera;Hexapoda;Collartida_tanausu;Collartida tanausu Ribes, Oromí & Ribes, 2006;P;P;Honda del Bejenado, Cueva;PC26;cave;PC26.cave;P.cave;P.cave
+Troglo;Hm003;yes;Hemiptera;Hexapoda;Collartida_tanausu;Collartida tanausu Ribes, Oromí & Ribes, 2004;P;P;La Tosca (Honda Gallegos), Cueva de;PC29;cave;PC29.cave;P.cave;P.cave
+Troglo;Hm003;yes;Hemiptera;Hexapoda;Collartida_tanausu;Collartida tanausu Ribes, Oromí & Ribes, 2007;P;P;Las Lomadas, Buraca de;PC30;cave;PC30.cave;P.cave;P.cave
+Troglo;Hm003;yes;Hemiptera;Hexapoda;Collartida_tanausu;Collartida tanausu Ribes, Oromí & Ribes, 2001;P;P;Llano de los Caños, Cueva del;PC31;cave;PC31.cave;P.cave;P.cave
+Troglo;Hm003;yes;Hemiptera;Hexapoda;Collartida_tanausu;Collartida tanausu Ribes, Oromí & Ribes, 1999;P;P;Palmeros, Cueva de los;PC42;cave;PC42.cave;P.cave;P.cave
+Troglo;Hm003;yes;Hemiptera;Hexapoda;Collartida_tanausu;Collartida tanausu Ribes, Oromí & Ribes, 1998;P;P;Pilón (La Galga), Furna del;PC43;cave;PC43.cave;P.cave;P.cave
+Troglo;Hm003;yes;Hemiptera;Hexapoda;Collartida_tanausu;Collartida tanausu Ribes, Oromí & Ribes, 2002;P;P;Salto de Tigalate, Cueva del;PC47;cave;PC47.cave;P.cave;P.cave
+Troglo;Hm003;yes;Hemiptera;Hexapoda;Collartida_tanausu;Collartida tanausu Ribes, Oromí & Ribes, 2000;P;P;Tacande, Cueva de;PC52;cave;PC52.cave;P.cave;P.cave
+Troglo;Hm005;yes;Hemiptera;Hexapoda;Cixius_ariadne;Cixius ariadne Hoc& Asch, 1993;H;H;Curva, Cueva de la;HC01;cave;HC01.cave;H.cave;H.cave
+Troglo;Hm006;yes;Hemiptera;Hexapoda;Cixius_nycticolus;Cixius nycticolus Hoc& Asche, 1993;H;H;Roja, Cueva;HC16;cave;HC16.cave;H.cave;H.cave
+Troglo;Hm009;yes;Hemiptera;Hexapoda;Cixius_palmeros;Cixius palmeros Hoc& Asche, 1995;P;P;Llano de los Caños, Cueva del;PC31;cave;PC31.cave;P.cave;P.cave
+Troglo;Hm009;yes;Hemiptera;Hexapoda;Cixius_palmeros;Cixius palmeros Hoc& Asche, 1993;P;P;Machacadora, Cueva de la;PC34;cave;PC34.cave;P.cave;P.cave
+Troglo;Hm009;yes;Hemiptera;Hexapoda;Cixius_palmeros;Cixius palmeros Hoc& Asche, 1994;P;P;Palmeros, Cueva de los;PC42;cave;PC42.cave;P.cave;P.cave
+Troglo;Hm010;yes;Hemiptera;Hexapoda;Cixius_pinarcoladus;Cixius pinarcoladus Hoc& Asche, 1993;P;P;Diablo (Breña Baja), Cueva del ;PC17;cave;PC17.cave;P.cave;P.cave
+Troglo;Hm010;yes;Hemiptera;Hexapoda;Cixius_pinarcoladus;Cixius pinarcoladus Hoc& Asche, 1993;P;P;Las Breñas MSS, Alto de;PM17;mss;PM17.mss;P.mss;P.mss
+Troglo;Hm011;yes;Hemiptera;Hexapoda;Cixius_ratonicus;Cixius ratonicus Hoc& Asche, 1993;P;P;Ratón, Cueva del;PC45;cave;PC45.cave;P.cave;P.cave
+Troglo;Hm012;yes;Hemiptera;Hexapoda;Cixius_tacandus;Cixius tacandus Hoc& Asche, 1993;P;P;Tacande, Cueva de;PC52;cave;PC52.cave;P.cave;P.cave
+Troglo;Hm015;yes;Hemiptera;Hexapoda;Tachycixius_crypticus;Tachycixius crypticus Hoc& Asche, 1993;T;T;Palo Blanco MSS;TM28;mss;TM28.mss;T.mss;T.mss
+Troglo;Hm016;yes;Hemiptera;Hexapoda;Tachycixius_lavatubus;Tachycixius lavatubus Remane & Hoch, 1988;T;T;Arguayo (Chío) MSS;TM05;mss;TM05.mss;T.mss;T.mss
+Troglo;Hm016;yes;Hemiptera;Hexapoda;Tachycixius_lavatubus;Tachycixius lavatubus Remane & Hoch, 1988;T;T;Asomada del Gato (Chío) MSS;TM07;mss;TM07.mss;T.mss;T.mss
+Troglo;Hm016;yes;Hemiptera;Hexapoda;Tachycixius_lavatubus;Tachycixius lavatubus Remane & Hoch, 1988;T;T;Blanca MSS, Montaña;TM10;mss;TM10.mss;T.mss;T.mss
+Troglo;Hm016;yes;Hemiptera;Hexapoda;Tachycixius_lavatubus;Tachycixius lavatubus Remane & Hoch, 1988;T;T;Bucio, Cueva del (Aguamansa);TC03;cave;TC03.cave;T.cave;T.cave
+Troglo;Hm016;yes;Hemiptera;Hexapoda;Tachycixius_lavatubus;Tachycixius lavatubus Remane & Hoch, 1988;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Hm016;yes;Hemiptera;Hexapoda;Tachycixius_lavatubus;Tachycixius lavatubus Remane & Hoch, 1988;T;T;Grande de Chío, Cueva;TC11;cave;TC11.cave;T.cave;T.cave
+Troglo;Hm016;yes;Hemiptera;Hexapoda;Tachycixius_lavatubus;Tachycixius lavatubus Remane & Hoch, 1988;T;T;Labrada, Cueva;TC15;cave;TC15.cave;T.cave;T.cave
+Troglo;Hm016;yes;Hemiptera;Hexapoda;Tachycixius_lavatubus;Tachycixius lavatubus Remane & Hoch, 1988;T;T;Mechas, Cueva de las (Agua García);TC16;cave;TC16.cave;T.cave;T.cave
+Troglo;Hm016;yes;Hemiptera;Hexapoda;Tachycixius_lavatubus;Tachycixius lavatubus Remane & Hoch, 1988;T;T;Mulo, Cueva del;TC18;cave;TC18.cave;T.cave;T.cave
+Troglo;Hm016;yes;Hemiptera;Hexapoda;Tachycixius_lavatubus;Tachycixius lavatubus Remane & Hoch, 1988;T;T;Negras MSS, Cuevas;TM27;mss;TM27.mss;T.mss;T.mss
+Troglo;Hm016;yes;Hemiptera;Hexapoda;Tachycixius_lavatubus;Tachycixius lavatubus Remane & Hoch, 1988;T;T;Perdiz, Sima de la;TC20;cave;TC20.cave;T.cave;T.cave
+Troglo;Hm016;yes;Hemiptera;Hexapoda;Tachycixius_lavatubus;Tachycixius lavatubus Remane & Hoch, 1988;T;T;Roques Superior 1, Cueva de los;TC24;cave;TC24.cave;T.cave;T.cave
+Troglo;Hm016;yes;Hemiptera;Hexapoda;Tachycixius_lavatubus;Tachycixius lavatubus Remane & Hoch, 1988;T;T;Roques, Cueva de los;TC25;cave;TC25.cave;T.cave;T.cave
+Troglo;Hm016;yes;Hemiptera;Hexapoda;Tachycixius_lavatubus;Tachycixius lavatubus Remane & Hoch, 1988;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Hm017;yes;Hemiptera;Hexapoda;Tachycixius_retrusus;Tachycixius retrusus Hoc& Asche, 1994;T;Ta;Ijuana MSS;TM21;mss;TM21.mss;T.mss;Ta.mss
+Troglo;Hm019;yes;Hemiptera;Hexapoda;Meenoplus_cancavus;Meenoplus cancavus Remane & Hoch, 1988;H;H;Don Justo, Cueva de;HC02;cave;HC02.cave;H.cave;H.cave
+Troglo;Hm019;yes;Hemiptera;Hexapoda;Meenoplus_cancavus;Meenoplus cancavus Remane & Hoch, 1988;H;H;Lajial, Cueva del;HC07;cave;HC07.cave;H.cave;H.cave
+Troglo;Hm019;yes;Hemiptera;Hexapoda;Meenoplus_cancavus;Meenoplus cancavus Remane & Hoch, 1988;H;H;Pocitos, Cueva de los;HC14;cave;HC14.cave;H.cave;H.cave
+Troglo;Hm020;yes;Hemiptera;Hexapoda;Meenoplus_charon;Meenoplus charon Hoc& Asche, 1993;H;H;Curva, Cueva de la;HC01;cave;HC01.cave;H.cave;H.cave
+Troglo;Hm021;yes;Hemiptera;Hexapoda;Meenoplus_claustrophilus;Meenoplus claustrophilus Hoch& Asche, 1993;P;P;Machacadora, Cueva de la;PC34;cave;PC34.cave;P.cave;P.cave
+Troglo;Hm021;yes;Hemiptera;Hexapoda;Meenoplus_claustrophilus;Meenoplus claustrophilus Hoch& Asche, 1993;P;P;Ratón, Cueva del;PC45;cave;PC45.cave;P.cave;P.cave
+Troglo;Hm022;yes;Hemiptera;Hexapoda;Meenoplus_roddenberryi;Meenoplus roddenberryi Hoch & Naranjo, 2012;C;C;Federica, Mina la;CC09;cave;CC09.cave;C.cave;C.cave
+Troglo;Hm022;yes;Hemiptera;Hexapoda;Meenoplus_roddenberryi;Meenoplus roddenberryi Hoch & Naranjo, 2012;C;C;Roques, Mina de los (Tenteniguada);CC15;cave;CC15.cave;C.cave;C.cave
+Troglo;Is001;yes;Isopoda;Isopoda;Halophiloscia_microphthalma;Halophiloscia microphthalma Taiti & López, 2008;P;P;Don Tomás (El Paso), Cueva de;PC18;cave;PC18.cave;P.cave;P.cave
+Troglo;Is001;yes;Isopoda;Isopoda;Halophiloscia_microphthalma;Halophiloscia microphthalma Taiti & López, 2008;P;P;Fajanita de Don Pedro, Cueva de la;PC21;cave;PC21.cave;P.cave;P.cave
+Troglo;Is001;yes;Isopoda;Isopoda;Halophiloscia_microphthalma;Halophiloscia microphthalma Taiti & López, 2008;P;P;Honda de Miranda, Cueva;PC25;cave;PC25.cave;P.cave;P.cave
+Troglo;Is001;yes;Isopoda;Isopoda;Halophiloscia_microphthalma;Halophiloscia microphthalma Taiti & López, 2008;P;P;La Tosca (Honda Gallegos), Cueva de;PC29;cave;PC29.cave;P.cave;P.cave
+Troglo;Is001;yes;Isopoda;Isopoda;Halophiloscia_microphthalma;Halophiloscia microphthalma Taiti & López, 2008;P;P;Machacadora, Cueva de la;PC34;cave;PC34.cave;P.cave;P.cave
+Troglo;Is001;yes;Isopoda;Isopoda;Halophiloscia_microphthalma;Halophiloscia microphthalma Taiti & López, 2008;P;P;Mamona, Cueva de la;PC35;cave;PC35.cave;P.cave;P.cave
+Troglo;Is001;yes;Isopoda;Isopoda;Halophiloscia_microphthalma;Halophiloscia microphthalma Taiti & López, 2008;P;P;Mña. del Pino (Arreboles), Cueva de;PC38;cave;PC38.cave;P.cave;P.cave
+Troglo;Is001;yes;Isopoda;Isopoda;Halophiloscia_microphthalma;Halophiloscia microphthalma Taiti & López, 2008;P;P;Nagy, Cueva de;PC40;cave;PC40.cave;P.cave;P.cave
+Troglo;Is001;yes;Isopoda;Isopoda;Halophiloscia_microphthalma;Halophiloscia microphthalma Taiti & López, 2008;P;P;Palmeros, Cueva de los;PC42;cave;PC42.cave;P.cave;P.cave
+Troglo;Is001;yes;Isopoda;Isopoda;Halophiloscia_microphthalma;Halophiloscia microphthalma Taiti & López, 2008;P;P;Ratón, Cueva del;PC45;cave;PC45.cave;P.cave;P.cave
+Troglo;Is001;yes;Isopoda;Isopoda;Halophiloscia_microphthalma;Halophiloscia microphthalma Taiti & López, 2008;P;P;Salto de Tigalate, Cueva del;PC47;cave;PC47.cave;P.cave;P.cave
+Troglo;Is001;yes;Isopoda;Isopoda;Halophiloscia_microphthalma;Halophiloscia microphthalma Taiti & López, 2008;P;P;Salvatierra, Cueva de;PC48;cave;PC48.cave;P.cave;P.cave
+Troglo;Is001;yes;Isopoda;Isopoda;Halophiloscia_microphthalma;Halophiloscia microphthalma Taiti & López, 2008;P;P;Tacande, Cueva de;PC52;cave;PC52.cave;P.cave;P.cave
+Troglo;Is001;yes;Isopoda;Isopoda;Halophiloscia_microphthalma;Halophiloscia microphthalma Taiti & López, 2008;P;P;Virgen de Fátima, Cueva de la;PC57;cave;PC57.cave;P.cave;P.cave
+Troglo;Is002;yes;Isopoda;Isopoda;Venezillo_tenerifensis;Venezillo tenerifensis Dalens, 1984;T;T;Blanca MSS, Montaña;TM10;mss;TM10.mss;T.mss;T.mss
+Troglo;Is002;yes;Isopoda;Isopoda;Venezillo_tenerifensis;Venezillo tenerifensis Dalens, 1984;T;T;Bucio, Cueva del (Aguamansa);TC03;cave;TC03.cave;T.cave;T.cave
+Troglo;Is002;yes;Isopoda;Isopoda;Venezillo_tenerifensis;Venezillo tenerifensis Dalens, 1984;T;T;Cosme, Cueva de;TC08;cave;TC08.cave;T.cave;T.cave
+Troglo;Is002;yes;Isopoda;Isopoda;Venezillo_tenerifensis;Venezillo tenerifensis Dalens, 1984;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Is002;yes;Isopoda;Isopoda;Venezillo_tenerifensis;Venezillo tenerifensis Dalens, 1984;T;T;Grande de Chío, Cueva;TC11;cave;TC11.cave;T.cave;T.cave
+Troglo;Is002;yes;Isopoda;Isopoda;Venezillo_tenerifensis;Venezillo tenerifensis Dalens, 1984;T;T;Mulo, Cueva del;TC18;cave;TC18.cave;T.cave;T.cave
+Troglo;Is002;yes;Isopoda;Isopoda;Venezillo_tenerifensis;Venezillo tenerifensis Dalens, 1984;T;T;Perdiz, Sima de la;TC20;cave;TC20.cave;T.cave;T.cave
+Troglo;Is002;yes;Isopoda;Isopoda;Venezillo_tenerifensis;Venezillo tenerifensis Dalens, 1984;T;T;Roques Superior 1, Cueva de los;TC24;cave;TC24.cave;T.cave;T.cave
+Troglo;Is002;yes;Isopoda;Isopoda;Venezillo_tenerifensis;Venezillo tenerifensis Dalens, 1984;T;T;Roques, Cueva de los;TC25;cave;TC25.cave;T.cave;T.cave
+Troglo;Is002;yes;Isopoda;Isopoda;Venezillo_tenerifensis;Venezillo tenerifensis Dalens, 1984;T;T;Salto Frío (Izaña) MSS;TM37;mss;TM37.mss;T.mss;T.mss
+Troglo;Is002;yes;Isopoda;Isopoda;Venezillo_tenerifensis;Venezillo tenerifensis Dalens, 1984;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Is003;yes;Isopoda;Isopoda;Venezillo_geophilus;Venezillo geophilus Santana sin describir;G;G;Helechos (Los Acebiños) MSS, Mña. los;GM04;mss;GM04.mss;G.mss;G.mss
+Troglo;Is003;yes;Isopoda;Isopoda;Venezillo_geophilus;Venezillo geophilus Santana sin describir;G;G;Reventón Oscuro MSS;GM07;mss;GM07.mss;G.mss;G.mss
+Troglo;Is004;yes;Isopoda;Isopoda;Porcellio_martini;Porcellio martini Dalens, 1984;T;T;Agua (Güímar) MSS, Bco. del ;TM01;mss;TM01.mss;T.mss;T.mss
+Troglo;Is004;yes;Isopoda;Isopoda;Porcellio_martini;Porcellio martini Dalens, 1984;T;T;Fea de Arico, Cueva de;TC09;cave;TC09.cave;T.cave;T.cave
+Troglo;Is004;yes;Isopoda;Isopoda;Porcellio_martini;Porcellio martini Dalens, 1984;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Is004;yes;Isopoda;Isopoda;Porcellio_martini;Porcellio martini Dalens, 1984;T;T;Grande de Chío, Cueva;TC11;cave;TC11.cave;T.cave;T.cave
+Troglo;Is004;yes;Isopoda;Isopoda;Porcellio_martini;Porcellio martini Dalens, 1984orchest;T;T;Labrada, Cueva;TC15;cave;TC15.cave;T.cave;T.cave
+Troglo;Is004;yes;Isopoda;Isopoda;Porcellio_martini;Porcellio martini Dalens, 1984;T;T;San Marcos, Cueva de;TC26;cave;TC26.cave;T.cave;T.cave
+Troglo;Is004;yes;Isopoda;Isopoda;Porcellio_martini;Porcellio martini Dalens, 1984;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Op001;yes;Opiliones;Arachnida;Maiorerus_randoi;Maiorerus randoi Rambla, 1993;F;F;Llano, Cueva del (Villaverde);FC02;cave;FC02.cave;F.cave;F.cave
+Troglo;Op002;yes;Opiliones;Arachnida;Gen._sp1;Gen. sp. indet.1;C;C;Berrazales MSS, Los;CM01;mss;CM01.mss;C.mss;C.mss
+Troglo;Op003;yes;Opiliones;Arachnida;Gen._sp2;Gen. sp. indet.2;C;C;Marteles MSS, Caldera de los;CM05;mss;CM05.mss;C.mss;C.mss
+Troglo;Ps001;yes;Pseudoscorpiones;Pseudoscorpiones;Lagynochthonius_curvidigitatus;Lagynochthonius curvidigitatus Mahnert, 1997;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Ps002;yes;Pseudoscorpiones;Pseudoscorpiones;Lagynochthonius_lopezi;Lagynochthonius lopezi Mahnert, 2011;C;C;Berrazales MSS, Los;CM01;mss;CM01.mss;C.mss;C.mss
+Troglo;Ps003;yes;Pseudoscorpiones;Pseudoscorpiones;Lagynochthonius_microdentatus;Lagynochthonius microdentatus Mahnert, 2011;C;C;Berrazales MSS, Los;CM01;mss;CM01.mss;C.mss;C.mss
+Troglo;Ps004;yes;Pseudoscorpiones;Pseudoscorpiones;Lagynochthonius_oromii;Lagynochthonius oromii Mahnert, 2011;C;C;Oscuro MSS, Barranco;CM06;mss;CM06.mss;C.mss;C.mss
+Troglo;Ps004;yes;Pseudoscorpiones;Pseudoscorpiones;Lagynochthonius_oromii;Lagynochthonius oromii Mahnert, 2011;C;C;Palmital MSS, Brezal del;CM07;mss;CM07.mss;C.mss;C.mss
+Troglo;Ps005;yes;Pseudoscorpiones;Pseudoscorpiones;Lagynochthonius_subterraneus;Lagynochthonius subterraneus Mahnert, 2011;C;C;Llanetes, Mina de los (Valsequillo);CC11;cave;CC11.cave;C.cave;C.cave
+Troglo;Ps006;yes;Pseudoscorpiones;Pseudoscorpiones;Lagynochthonius_tenuimanus;Lagynochthonius tenuimanus Mahnert, 2011;C;C;Llanetes, Mina de los (Valsequillo);CC11;cave;CC11.cave;C.cave;C.cave
+Troglo;Ps007;yes;Pseudoscorpiones;Pseudoscorpiones;Occidenchthonius_dubius;Occidenchthonius beieri Zaragoza, 2017;C;C;Berrazales MSS, Los;CM01;mss;CM01.mss;C.mss;C.mss
+Troglo;Ps007;yes;Pseudoscorpiones;Pseudoscorpiones;Occidenchthonius_dubius;Occidenchthonius beieri Zaragoza, 2017;C;C;Majaletes MSS, Los;CM04;mss;CM04.mss;C.mss;C.mss
+Troglo;Ps007;yes;Pseudoscorpiones;Pseudoscorpiones;Occidenchthonius_dubius;Occidenchthonius beieri Zaragoza, 2017;C;C;Marteles MSS, Caldera de los;CM05;mss;CM05.mss;C.mss;C.mss
+Troglo;Ps008;yes;Pseudoscorpiones;Pseudoscorpiones;Occidenchthonius_dubius;Occidenchthonius dubius (Mahnert, 1993);T;T;San Marcos, Cueva de;TC26;cave;TC26.cave;T.cave;T.cave
+Troglo;Ps009;yes;Pseudoscorpiones;Pseudoscorpiones;Occidenchthonius_gracilimanus;Occidenchthonius gracilimanus (Mahnert, 1997);P;P;Fajanita de Don Pedro, Cueva de la;PC21;cave;PC21.cave;P.cave;P.cave
+Troglo;Ps009;yes;Pseudoscorpiones;Pseudoscorpiones;Occidenchthonius_gracilimanus;Occidenchthonius gracilimanus (Mahnert, 1997);P;P;Llano de los Caños, Cueva del;PC31;cave;PC31.cave;P.cave;P.cave
+Troglo;Ps009;yes;Pseudoscorpiones;Pseudoscorpiones;Occidenchthonius_gracilimanus;Occidenchthonius gracilimanus (Mahnert, 1997);P;P;Palmeros, Cueva de los;PC42;cave;PC42.cave;P.cave;P.cave
+Troglo;Ps009;yes;Pseudoscorpiones;Pseudoscorpiones;Occidenchthonius_gracilimanus;Occidenchthonius gracilimanus (Mahnert, 1997);P;P;Ratón, Cueva del;PC45;cave;PC45.cave;P.cave;P.cave
+Troglo;Ps009;yes;Pseudoscorpiones;Pseudoscorpiones;Occidenchthonius_gracilimanus;Occidenchthonius gracilimanus (Mahnert, 1997);P;P;Salto de Tigalate, Cueva del;PC47;cave;PC47.cave;P.cave;P.cave
+Troglo;Ps010;yes;Pseudoscorpiones;Pseudoscorpiones;Occidenchthonius_lopezi;Occidenchthonius lopezi (Mahnert, 2011);T;Ta;Bicora (Anaga) MSS, Degollada de;TM08;mss;TM08.mss;T.mss;Ta.mss
+Troglo;Ps010;yes;Pseudoscorpiones;Pseudoscorpiones;Occidenchthonius_lopezi;Occidenchthonius lopezi (Mahnert, 2011);T;Tt;Cochinos MSS, Bco. de los;TM15;mss;TM15.mss;T.mss;Tt.mss
+Troglo;Ps011;yes;Pseudoscorpiones;Pseudoscorpiones;Occidenchthonius_mahnerti;Occidenchthonius mahnerti Zaragoza, 2017;C;C;Montañón Negro, Cueva Grande de ;CC13;cave;CC13.cave;C.cave;C.cave
+Troglo;Ps011;yes;Pseudoscorpiones;Pseudoscorpiones;Occidenchthonius_mahnerti;Occidenchthonius mahnerti Zaragoza, 2017;C;C;Oscuro MSS, Barranco;CM06;mss;CM06.mss;C.mss;C.mss
+Troglo;Ps011;yes;Pseudoscorpiones;Pseudoscorpiones;Occidenchthonius_mahnerti;Occidenchthonius mahnerti Zaragoza, 2017;C;C;Palmital MSS, Brezal del;CM07;mss;CM07.mss;C.mss;C.mss
+Troglo;Ps012;yes;Pseudoscorpiones;Pseudoscorpiones;Occidenchthonius_oromii;Occidenchthonius oromii Zaragoza, 2017         really troglobite?;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Ps013;yes;Pseudoscorpiones;Pseudoscorpiones;Occidenchthonius_setosus;Occidenchthonius setosus (Mahnert, 1993);T;Ta;Pedro Álvarez MSS;TM31;mss;TM31.mss;T.mss;Ta.mss
+Troglo;Ps014;yes;Pseudoscorpiones;Pseudoscorpiones;Occidenchthonius_tamaran;Occidenchthonius tamaran (Mahnert, 2011);C;C;Arrepentidos, Cueva de;CC02;cave;CC02.cave;C.cave;C.cave
+Troglo;Ps014;yes;Pseudoscorpiones;Pseudoscorpiones;Occidenchthonius_tamaran;Occidenchthonius tamaran (Mahnert, 2011);C;C;Draguillo MSS, Bco. del;CM03;mss;CM03.mss;C.mss;C.mss
+Troglo;Ps014;yes;Pseudoscorpiones;Pseudoscorpiones;Occidenchthonius_tamaran;Occidenchthonius tamaran (Mahnert, 2011)      really troglobite?;C;C;Luna, Cueva de la;CC12;cave;CC12.cave;C.cave;C.cave
+Troglo;Ps015;yes;Pseudoscorpiones;Pseudoscorpiones;Occidenchthonius_tenerifae;Occidenchthonius tenerifae (Mahnert, 1997);T;Tt;Cochinos MSS, Bco. de los;TM15;mss;TM15.mss;T.mss;Tt.mss
+Troglo;Ps016;yes;Pseudoscorpiones;Pseudoscorpiones;Paraliochthonius_martini;Paraliochthonius martini Mahnert, 1988;H;H;Don Justo, Cueva de;HC02;cave;HC02.cave;H.cave;H.cave
+Troglo;Ps016;yes;Pseudoscorpiones;Pseudoscorpiones;Paraliochthonius_martini;Paraliochthonius martini Mahnert, 1988;H;H;Longueras, Cueva de;HC10;cave;HC10.cave;H.cave;H.cave
+Troglo;Ps016;yes;Pseudoscorpiones;Pseudoscorpiones;Paraliochthonius_martini;Paraliochthonius martini Mahnert, 1988;H;H;Pocitos, Cueva de los;HC14;cave;HC14.cave;H.cave;H.cave
+Troglo;Ps017;yes;Pseudoscorpiones;Pseudoscorpiones;Paraliochthonius_mirus;Paraliochthonius mirus Mahnert, 2002;P;P;Cardos III, Cueva de los;PC10;cave;PC10.cave;P.cave;P.cave
+Troglo;Ps017;yes;Pseudoscorpiones;Pseudoscorpiones;Paraliochthonius_mirus;Paraliochthonius mirus Mahnert, 2002;P;P;Sorprendidos, Cueva de los;PC50;cave;PC50.cave;P.cave;P.cave
+Troglo;Ps018;yes;Pseudoscorpiones;Pseudoscorpiones;Paraliochthonius_setiger;Paraliochthonius setiger (Manhert, 1997);T;T;Bucio, Cueva del (Aguamansa);TC03;cave;TC03.cave;T.cave;T.cave
+Troglo;Ps018;yes;Pseudoscorpiones;Pseudoscorpiones;Paraliochthonius_setiger;Paraliochthonius setiger (Manhert, 1997);T;T;Chatarra, Cueva de la;TC06;cave;TC06.cave;T.cave;T.cave
+Troglo;Ps018;yes;Pseudoscorpiones;Pseudoscorpiones;Paraliochthonius_setiger;Paraliochthonius setiger (Manhert, 1997);T;T;Mulo, Cueva del;TC18;cave;TC18.cave;T.cave;T.cave
+Troglo;Ps018;yes;Pseudoscorpiones;Pseudoscorpiones;Paraliochthonius_setiger;Paraliochthonius setiger (Manhert, 1997);T;T;Perdiz, Sima de la;TC20;cave;TC20.cave;T.cave;T.cave
+Troglo;Ps018;yes;Pseudoscorpiones;Pseudoscorpiones;Paraliochthonius_setiger;Paraliochthonius setiger (Manhert, 1997);T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Ps019;yes;Pseudoscorpiones;Pseudoscorpiones;Paraliochthonius_superstes;Paraliochthonius superstes (Manhert, 1986);T;T;Bucio, Cueva del (Aguamansa);TC03;cave;TC03.cave;T.cave;T.cave
+Troglo;Ps019;yes;Pseudoscorpiones;Pseudoscorpiones;Paraliochthonius_superstes;Paraliochthonius superstes (Manhert, 1986);T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Ps019;yes;Pseudoscorpiones;Pseudoscorpiones;Paraliochthonius_superstes;Paraliochthonius superstes (Manhert, 1986);T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Ps020;yes;Pseudoscorpiones;Pseudoscorpiones;Paraliochthonius_tenebrarum;Paraliochthonius tenebrarum Manhert, 1988;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Ps020;yes;Pseudoscorpiones;Pseudoscorpiones;Paraliochthonius_tenebrarum;Paraliochthonius tenebrarum Manhert, 1988;T;T;Negras, Cuevas;TC19;cave;TC19.cave;T.cave;T.cave
+Troglo;Ps020;yes;Pseudoscorpiones;Pseudoscorpiones;Paraliochthonius_tenebrarum;Paraliochthonius tenebrarum Manhert, 1988;T;T;Roques, Cueva de los;TC25;cave;TC25.cave;T.cave;T.cave
+Troglo;Ps021;yes;Pseudoscorpiones;Pseudoscorpiones;Microcreagrina_cavicola;Microcreagrina cavicola Mahnert, 1993;C;C;Federica, Mina la;CC09;cave;CC09.cave;C.cave;C.cave
+Troglo;Ps021;yes;Pseudoscorpiones;Pseudoscorpiones;Microcreagrina_cavicola;Microcreagrina cavicola Mahnert, 1993;C;C;Llanetes, Mina de los (Valsequillo);CC11;cave;CC11.cave;C.cave;C.cave
+Troglo;Ps021;yes;Pseudoscorpiones;Pseudoscorpiones;Microcreagrina_cavicola;Microcreagrina cavicola Mahnert, 1993;P;P;Palmeros, Cueva de los;PC42;cave;PC42.cave;P.cave;P.cave
+Troglo;Ps021;yes;Pseudoscorpiones;Pseudoscorpiones;Microcreagrina_cavicola;Microcreagrina cavicola Mahnert, 1993;P;P;Ratón, Cueva del;PC45;cave;PC45.cave;P.cave;P.cave
+Troglo;Ps021;yes;Pseudoscorpiones;Pseudoscorpiones;Microcreagrina_cavicola;Microcreagrina cavicola Mahnert, 1993;P;P;Tacande, Cueva de;PC52;cave;PC52.cave;P.cave;P.cave
+Troglo;Ps022;yes;Pseudoscorpiones;Pseudoscorpiones;Microcreagrina_subterranea;Microcreagrina subterranea Mahnert, 1993;T;T;Bucio, Cueva del (Aguamansa);TC03;cave;TC03.cave;T.cave;T.cave
+Troglo;Ps022;yes;Pseudoscorpiones;Pseudoscorpiones;Microcreagrina_subterranea;Microcreagrina subterranea Mahnert, 1993;T;Tt;Cochinos MSS, Bco. de los;TM15;mss;TM15.mss;T.mss;Tt.mss
+Troglo;Ps022;yes;Pseudoscorpiones;Pseudoscorpiones;Microcreagrina_subterranea;Microcreagrina subterranea Mahnert, 1993;G;G;Epina MSS;GM03;mss;GM03.mss;G.mss;G.mss
+Troglo;Ps022;yes;Pseudoscorpiones;Pseudoscorpiones;Microcreagrina_subterranea;Microcreagrina subterranea Mahnert, 1993;T;T;Felipe Reventón, Cueva de;TC10;cave;TC10.cave;T.cave;T.cave
+Troglo;Ps022;yes;Pseudoscorpiones;Pseudoscorpiones;Microcreagrina_subterranea;Microcreagrina subterranea Mahnert, 1993;T;T;Honda de Güímar, Cueva;TC13;cave;TC13.cave;T.cave;T.cave
+Troglo;Ps022;yes;Pseudoscorpiones;Pseudoscorpiones;Microcreagrina_subterranea;Microcreagrina subterranea Mahnert, 1993;C;C;Majaletes MSS, Los;CM04;mss;CM04.mss;C.mss;C.mss
+Troglo;Ps022;yes;Pseudoscorpiones;Pseudoscorpiones;Microcreagrina_subterranea;Microcreagrina subterranea Mahnert, 1993;P;P;Palmeros, Cueva de los;PC42;cave;PC42.cave;P.cave;P.cave
+Troglo;Ps022;yes;Pseudoscorpiones;Pseudoscorpiones;Microcreagrina_subterranea;Microcreagrina subterranea Mahnert, 1993;T;Tt;Picón MSS, Pista Bco.;TM33;mss;TM33.mss;T.mss;Tt.mss
+Troglo;Ps022;yes;Pseudoscorpiones;Pseudoscorpiones;Microcreagrina_subterranea;Microcreagrina subterranea Mahnert, 1993;T;T;Roques, Cueva de los;TC25;cave;TC25.cave;T.cave;T.cave
+Troglo;Ps022;yes;Pseudoscorpiones;Pseudoscorpiones;Microcreagrina_subterranea;Microcreagrina subterranea Mahnert, 1993;T;T;Viento-Sobrado, Cueva del;TC28;cave;TC28.cave;T.cave;T.cave
+Troglo;Zy001;yes;Zygentoma;Hexapoda;Neoasterolepisma_caeca;Neoasterolepisma caeca Molero, Bach & Gaju, 1999;P;P;Salto de Tigalate, Cueva del;PC47;cave;PC47.cave;P.cave;P.cave
+Troglo;Zy002;yes;Zygentoma;Hexapoda;Canariletia_holosterna;Canariletia holosterna Molero et al., 2014;C;C;Bebeideja, Mina de;CC05;cave;CC05.cave;C.cave;C.cave
+Troglo;Zy002;yes;Zygentoma;Hexapoda;Canariletia_holosterna;Canariletia holosterna Molero et al., 2014;C;C;Federica, Mina la;CC09;cave;CC09.cave;C.cave;C.cave
+Troglo;Zy002;yes;Zygentoma;Hexapoda;Canariletia_holosterna;Canariletia holosterna Molero et al., 2014;C;C;Llanetes, Mina de los (Valsequillo);CC11;cave;CC11.cave;C.cave;C.cave
+Troglo;Zy003;yes;Zygentoma;Hexapoda;Coletinia_majorensis;Coletinia majorensis Molero et al., 2014;F;F;Llano, Cueva del (Villaverde);FC02;cave;FC02.cave;F.cave;F.cave
+Troglo;Zy003;yes;Zygentoma;Hexapoda;Coletinia_majorensis;Coletinia majorensis Molero et al., 2014         confirmar;F;F;Montaña Blanca, Cueva de (El Castillo);FC03;cave;FC03.cave;F.cave;F.cave

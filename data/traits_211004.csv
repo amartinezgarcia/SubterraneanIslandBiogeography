@@ -1,0 +1,212 @@
+﻿ID;Species;;Islands;n.islands;L.max01;L.mal;L.fem;L.dim;W.max01;W.mal;W.fem;E.max01;eyes;Ant.max01;Ant.rat01;Ant.mal;Ant.fem;Leg.max01;Leg.rat01;leg.length.male;leg.length.female;pigmentation.or;pigm.expl;trophic.niche;trophic.expl;ecology;ecology.exp;diet;comments
+Am001;Palmorchestia hypogaea;Amphipoda;P;1;11.5;9;11.5;0.78;2.08;2.08;1.8;0.18;1;7.85;0.68;7.85;7.45;2.02;0.18;2.02;1.54;1;scarce;0;detritivorous;0;Troglomorph;;
+Ar001;Dysdera ambulotenta;Araneae;T;1;17.5;16.2;17.5;0.93;5.8;5.4;5.8;0.33;0;-1;-1;-1;-1;4.7;0.27;4.7;4.68;3;present;1;predator;0;Troglomorph;;
+Ar002;Dysdera chioensis;Araneae;T;1;8.9;;8.9;;4;;4;0.45;1;-1;-1;-1;-1;2.61;0.29;;2.61;2;reduced;1;predator;0;Troglomorph;;
+Ar003;Dysdera esquiveli;Araneae;T;1;5.47;4.61;5.47;0.84;1.9;1.55;1.9;0.35;0;-1;-1;-1;-1;1.36;0.25;1.08;1.36;2;reduced;1;predator;0;Troglomorph;stenophagous;
+Ar004;Dysdera gollumi Ribera & Arnedo, 1994;Araneae;T;1;5.35;4.14;5.35;0.77;1.5;1.5;1.4;0.28;0;-1;-1;-1;-1;1.6;0.3;1.6;1.28;2;reduced;1;predator;0;Troglomorph;;
+Ar005;Dysdera hernandezi Arnedo & Ribera, 1999;Araneae;T;1;4.6;4.6;4.3;1.07;1.75;1.6;1.75;0.38;0;-1;-1;-1;-1;1.15;0.25;1.12;1.15;2;reduced;1;predator;0;Troglomorph;;
+Ar006;Dysdera labradaensis Wunderlich, 1992;Araneae;T;1;17.9;11.16;17.9;0.62;6.4;4.28;6.4;0.36;2;-1;-1;-1;-1;6.35;0.35;;6.35;3;present;1;predator;0;Troglomorph;;
+Ar007;Dysdera madai Arnedo, 2007 ;Araneae;T;1;5.7;5.44;5.7;0.95;1.91;1.91;1.9;0.34;2;-1;-1;-1;-1;1.71;0.3;1.71;1.67;2;reduced;1;predator;0;Troglomorph;;
+Ar008;Dysdera ratonensis Wunderlich, 1992;Araneae;P;1;13.9;13.4;13.9;0.96;5.32;5;5.32;0.38;2;-1;-1;-1;-1;4.24;0.31;4.24;3.96;3;present;1;predator;2;Ambimorph;;
+Ar009;Dysdera sibyllina Arnedo, 2007 ;Araneae;T;1;4.58;4.27;4.58;0.93;1.9;1.75;1.9;0.41;0;-1;-1;-1;-1;1.8;0.39;1.58;1.8;2;reduced;1;predator;0;Troglomorph;;
+Ar010;Dysdera unguimmanis Ribera, Ferrández & Blasco, 1985;Araneae;T;1;6.9;;6.9;;2.15;;2.15;0.31;0;-1;-1;-1;-1;3.48;0.5;;3.48;1;scarce;1;predator;0;Troglomorph;;
+Ar011;Dysdera n. sp. 1 (garoe) (Hierro, Derrabado);Araneae;H;1;6.23;;6.23;;1.99;;1.99;0.32;2;-1;-1;-1;-1;1.54;0.25;1.54;;2;reduced;1;predator;0;Troglomorph;;
+Ar012;Dysdera n. sp. 2 (herii)  (GC);Araneae;C;1;17.4;17.4;16.3;1.07;6.6;6.11;6.6;0.38;2;-1;-1;-1;-1;5.26;0.3;5.15;5.26;3;present;1;predator;0;Troglomorph;;
+Ar013;Dysdera n. sp. 3  (GC);Araneae;C;1;7.22;;7.22;;5.75;;5.75;0.8;2;-1;-1;-1;-1;5.15;0.71;;5.15;3;present;1;predator;0;Troglomorph;;
+Ar014;Lepthyphantes palmeroensis Wunderlich, 1992;Araneae;P;1;2;;2;;0.68;;0.68;0.34;2;-1;-1;-1;-1;1.18;0.59; ;1.18;2;reduced;1;predator;0;Troglomorph;polyphagous;
+Ar015;Lepthyphantes styx Wunderlich, 2011;Araneae;T;1;1.55;;1.55;;0.57;;0.57;0.37;2;-1;-1;-1;-1;0.94;0.61; ;0.94;2;reduced;1;predator;0;Troglomorph;polyphagous;
+Ar016;Metopobactrus cavernicola Wunderlich, 1992 ;Araneae;T;1;2.5;2.5;;;0.88;0.75;0.88;0.35;1;-1;-1;-1;-1;2.64;1.06;;2.64;1;scarce;1;predator;0;Troglomorph;polyphagous;
+Ar017;Troglohyphantes labrada Wunderlich, 2012;Araneae;T;1;1.8;;1.8;;0.5;;0.5;0.28;1;-1;-1;-1;-1;1;0.18;;;1;scarce;1;predator;0;Troglomorph;polyphagous;
+Ar018;Troglohyphantes oromii (Ribera & Blasco, 1986);Araneae;T;1;3.04;3.04;2.73;1.11;1.35;1.35;1.04;0.44;0;-1;-1;-1;-1;2.87;0.94;2.87;2.35;1;scarce;1;predator;0;Troglomorph;polyphagous;
+Ar019;Troglohyphantes roquensis Barrientos & Fdez. Pérez, 2018;Araneae;C;1;3.04;2.7;3.04;0.89;1.28;1.28;1.11;0.42;1;-1;-1;-1;-1;2.52;0.83;2.52;;2;reduced;1;predator;0;Troglomorph;polyphagous;
+Ar020;Walckenaeria cavernicola Wunderlich, 1992 ;Araneae;T;1;3.1;;3.1;;0.9;;0.9;0.29;2;-1;-1;-1;-1;2.4;0.8;;;2;reduced;1;predator;0;Troglomorph;polyphagous;legs estimated as 0.8 of the body length
+Ar021;Walckenaeria subterranea Wunderlich, 2011;Araneae;C;1;2;1.8;2;0.9;0.75;0.65;0.75;0.38;2;-1;-1;-1;-1;1.6;0.8;;;1;scarce;1;predator;2;Ambimorph;polyphagous;legs estimated as 0.8 of the body length
+Ar022;Agraecina canariensis Wunderlich, 1992;Araneae;TC;2;8.5;4.5;8.5;0.53;3.2;2.1;3.2;0.38;2;-1;-1;-1;-1;3.9;0.46;2.6;3.9;2;reduced;1;predator;0;Troglomorph;polyphagous;
+Ar023;Canarionesticus quadridentatus Wunderlich, 1992;Araneae;T;1;2.45;;2.45;;1.06;1.06;0.86;0.43;0;-1;-1;-1;-1;2.54;1.04;2.54;2;1;scarce;1;predator;0;Troglomorph;polyphagous;
+Ar024;Ossinissa justoi (Wunderlich, 1992) ;Araneae;H;1;2.64;1.96;2.64;0.74;1.47;0.83;1.47;0.56;0;-1;-1;-1;-1;3.8;1.44;2.9;3.8;1;scarce;1;predator;0;Troglomorph;polyphagous;
+Ar025;Pholcus baldiosensis Wunderlich, 1992;Araneae;T;1;2.45;;3.7;;1.15;;1.15;0.47;1;-1;-1;-1;-1;5.25;2.14;5.25;;1;scarce;1;predator;0;Troglomorph;polyphagous;
+Ar026;Pholcus corniger Dimitrov & Ribera, 2006;Araneae;T;1;3.5;3.5;3.2;1.09;1.22;1.1;1.22;0.35;0;-1;-1;-1;-1;5.2;1.49;5.2;5;1;scarce;1;predator;0;Troglomorph;polyphagous;
+Ar027;Spermophorides anophthalma Wunderlich, 1999;Araneae;P;1;1.99;1.87;1.99;0.94;0.78;0.75;0.78;0.39;1;-1;-1;-1;-1;3.12;1.57;2.97;3.12;1;scarce;1;predator;0;Troglomorph;polyphagous;
+Ar028;Spermophorides flava Wunderlich, 1992;Araneae;C;1;1.6;1.6;;;0.66;0.66;;0.41;2;-1;-1;-1;-1;2.22;1.39;2.22;;2;reduced;1;predator;2;Ambimorph;polyphagous;
+Ar029;Spermophorides fuertecavensis Wunderlich, 1992;Araneae;F;1;1.87;1.87;1.5;1.25;0.8;0.76;0.8;0.43;2;-1;-1;-1;-1;2.3;1.23;2.3;2.3;3;present;1;predator;2;Ambimorph;polyphagous;
+Ar030;Spermophorides reventoni Wunderlich, 1992;Araneae;T;1;2.7;2.37;2.7;0.88;0.9;0.89;0.9;0.33;2;-1;-1;-1;-1;3.6;1.33; ;3.6;2;reduced;1;predator;0;Troglomorph;polyphagous;
+Ar031;Anapistula sp. (Tacoronte);Araneae;T;1;;;;;;;;;0;-1;-1;-1;-1;;;;;0;absent;1;predator;0;Troglomorph;;
+Bl001;Loboptera anagae Martín & Oromí, 1987;Hexapoda;T;1;15.8;14.1;15.8;0.89;6.4;6.1;6.4;0.41;2;14.2;0.9;12.2;14.2;4.7;0.3;4.3;4.7;2;reduced;0;detritivorous;2;Ambimorph;;
+Bl002;Loboptera cavernicola Martín & Oromí, 1987;Hexapoda;T;1;11.2;10.8;11.2;0.96;4.6;3.6;4.6;0.41;2;11.2;1;10.9;11.2;3.4;0.3;3.4;3.4;2;reduced;0;detritivorous;2;Ambimorph;;
+Bl003;Loboptera chioensis Martín & Izquierdo, 1999 ;Hexapoda;T;1;14.98;12;14.98;0.8;5.2;4.7;5.2;0.35;0;15.3;1.02;12.3;15.3;5.1;0.34;4.9;5.1;2;reduced;0;detritivorous;0;Troglomorph;;
+Bl004;Loboptera fortunata Krauss, 1892;Hexapoda;P;1;15.5;15.5;15;1.03;7.3;6;7.3;0.47;2;14.1;0.91;13.6;14.1;5.5;0.35;5;5.5;2;reduced;0;detritivorous;2;Ambimorph;;
+Bl005;Loboptera lagunensis Martín & Izquierdo, 1999;Hexapoda;T;1;17.69;15.04;17.69;0.85;6.1;5.14;6.1;0.34;0;15.4;0.87;15.4;;6.1;0.34;6.1;;2;reduced;0;detritivorous;0;Troglomorph;;
+Bl006;Loboptera ombriosa Martín & Izquierdo, 1987;Hexapoda;H;1;17;15.2;17;0.89;6.4;4.75;6.4;0.38;2;16;0.94;13.9;16;5.1;0.3;4.1;5.1;2;reduced;0;detritivorous;2;Ambimorph;;
+Bl007;Loboptera penirobusta Martín & Izquierdo, 1999          ;Hexapoda;T;1;17.02;14.4;17.02;0.85;5.67;4.5;5.67;0.33;0;17.2;1.01;13.5;17.2;6.4;0.38;5.2;6.4;2;reduced;0;detritivorous;0;Troglomorph;;
+Bl008;Loboptera subterranea Martín & Oromí, 1987 ;Hexapoda;T;1;21.7;18.3;21.7;0.84;7;6;7;0.32;0;25.7;1.18;22.8;25.7;7.9;0.36;6.9;7.9;2;reduced;0;detritivorous;0;Troglomorph;;
+Bl009;Loboptera teneguia Izquierdo & Martín, 1999;Hexapoda;P;1;15.09;12.91;15.09;0.86;5.66;4.24;5.66;0.38;2;13.4;0.89;13.4;12.5;5;0.33;4.5;5;2;reduced;0;detritivorous;2;Ambimorph;;
+Bl010;Loboptera tenoensis Izquierdo & Martín, 1999 ;Hexapoda;T;1;12.77;12.71;12.77;1;4.8;4.51;4.8;0.38;0;12.9;1.01;12.9;12.6;4.5;0.35;4;4.5;2;reduced;0;detritivorous;0;Troglomorph;;
+Bl011;Loboptera troglobia Izquierdo & Martín, 1990;Hexapoda;T;1;11.1;10.7;11.1;0.96;4.3;3.5;4.3;0.39;0;13.5;1.22;13.5;11.2;4.2;0.38;4;4.2;1;scarce;0;detritivorous;0;Troglomorph;;
+Bl012;Symploce microphthalma Izquierdo & Medina, 1992;Hexapoda;C;1;18;15.6;18;0.87;6.3;4.7;6.3;0.35;2;19;1.06;17.5;19;7;0.39;5.4;7;2;reduced;0;detritivorous;2;Ambimorph;;
+Bl013;Symploce n. sp. 1 (El Sao);Hexapoda;C;1;17.1;16.5;17.1;0.96;5.8;5;5.8;0.34;2;23;1.35;23;20;6.3;0.37;5.5;6.3;2;reduced;0;detritivorous;2;Ambimorph;;
+Bl014;Symploce n. sp. 2 (anophthalmic Ingenio);Hexapoda;C;1;20.5;16.2;20.5;0.79;6;4;6;0.29;0;26.5;1.29;13.2;26.5;5.5;0.27;5.5;;2;reduced;0;detritivorous;0;Troglomorph;;
+Bl015;Symploce n. sp. 3 (Andén Verde, Ancones);Hexapoda;C;1;15;;15;;5.5;;5.5;0.37;2;20;1.33;20;;5.3;0.35;5.3;;2;reduced;0;detritivorous;2;Ambimorph;;
+Bl016;Symploce n. sp. 4 (Mina Tasarte, Aslobas);Hexapoda;C;1;16.7;15.5;16.7;0.93;5.1;4.4;5.1;0.31;2;21;1.26;20;21;5.5;0.33;5;5.5;2;reduced;0;detritivorous;2;Ambimorph;;
+Bl017;Symploce n. sp. 5 (Azuaje, Draguillo etc);Hexapoda;C;1;20;14.5;20;0.73;7;5.3;7;0.35;2;26;1.3;20.5;26;7.4;0.37;6;7.4;2;reduced;0;detritivorous;2;Ambimorph;;
+Ch001;Cryptops vulcanicus Zapparoli, 1990;Myriapoda;T;1;44.65;44.65;44.65;1;2.06;2.06;;0.05;0;16.48;0.37;16.48;;2.6;0.06;2.6;2.3;2;reduced;1;predator;0;Troglomorph;;
+Ch002;Lithobius speleovulcanus Serra, 1984;Myriapoda;T;1;9.77;9.77;8.25;1.18;1.08;1.08;0.91;0.11;0;4.68;0.48;4.68;;0.68;0.07;0.68;;1;scarce;1;predator;0;Troglomorph;;
+Co001;Alevonota canariensis (Oromí & Martín, 1984);Hexapoda;T;1;5.5;5.3;5.5;0.96;1.1;1.1;1.1;0.2;1;3;0.55;3;;1.2;0.22;;;1;scarce;1;predator;1;Edaphobiont;polyphagous;Lenght leg from drawing in original description
+Co002;Alevonota hephaestos (Hernández & García, 1989);Hexapoda;P;1;2.9;2.25;2.9;0.78;0.53;0.45;0.53;0.18;1;0.8;0.28;0.8;0.6;0.4;0.14;0.35;0.4;1;scarce;1;predator;1;Edaphobiont;polyphagous;
+Co003;Alevonota hierroensis Assing & Wunderle, 2008;Hexapoda;H;1;2.5;2.5;2.3;1.09;0.52;0.52;0.5;0.21;1;0.94;0.38;0.91;0.94;0.45;0.18;0.45;0.44;1;scarce;1;predator;0;Troglomorph;polyphagous;
+Co004;Alevonota junoniae (Hernández & Martín, 1990)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ;Hexapoda;P;1;6.3;4.95;6.3;0.79;1.2;1.13;1.2;0.19;1;3;0.48;2.65;3;1.15;0.18;1.15;1.15;2;reduced;1;predator;0;Troglomorph;polyphagous;
+Co005;Alevonota oromii Assing, 2002;Hexapoda;T;1;3.3;3.3;2.95;1.12;0.55;0.5;0.55;0.17;0;0.7;0.21;0.7;0.7;0.45;0.14;0.45;0.4;2;reduced;1;predator;1;Edaphobiont;polyphagous;
+Co006;Alevonota outereloi (Gamarra & Hernández, 1989) ;Hexapoda;T;1;7.7;7.7;7.55;1.02;1.5;1.4;1.5;0.19;1;4.3;0.56;4.3;4.2;2.2;0.29;1.9;2.2;2;reduced;1;predator;0;Troglomorph;polyphagous;
+Co007;Alevonota tanausui (Hernández & Martín, 1990)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ;Hexapoda;P;1;4.9;4.7;4.9;0.96;0.83;0.8;0.83;0.17;0;2.2;0.45;1.7;2.2;0.95;0.19;0.8;0.95;2;reduced;1;predator;0;Troglomorph;polyphagous;
+Co008;Anophthalmolamus fuerteventurae Ferrer, 1993;Hexapoda;F;1;2.9;2.9;2.8;1.04;1;0.9;1;0.34;0;0.65;0.22;0.65;;0.51;0.18;0.51;;3;present;0;detritivorous;1;Edaphobiont;;Excluded, found in soil
+Co009;Anophthalmolamus sp. n. 1  (camino Pico Zarza);Hexapoda;F;1;2.35;2.35;;;0.7;0.7;;0.3;0;0.63;0.27;0.63;;0.37;0.16;0.37;;3;present;0;detritivorous;1;Edaphobiont;;
+Co010;Anophthalmolamus sp. n. 2  (El Draguillo);Hexapoda;C;1;2.17;2.07;2.17;0.95;0.62;0.62;0.62;0.29;0;0.52;0.24;0.52;0.5;0.36;0.17;0.36;0.32;3;present;0;detritivorous;1;Edaphobiont;;
+Co011;Baezia aranfaybo García & López, 2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ;Hexapoda;H;1;2.9;2.9;2.55;1.14;1.07;1.07;0.97;0.37;0;0.95;0.33;0.95;0.88;0.62;0.21;0.62;0.55;2;reduced;2;rhizophagous;1;Edaphobiont;;
+Co012;Baezia bimbache García & López, 2007 ;Hexapoda;H;1;2.75;2.4;2.75;0.87;1.1;0.92;1.1;0.4;0;0.87;0.32;0.75;0.87;0.55;0.2;0.47;0.55;2;reduced;2;rhizophagous;1;Edaphobiont;;
+Co013;Baezia madai García & Oromí, 2020;Hexapoda;P;1;2.5;2.5;;;0.95;0.95;;0.46;0;0.8;0.32;0.8;;0.5;0.24;0.5;;2;reduced;2;rhizophagous;1;Edaphobiont;;corrected after origianl description. Antenna length estimated
+Co014;Baezia martini García, 2003;Hexapoda;P;1;2.65;2.65;2.65;1;1;1;1;0.38;0;0.85;0.32;0.85;0.82;0.52;0.2;0.52;0.52;2;reduced;2;rhizophagous;1;Edaphobiont;;
+Co015;Baezia tizziri García & Andújar, 2020;Hexapoda;P;1;3.03;3.03;;;1;1;;0.33;0;1.12;0.37;1.12;;0.67;0.22;0.67;;2;reduced;2;rhizophagous;1;Edaphobiont;;
+Co016;Baezia vulcania Alonso Zarazaga & García, 2002 ;Hexapoda;P;1;2.75;2.75;2.48;1.11;0.97;0.97;0.92;0.35;0;0.8;0.29;0.8;0.8;0.5;0.18;0.47;0.5;2;reduced;2;rhizophagous;1;Edaphobiont;;
+Co017;Baezia n.sp. (Guinea);Hexapoda;H;1;2.6;2.6;;;0.77;0.77;;0.3;0;0.83;0.32;;;0.55;0.21;;;2;reduced;2;rhizophagous;1;Edaphobiont;;Antennae and leg estimated from the rate in the other species
+Co018;Calathidius brevithorax Machado, 1992;Hexapoda;T;1;16.3;16.1;16.3;0.99;6.2;6;6.2;0.38;2;10.4;0.64;10.4;10.2;5.5;0.34;5.5;5.4;3;present;1;predator;2;Ambimorph;polyphagous;
+Co019;Canarobius oromii Machado, 1987;Hexapoda;T;1;3.05;3;3.05;0.98;1.07;1.05;1.07;0.35;0;1.8;0.59;1.8;1.8;0.85;0.28;0.85;0.77;2;reduced;1;predator;0;Troglomorph;polyphagous;
+Co020;Canarobius chusyae Machado, 1987;Hexapoda;T;1;2.9;2.9;2.8;1.04;1;1;0.9;0.34;0;1.4;0.48;1.4;1.3;0.65;0.22;0.65;0.6;2;reduced;1;predator;0;Troglomorph;polyphagous;
+Co021;Gietopus martini (Machado, 1984) ;Hexapoda;T;1;8.5;8.2;8.5;0.96;3;3;2.8;0.35;0;4.9;0.58;4.9;4.8;2.2;0.26;2.1;2.2;2;reduced;1;predator;0;Troglomorph;polyphagous;
+Co022;Licinopsis angustula Machado, 1987;Hexapoda;P;1;16;16;14.6;1.1;5;5;4.6;0.31;0;9.26;0.58;9.26;8.6;4.75;0.3;4.75;3.6;2;reduced;1;predator;2;Ambimorph;polyphagous;
+Co023;Licinopsis schurmanni Machado, 1987;Hexapoda;H;1;14.7;13;14.7;0.88;4.6;4.1;4.6;0.31;2;9;0.61;8.4;9;4.6;0.31;3.9;4.6;2;reduced;1;predator;2;Ambimorph;polyphagous;
+Co024;Lymnastis gaudini gaudini Jeanne, 1929;Hexapoda;T;1;2.3;2.1;2.3;0.91;0.6;0.6;;0.26;0;0.98;0.43;0.98;;0.41;0.18;0.41;;1;scarce;1;predator;1;Edaphobiont;polyphagous;
+Co025;Lymnastis gaudini gomeraeFranz, 1965 ;Hexapoda;G;1;2.24;2.24;2;1.12;0.74;0.74;0.7;0.33;0;1.08;0.48;1.08;1.05;0.46;0.21;0.46;0.4;1;scarce;1;predator;1;Edaphobiont;polyphagous;
+Co026;Lymnastis subovatus Machado, 1992;Hexapoda;T;1;2.82;2.82;2.69;1.05;1.07;1.07;0.83;0.38;0;1.44;0.51;1.44;1.4;0.68;0.24;0.68;0.64;1;scarce;1;predator;1;Edaphobiont;polyphagous;
+Co027;Lymnastis thoracicus Machado, 1992;Hexapoda;T;1;2.8;2.7;2.8;0.96;1;1;0.95;0.36;0;1.4;0.5;1.4;1.3;0.66;0.24;0.65;0.66;1;scarce;1;predator;1;Edaphobiont;polyphagous;
+Co028;Lymnastis n. sp. 1 (El Hierro);Hexapoda;H;1;2.3;2.15;2.3;0.93;0.77;0.67;0.77;0.33;0;0.95;0.41;0.95;0.92;0.47;0.2;0.45;0.47;1;scarce;1;predator;1;Edaphobiont;polyphagous;
+Co029;Lymnastis n. sp. 2 (La Palma);Hexapoda;P;1;2.75;2.72;2.75;0.99;0.8;0.8;0.75;0.29;0;1.2;0.44;1.12;1.2;0.55;0.2;0.55;0.5;1;scarce;1;predator;1;Edaphobiont;polyphagous;
+Co030;Lymnastis n. sp. 3 (Llanetes Gran Canaria 1);Hexapoda;C;1;3.2;;3.2;;0.9;;0.9;0.28;0;1.25;0.39;;1.25;0.6;0.19;;0.6;1;scarce;1;predator;1;Edaphobiont;polyphagous;
+Co031;Lymnastis n. sp. 4 (Marteles Gran Canaria 2);Hexapoda;C;1;2.3;2.3;2.15;1.07;0.65;0.6;0.65;0.28;0;1;0.43;1;0.95;0.45;0.2;0.42;0.45;1;scarce;1;predator;1;Edaphobiont;polyphagous;
+Co032;Lymnastis n. sp. 5 (Tenerife);Hexapoda;T;1;3;2.2;3;0.73;0.9;0.8;0.9;0.3;0;1.35;0.45;1.35;1.3;0.55;0.18;0.55;0.55;1;scarce;1;predator;1;Edaphobiont;polyphagous;
+Co033;Parazuphium damascenum canariense Machado, 1998;Hexapoda;T;1;4.26;4.26;3.85;1.11;1.14;1.13;1.14;0.27;2;2.43;0.57;2.43;2.35;0.7;0.16;0.67;0.7;2;reduced;1;predator;0;Troglomorph;polyphagous;Excluded, soil in Bajamar
+Co034;Parazuphium feloi Machado, 1998;Hexapoda;P;1;5.1;4.9;5.1;0.96;1.74;1.64;1.74;0.34;0;4.35;0.85;4.35;4.27;1.45;0.28;1.45;1.42;1;scarce;1;predator;0;Troglomorph;polyphagous;
+Co035;Parazuphium n. sp. (GC);Hexapoda;C;1;6.78;6.78;;;2.2;2.2;;0.32;0;5.46;0.81;5.46;;1.81;0.27;1.81;;1;scarce;1;predator;0;Troglomorph;polyphagous;
+Co036;Pseudoplatyderus amblyops Bolívar, 1940;Hexapoda;G;1;8.7;8.1;8.7;0.93;3.2;2.9;3.2;0.37;0;4.8;0.55;4.7;4.8;2.2;0.25;2.1;2.2;2;reduced;1;predator;2;Ambimorph;polyphagous;
+Co037;Pseudoplatyderus n.sp. (GC);Hexapoda;C;1;9.27;9.27;;;2.2;2.2;;0.24;0;4.635;0.5;;;1.39;0.15;1.39;;2;reduced;1;predator;2;Ambimorph;polyphagous;antennae estimated from congeneric
+Co038;Spelaeovulcania canariensis Machado, 1987 ;Hexapoda;T;1;3.1;2.8;3.1;0.9;1.1;1;1.1;0.35;0;1.5;0.48;1.5;1.5;0.7;0.23;0.65;0.7;2;reduced;1;predator;0;Troglomorph;polyphagous;
+Co039;Thalassophilus subterraneus Machado, 1990;Hexapoda;P;1;4.35;4.35;4.28;1.02;1.2;1;1.2;0.28;2;2.25;0.52;2.25;2.13;0.87;0.2;0.87;0.85;2;reduced;1;predator;2;Ambimorph;polyphagous;
+Co040;Trechus benahoaritus Machado, 1990;Hexapoda;P;1;3.76;3.76;3.6;1.04;1.4;1.4;1.3;0.37;2;2;0.53;2;1.85;0.9;0.24;0.9;0.9;2;reduced;1;predator;2;Ambimorph;polyphagous;
+Co041;Trechus minioculatus Machado, 1987;Hexapoda;H;1;4.5;4.5;4.5;1;1.9;1.9;1.9;0.42;2;3.05;0.68;3.05;3;1.2;0.27;1.2;1.2;2;reduced;1;predator;2;Ambimorph;polyphagous;
+Co042;Wolltinerfia anagae Medina & Oromí, 1991;Hexapoda;T;1;9;8.2;9;0.91;3.2;3;3.2;0.36;1;4.6;0.51;4.4;4.6;3.1;0.34;3.1;2.1;2;reduced;1;predator;2;Ambimorph;polyphagous;
+Co043;Wolltinerfia tenerifae (Machado, 1984);Hexapoda;T;1;9.5;9.1;9.5;0.96;3.3;3.2;3.3;0.35;0;5.7;0.6;5.5;5.7;2.5;0.26;2.4;2.5;2;reduced;1;predator;0;Troglomorph;polyphagous;
+Co044;Domene alticola Oromí & Hernández, 1986                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ;Hexapoda;T;1;10.6;9.8;10.6;0.92;1.7;1.6;1.7;0.16;0;5.9;0.56;5.9;5.9;2.8;0.26;2.8;2.8;2;reduced;1;predator;0;Troglomorph;polyphagous;
+Co045;Domene benahoarensis Oromí & Martín, 1990;Hexapoda;P;1;12.7;12.7;11.4;1.11;1.6;1.5;1.6;0.13;2;5.1;0.4;5.1;4.6;2.2;0.17;2.2;2.1;2;reduced;1;predator;0;Troglomorph;polyphagous;
+Co046;Domene jonayi Hernández & Medina, 1990;Hexapoda;G;1;11.1;11.1;11.1;1;1.4;1.4;1.4;0.13;1;4.8;0.43;4.8;4.6;2.6;0.23;2.6;2.5;2;reduced;1;predator;0;Troglomorph;polyphagous;
+Co047;Domene sylvatica Hernández & Oromí, 1993;Hexapoda;T;1;11.4;8.5;11.4;0.75;1.4;1.3;1.4;0.12;2;3.4;0.3;3.2;3.4;2.3;0.2;1.7;2.3;3;present;1;predator;2;Ambimorph;polyphagous;
+Co048;Domene vulcanica Oromí & Hernández, 1986                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ;Hexapoda;T;1;11.4;11.4;10.9;1.05;1.4;1.3;1.4;0.12;0;7.4;0.65;7.4;7.3;3.7;0.32;3.7;3.4;1;scarce;1;predator;0;Troglomorph;polyphagous;
+Co049;Medon feloi Assing, 1998 ;Hexapoda;P;1;4.8;4.6;4.8;0.96;0.8;0.8;0.8;0.17;1;1.4;0.29;1.37;1.4;0.7;0.15;0.65;0.7;2;reduced;1;predator;1;Edaphobiont;polyphagous;
+Co050;Medon antricola Assing, 2006;Hexapoda;H;1;6.5;5.5;6.5;0.85;1;0.9;1;0.15;1;2.2;0.34;2.2;2.1;1;0.15;1;1;2;reduced;1;predator;0;Troglomorph;polyphagous;
+Co051;Medon n. sp. 1 (Cueva Grande GC);Hexapoda;C;1;7.1;6.1;7.1;0.86;1;0.9;1;0.14;1;2;0.28;1.8;2;1;0.14;0.9;1;2;reduced;1;predator;2;Ambimorph;polyphagous;
+Co052;Medon n. sp. 2 (MSS Barranco Oscuro);Hexapoda;C;1;7;6.8;7;0.97;1;0.97;1;0.14;1;1.76;0.25;1.76;;0.9;0.13;0.9;;2;reduced;1;predator;2;Ambimorph;polyphagous;
+Co053;Medon n. sp. 3 (MSS Marteles);Hexapoda;C;1;9.5;6.8;9.5;0.72;0.92;0.9;0.92;0.1;1;1.82;0.19;1.82;;0.9;0.09;0.9;;2;reduced;1;predator;2;Ambimorph;polyphagous;
+Co054;Micranops bifossicapitatus (Outerelo & Oromí, 1987);Hexapoda;GT;2;3.6;;3.6;;0.6;;0.6;0.17;0;1;0.28;1;;0.6;0.17;0.6;;1;scarce;1;predator;1;Edaphobiont;polyphagous;
+Co055;Micranops mlejneki Frisch & Oromí, 2006;Hexapoda;T;1;3.3;3.1;3.3;0.94;0.46;0.4;0.46;0.14;0;0.65;0.2;0.65;;0.45;0.14;0.45;;1;scarce;1;predator;1;Edaphobiont;polyphagous;
+Co056;Micranops spelaeus Frisch & Oromí, 2006;Hexapoda;T;1;5.1;4.1;5.1;0.8;0.74;0.67;0.74;0.15;0;1.6;0.31;1.6;;0.8;0.16;0.8;;2;reduced;1;predator;0;Troglomorph;polyphagous;
+Co057;Micranops subterraneus Frisch & Oromí, 2006;Hexapoda;G;1;3.9;3.7;3.9;0.95;0.64;0.55;0.64;0.16;0;0.8;0.21;0.8;;0.5;0.13;0.5;;2;reduced;1;predator;1;Edaphobiont;polyphagous;
+Co058;Ocypus anophthalmicus (Hernández & Aguiar, 1988);Hexapoda;T;1;11.1;11.1;;;1.8;1.8;;0.16;0;4.3;0.39;4.3;;1.97;0.18;1.97;;2;reduced;1;predator;2;Ambimorph;polyphagous;
+Co059;Ocypus n. sp. 1 (PN Teide);Hexapoda;T;1;14.4;14.3;14.4;0.99;2.3;2.3;2.2;0.16;0;5;0.35;4.7;5;2.3;0.16;2.2;2.3;2;reduced;1;predator;0;Troglomorph;polyphagous;
+Co060;Ocypus n. sp. 2 (Bco. Cochinos);Hexapoda;T;1;12.5;12.5;11.5;1.09;1.6;1.6;1.5;0.13;0;3.8;0.3;3.8;3.7;1.1;0.09;1.1;1;2;reduced;1;predator;0;Troglomorph;polyphagous;
+Co061;Oxypoda caeca Assing, 2005;Hexapoda;G;1;3.3;;3.3;;0.69;;0.69;0.21;1;0.8;0.24;;0.8;0.53;0.16;;0.53;3;present;1;predator;1;Edaphobiont;polyphagous;
+Co062;Sunius microphthalmus (Franz, 1979);Hexapoda;H;1;3;2.9;3;0.97;0.5;0.43;0.5;0.17;2;0.95;0.32;0.85;0.95;0.4;0.13;0.35;0.4;2;reduced;1;predator;1;Edaphobiont;polyphagous;
+Co063;Sunius anophthalmus Hernández & García, 1992;Hexapoda;P;1;3.7;3.7;3.3;1.12;0.6;0.55;0.6;0.16;0;1.1;0.3;0.95;1.1;0.55;0.15;0.52;0.55;2;reduced;1;predator;1;Edaphobiont;polyphagous;
+Co064;Aeletes oromii Yélamos, 1995;Hexapoda;T;1;1.4;;1.4;;0.75;;0.75;0.54;0;0.4;0.29;;0.4;0.33;0.24;;0.33;2;reduced;1;predator;1;Edaphobiont;;
+Co065;Aeletes gemmula (Wollaston, 1865);Hexapoda;G;1;1.65;1.1;1.65;0.67;0.65;0.6;0.65;0.39;0;0.3;0.18;0.25;0.3;0.3;0.18;0.25;0.3;2;reduced;1;predator;1;Edaphobiont;;
+Co066;Euconnus specusus Vit, 2004;Hexapoda;G;1;1.85;1.83;1.85;0.99;0.8;0.8;0.8;0.43;0;0.8;0.43;0.8;0.8;0.55;0.3;0.52;0.55;2;reduced;1;predator;1;Edaphobiont;;
+Co067;Euconnus n. sp. 1 (Tenerife);Hexapoda;T;1;1.3;;1.3;;0.55;;0.55;0.42;0;0.7;0.54;;0.7;0.37;0.28;;0.37;2;reduced;1;predator;1;Edaphobiont;;
+Co068;Euconnus n. sp. 2 (Gran Canaria);Hexapoda;C;1;1.14;;1.14;;0.46;;0.46;0.4;0;0.56;0.49;0.56;;0.32;0.28;0.32;;2;reduced;1;predator;1;Edaphobiont;;
+Co069;Derolathrus anophthalmus (Franz, 1969)                          ;Hexapoda;HPC;3;1.05;;1.05;;0.27;;0.27;0.26;0;0.25;0.24;;0.25;0.1;0.1;;0.1;3;present;1;predator;1;Edaphobiont;;ecology and niche invented, check
+Co070;Laparocerus cavernarius Machado, 2011;Hexapoda;H;1;5;5;2.13;2.35;2.13;;;0.43;2;3.02;0.6;3.02;;1.5;0.3;1.5;;2;reduced;2;rhizophagous;0;Troglomorph;;
+Co071;Laparocerus dacilae García, 1998 ;Hexapoda;P;1;9.1;7.1;9.1;0.78;4.1;3;4.1;0.45;1;5.4;0.59;4.3;5.4;3;0.33;2.2;3;2;reduced;2;rhizophagous;0;Troglomorph;;
+Co072;Laparocerus edaphicus Machado, 2008;Hexapoda;T;1;4.5;3.91;4.5;0.87;1.9;1.65;1.9;0.42;2;2;0.44;2;1.98;1.1;0.24;1.08;1.1;3;present;2;rhizophagous;1;Edaphobiont;;
+Co073;Laparocerus federico Machado, 2018;Hexapoda;C;1;6.5;4.5;6.5;0.69;2.82;1.95;2.82;0.43;2;3.5;0.54;2.4;3.5;1.88;0.29;1.26;1.88;3;present;2;rhizophagous;0;Troglomorph;;
+Co074;Laparocerus hypogeus Machado, 2011;Hexapoda;H;1;6.9;;6.9;;3.05;;3.05;0.44;2;3.89;0.56;;3.89;2.05;0.3;;2.05;3;present;2;rhizophagous;0;Troglomorph;;
+Co075;Laparocerus idafe García & Alonso Zarazaga, 2011 ;Hexapoda;P;1;5;3.34;5;0.67;1.9;1.41;1.9;0.38;1;2.5;0.5;1.86;2.5;1.1;0.22;0.88;1.1;2;reduced;2;rhizophagous;0;Troglomorph;;
+Co076;Laparocerus iruene Machado & García, 2010;Hexapoda;P;1;6.55;6.55;;;3.15;3.15;;0.48;1;4.51;0.69;4.51;;2.18;0.33;2.18;;3;present;2;rhizophagous;0;Troglomorph;;
+Co077;Laparocerus lopezi Machado, 2008;Hexapoda;C;1;5.3;;5.3;;2.2;;2.2;0.42;2;2.88;0.54;;2.88;1.4;0.26;;1.4;2;reduced;2;rhizophagous;1;Edaphobiont;;
+Co078;Laparocerus machadoi García & González, 2006;Hexapoda;P;1;6.1;5.68;6.1;0.93;2.6;2.6;2.6;0.43;1;3.9;0.64;3.9;3.6;2;0.33;2;1.7;2;reduced;2;rhizophagous;0;Troglomorph;;
+Co079;Laparocerus oromii Machado, 2008;Hexapoda;G;1;3.8;3.8;3.6;1.06;1.22;1.22;1.15;0.32;0;1.8;0.47;1.8;1.3;0.82;0.22;0.82;0.75;2;reduced;2;rhizophagous;1;Edaphobiont;;
+Co080;Laparocerus soniaeMachado, 2016;Hexapoda;C;1;4.1;4.1;;;2;2;;0.49;1;2.28;0.56;2.28;;1;0.24;1;;3;present;2;rhizophagous;0;Troglomorph;;
+Co081;Laparocerus zarazagai subreflexus Machado & García, 2010;Hexapoda;P;1;9.7;8.8;9.7;0.91;4.36;3.2;4.36;0.45;1;6;0.62;5.7;6;3.4;0.35;3.17;3.4;3;present;2;rhizophagous;0;Troglomorph;;
+Co082;Laparocerus zarazagai zarazagai García & Oromí, 1996;Hexapoda;P;1;9.3;9.3;9.2;1.01;4.36;4;4.36;0.47;1;6;0.65;6;5.3;3.1;0.33;2.8;3.1;3;present;2;rhizophagous;0;Troglomorph;;
+Co083;Oromia aguiari Alonso Zarazaga, 1990;Hexapoda;T;1;4.3;4;4.3;0.93;1.7;1.67;1.7;0.4;0;1.35;0.31;1.35;1.27;1;0.23;0.95;1;3;present;2;rhizophagous;1;Edaphobiont;;
+Co084;Oromia hephaestos Alonso Zarazaga, 1987;Hexapoda;T;1;3.6;3.16;3.6;0.88;1.25;1.25;1.2;0.35;0;1.25;0.35;1.25;1.25;0.8;0.22;0.76;0.8;3;present;2;rhizophagous;1;Edaphobiont;;
+Co085;Oromia orahan García & Oromí, 2020;Hexapoda;G;1;4;3.8;4;0.95;1.8;1.5;1.8;0.45;0;1.6;0.4;1.5;1.6;1.2;0.3;1.1;1.2;3;present;2;rhizophagous;1;Edaphobiont;;
+Co086;Oromia thoracica Machado & López, 2015;Hexapoda;C;1;5.05;5.05;1.17;4.32;5.63;5.63;1.9;1.11;0;2;0.4;1.54;2;1.4;0.28;1.28;1.4;3;present;2;rhizophagous;1;Edaphobiont;;
+Co087;Oromia n. sp. 2 (acoran);Hexapoda;C;1;3.5;2.8;3.5;0.8;1.34;1;1.34;0.38;0;1.26;0.36;1.13;1.26;0.84;0.24;0.65;0.84;3;present;2;rhizophagous;1;Edaphobiont;;
+Co088;Oromia n. sp. 3 (gumidafe);Hexapoda;C;1;4;3.6;4;0.9;1.39;1.18;1.39;0.35;0;1.39;0.35;1.25;1.39;0.87;0.22;0.71;0.87;3;present;2;rhizophagous;1;Edaphobiont;;
+Co089;Oromia n. sp. 4 (achicasnai);Hexapoda;C;1;3.78;3.78;3.7;1.02;1.36;1.33;1.36;0.36;0;1.36;0.36;1.33;1.36;0.81;0.21;0.79;0.81;3;present;2;rhizophagous;1;Edaphobiont;;
+Co090;Oromia n. sp. 5 (tamaran);Hexapoda;C;1;3.75;3.3;3.75;0.88;1.34;1.24;1.34;0.36;0;1.36;0.36;1.26;1.36;0.81;0.22;0.81;0.78;3;present;2;rhizophagous;1;Edaphobiont;;
+Co091;Oromia n. sp. 6 (benesmer);Hexapoda;C;1;3.7;3.7;3.6;1.03;1.31;1.31;1.15;0.35;0;1.31;0.35;1.31;1.2;0.68;0.18;0.68;0.68;3;present;2;rhizophagous;1;Edaphobiont;;
+Co092;Oromia n. sp. 7 (Azuaje);Hexapoda;C;1;4.1;3.35;4.1;0.82;1.4;1.15;1.4;0.34;0;1.35;0.33;1.15;1.35;0.82;0.2;0.7;0.82;3;present;2;rhizophagous;1;Edaphobiont;;
+Co093;Oromia n. sp. 8 (Federica);Hexapoda;C;1;3.45;2.7;3.45;0.78;1.17;0.9;1.17;0.34;0;1.07;0.31;1;1.07;0.75;0.22;0.6;0.75;3;present;2;rhizophagous;1;Edaphobiont;;
+Co094;Oromia n. sp. 9 (Mina Roques);Hexapoda;C;1;3.55;;3.55;;1.3; ;1.3;0.37;0;1.22;0.34;;1.22;0.8;0.23;;0.8;3;present;2;rhizophagous;1;Edaphobiont;;
+Co095;Torneuma alexi Stüben, 2018 ;Hexapoda;C;1;4.88;4.88;3.48;1.4;1.2;1.2;0.88;0.25;0;1.19;0.24;1.19;;0.72;0.15;0.72;;3;present;2;rhizophagous;1;Edaphobiont;;
+Co096;Torneuma n. sp. (El Hierro);Hexapoda;H;1;3.4;;3.4;;0.92;;0.92;0.27;0;1.02;0.3;;;0.58;0.17;;;3;present;2;rhizophagous;1;Edaphobiont;;estimated from the others pecies of the genus
+Co097;Torneuma feloi (Stüben, 2007)                  ;Hexapoda;T;1;3.05;3.05;2.85;1.07;1.15;1.15;1.02;0.38;0;1.02;0.33;1.02;0.87;0.65;0.21;0.65;0.5;3;present;2;rhizophagous;1;Edaphobiont;;estimated from the others pecies of the genus
+Co098;Torneuma franzi (González, 1971)          ;Hexapoda;T;1;2.8;;2.8;;1;;1;0.36;0;0.8;0.29;;0.8;0.5;0.18;;0.5;3;present;2;rhizophagous;1;Edaphobiont;;estimated from the others pecies of the genus
+Co099;Torneuma lindrothi (Franz, 1981)            ;Hexapoda;P;1;3.2;2.75;3.2;0.86;1.05;0.9;1.05;0.33;0;0.87;0.27;0.85;0.87;0.47;0.15;0.47;0.45;3;present;2;rhizophagous;1;Edaphobiont;;
+Co100;Curculionidae gen. indet., n. sp.1 Cueva Mña Blanca;Hexapoda;F;1;3.95;3.75;3.95;0.95;1.67;1.52;1.67;0.42;0;1.4;0.35;;1.4;0.85;0.22;;0.85;2;reduced;2;rhizophagous;1;Edaphobiont;;
+De001;Anataelia troglobia Martín & Oromí, 1988;Hexapoda;P;1;21;17.1;21;0.81;3.6;2.7;3.6;0.17;0;11.8;0.56;11;11.8;4.8;0.23;4.5;4.8;2;reduced;1;predator;0;Troglomorph;;
+Di001;Remycampa herbanica Sendra & Oromí, 2020;Hexapoda;F;1;4.4;4.4;4.2;1.05;0.8;0.62;0.8;0.18;0;3.54;0.8;3.54;;0.82;0.19;0.72;0.82;0;absent;0;detritivorous;0;Troglomorph;;
+Di002;Spaniocampa relicta Sendra & López, 2020;Hexapoda;C;1;4.1;3.4;4.1;0.83;0.5;0.5;;0.12;0;;;;;0.82;0.2;0.82;;0;absent;0;detritivorous;2;Ambimorph;;
+Dp001;Glomeris speobia Golovatch & Enghoff, 2003 ;Myriapoda;T;1;9;8;9;0.89;4.3;3;4.3;0.48;1;1.27;0.14;1.26;1.27;0.7;0.08;0.64;0.7;1;scarce;0;detritivorous;0;Troglomorph;;
+Dp002;Dolichoiulus chioensis Enghoff, 1992;Myriapoda;T;1;20.5;20.5;;;1.33;1.33;;0.06;0;1.8;0.09;1.8;;1.10625;0.05;1.10625;1.10625;1;scarce;0;detritivorous;0;Troglomorph;;
+Dp003;Dolichoiulus labradae Enghoff, 1992;Myriapoda;T;1;26;26;22;1.18;1.45;1.45;1.38;0.06;0;2.3625;0.09;2.3625;;1.45;0.06;1.45;1.45;2;reduced;0;detritivorous;0;Troglomorph;;
+Dp004;Dolichoiulus longunguis Enghoff, 2012;Myriapoda;C;1;13;13;13;1;0.72;0.71;0.72;0.06;0;0.9438;0.07;0.9438;;0.45045;0.03;0.45045;0.45045;2;reduced;0;detritivorous;0;Troglomorph;;
+Dp005;Dolichoiulus oromii Enghoff, 2012;Myriapoda;C;1;21.5;21.5;19;1.13;1.08;1;1.08;0.05;0;1.368;0.06;1.368;;0.7584;0.04;0.7584;0.7584;1;scarce;0;detritivorous;0;Troglomorph;;
+Dp006;Dolichoiulus troglohierro Enghoff, 1992 ;Myriapoda;H;1;14.5;14.5;;;1.07;1.07;;0.07;2;1.51755;0.1;1.51755;;0.9045;0.06;0.9045;0.9045;2;reduced;0;detritivorous;0;Troglomorph;;
+Dp007;Dolichoiulus typhlocanaria Enghoff, 2012;Myriapoda;C;1;20;20;20;1;1.41;1.26;1.41;0.07;0;1.708;0.09;1.708;;1.0492;0.05;1.0492;1.0492;1;scarce;0;detritivorous;0;Troglomorph;;
+Dp008;Dolichoiulus ypsilon Enghoff, 1992 ;Myriapoda;T;1;21;21;19;1.11;1.25;1.25;1.22;0.06;0;1.5694;0.07;1.5694;;0.88028;0.04;0.88028;0.88028;2;reduced;0;detritivorous;0;Troglomorph;;
+Dp009;Thalassisobates emesesensis Enghoff, 2013;Myriapoda;G;1;8.6;8.5;8.6;0.99;0.6;0.58;0.6;0.07;0;;;;;;;;;0;absent;0;detritivorous;0;Troglomorph;;
+Hm001;Ceratocombus stysi Roca-Cusachs, García & Jung, 2019;Hexapoda;P;1;1.4;1.4;1.38;1.01;0.35;0.35;0.34;0.25;2;1.1;0.79;1.1;1;0.68;0.49;0.68;0.6;2;reduced;1;predator;0;Troglomorph;;
+Hm002;Collartida anophthalma Español & Ribes, 1983  ;Hexapoda;H;1;4.8;4.25;4.8;0.89;0.59;0.52;0.59;0.12;0;9.03;1.88;8;9.03;6.66;1.39;5.9;6.66;0;absent;1;predator;0;Troglomorph;;
+Hm003;Collartida tanausu Ribes, Oromí & Ribes, 1998;Hexapoda;P;1;5.7;4.8;5.7;0.84;2;0.85;2;0.35;0;11.4;2;10.6;11.4;10.6;1.86;8.4;10.6;0;absent;1;predator;0;Troglomorph;;
+Hm005;Cixius ariadne Hoch & Asche, 1993;Hexapoda;H;1;3.95;3;3.95;0.76;1.14;1.14;;0.29;0;0.52;0.13;0.52;;0.79;0.2;;;1;scarce;3;sap-sucking;0;Troglomorph;stenophagous;leg estimated from 0.2 of the body size
+Hm006;Cixius nycticolus Hoch & Asche, 1993;Hexapoda;H;1;3.8;;3.8;;1.55;;1.55;0.41;1;0.54;0.14;0.54;;0.76;0.2;;;1;scarce;3;sap-sucking;0;Troglomorph;stenophagous;leg estimated from 0.2 of the body size
+Hm009;Cixius palmeros Hoch & Asche, 1993;Hexapoda;P;1;3.8;3.8;;;1.64;1.64;;0.43;1;0.62;0.16;0.62;;0.76;0.2;;;1;scarce;3;sap-sucking;0;Troglomorph;stenophagous;leg estimated from 0.2 of the body size
+Hm010;Cixius pinarcoladus Hoch & Asche, 1993 ;Hexapoda;P;1;4.4;3.3;4.4;0.75;1.3;1.3;;0.3;0;0.65;0.15;0.65;;0.88;0.2;;;0;absent;3;sap-sucking;0;Troglomorph;stenophagous;leg estimated from 0.2 of the body size
+Hm011;Cixius ratonicus Hoch & Asche, 1993;Hexapoda;P;1;2.85;;2.85;;1.04;;1.04;0.36;0;0.47;0.16;0.47;;0.57;0.2;;;1;scarce;3;sap-sucking;0;Troglomorph;stenophagous;leg estimated from 0.2 of the body size
+Hm012;Cixius tacandus Hoch & Asche, 1993;Hexapoda;P;1;3.9;2.9;3.9;0.74;1.32;;1.32;0.34;0;0.51;0.13;0.51;;0.78;0.2;;;1;scarce;3;sap-sucking;0;Troglomorph;stenophagous;leg estimated from 0.2 of the body size
+Hm015;Tachycixius crypticus Hoch & Asche, 1993 ;Hexapoda;T;1;6.1;5.5;6.1;0.9;2.83;;2.83;0.46;2;0.34;0.06;0.34;;1.22;0.2;;;3;present;3;sap-sucking;2;Ambimorph;stenophagous;leg estimated from 0.2 of the body size
+Hm016;Tachycixius lavatubus Remane & Hoch, 1988;Hexapoda;T;1;4.7;4.7;4.7;1;1.47;1.47;;0.31;0;0.64;0.14;0.64;;0.94;0.2;;;0;absent;3;sap-sucking;0;Troglomorph;stenophagous;leg estimated from 0.2 of the body size
+Hm017;Tachycixius retrusus Hoch & Asche, 1993 ;Hexapoda;T;1;6.3;5.8;6.3;0.92;2.44;2.44;;0.39;2;0.64;0.1;0.64;;1.26;0.2;;;3;present;3;sap-sucking;2;Ambimorph;stenophagous;leg estimated from 0.2 of the body size
+Hm019;Meenoplus cancavus Remane & Hoch, 1988;Hexapoda;H;1;2.4;1.9;2.4;0.79;0.89;;0.89;0.37;0;0.85;0.35;0.85;;0.48;0.2;;;1;scarce;3;sap-sucking;0;Troglomorph;stenophagous;leg estimated from 0.2 of the body size
+Hm020;Meenoplus charon Hoch & Asche, 1993;Hexapoda;H;1;3.1;2.9;3.1;0.94;0.94;0.94;;0.3;0;0.64;0.21;0.64;;0.62;0.2;;;2;reduced;3;sap-sucking;0;Troglomorph;stenophagous;leg estimated from 0.2 of the body size
+Hm021;Meenoplus claustrophilus Hoch & Asche, 1993;Hexapoda;P;1;3.8;3.3;3.8;0.87;1.14;1.14;;0.3;2;0.67;0.18;0.67;;0.76;0.2;;;2;reduced;3;sap-sucking;0;Troglomorph;stenophagous;leg estimated from 0.2 of the body size
+Hm022;Meenoplus roddenberryi Hoch & Naranjo, 2012;Hexapoda;C;1;1.8;1.8;1.8;1;0.9;0.9;;0.5;0;0.51;0.28;0.51;;0.36;0.2;;;1;scarce;3;sap-sucking;0;Troglomorph;stenophagous;leg estimated from 0.2 of the body size
+Is001;Halophiloscia microphthalma Taiti & López, 2008;Isopoda;P;1;7.5;7;7.5;0.93;1.84;1.72;1.84;0.25;1;5.76;0.77;5.76;;0.96;0.13;0.96;0.96;0;absent;0;detritivorous;0;Troglomorph;;
+Is002;Venezillo tenerifensis Dalens, 1984;Isopoda;T;1;7.62;7.62;;;3.71;3.71;;0.49;0;4.56;0.6;4.56;;0.68;0.09;0.68;0.68;0;absent;0;detritivorous;0;Troglomorph;;
+Is003;Venezillo geophilus Santana sin publicar;Isopoda;G;1;11.2;11.2;8.9;1.26;;;;0;2;;;;;;;;;2;reduced;0;detritivorous;2;Ambimorph;;
+Is004;Porcellio martini Dalens, 1984;Isopoda;T;1;12;11;12;0.92;5.4;4.9;5.4;0.45;3;;;;;;;;;3;present;0;detritivorous;2;Ambimorph;;
+Op001;Maiorerus randoi Rambla, 1993;Opiliones;F;1;5.25;5.25;;;1.64;1.64;;0.31;0;-1;-1;-1;-1;1.64;0.31;1.64;;1;scarce;1;predator;0;Troglomorph;;
+Op002;Opilión n. sp. 1 (Agaete);Opiliones;C;1;2.94;;2.94;;1.58;;1.58;0.54;0;-1;-1;-1;-1;1.7;0.6;;;1;scarce;1;predator;0;Troglomorph;;estimated from the other opilion
+Op003;Opilión n. sp. 2 (Los Marteles);Opiliones;C;1;2.8;2.8;;;1.83;1.83;;0.65;0;-1;-1;-1;-1;1.64;0.59;1.64;;1;scarce;1;predator;0;Troglomorph;;
+Ps001;Lagynochthonius curvidigitatus Mahnert, 1997;Pseudoscorpiones;T;1;;;;;0.36;0.36;;;0;-1;-1;-1;-1;0.2;;0.2;;1;scarce;1;predator;0;Troglomorph;;
+Ps002;Lagynochthonius lopezi Mahnert, 2010;Pseudoscorpiones;C;1;1.2;1;1.2;0.83;0.38;0.32;0.38;0.32;0;-1;-1;-1;-1;0.16;0.13;0.14;0.16;2;reduced;1;predator;0;Troglomorph;;
+Ps003;Lagynochthonius microdentatus Mahnert, 2010;Pseudoscorpiones;C;1;1;;1;;0.29;;0.29;0.29;0;-1;-1;-1;-1;0.17;0.17;;0.17;2;reduced;1;predator;0;Troglomorph;;
+Ps004;Lagynochthonius oromii Mahnert, 2010;Pseudoscorpiones;C;1;1.07;0.82;1.07;0.77;0.29;0.25;0.29;0.27;0;-1;-1;-1;-1;0.13;0.12;0.11;0.13;2;reduced;1;predator;0;Troglomorph;;
+Ps005;Lagynochthonius subterraneus Mahnert, 2010;Pseudoscorpiones;C;1;1.5;1.3;1.5;0.87;0.44;0.44;0.42;0.29;0;-1;-1;-1;-1;0.23;0.15;0.23;;2;reduced;1;predator;0;Troglomorph;;
+Ps006;Lagynochthonius tenuimanus Mahnert, 2010;Pseudoscorpiones;C;1;0.9;0.9;;;0.25;0.25;;0.28;0;-1;-1;-1;-1;0.22;0.24;0.22;;1;scarce;1;predator;0;Troglomorph;;
+Ps007;Occidenchthonius beieri Zaragoza, 2017;Pseudoscorpiones;C;1;1.45;1.12;1.45;0.77;0.39;0.36;0.39;0.27;1;-1;-1;-1;-1;;;;;2;reduced;1;predator;2;Ambimorph;;
+Ps008;Occidenchthonius dubius (Mahnert, 1993)         ;Pseudoscorpiones;T;1;1.52;;1.52;;0.42;;0.42;0.28;1;-1;-1;-1;-1;0.15;0.1;0.15;;2;reduced;1;predator;2;Ambimorph;;
+Ps009;Occidenchthonius gracilimanus (Mahnert, 1997);Pseudoscorpiones;P;1;;;;;0.4;0.37;0.4;;1;-1;-1;-1;-1;0.22;;0.22;;1;scarce;1;predator;2;Ambimorph;;
+Ps010;Occidenchthonius lopezi (Mahnert, 2010);Pseudoscorpiones;T;1;1.1;0.82;1.1;0.75;0.37;0.33;0.37;0.34;0;-1;-1;-1;-1;0.15;0.14;0.15;;2;reduced;1;predator;0;Troglomorph;;
+Ps011;Occidenchthonius mahnerti Zaragoza, 2017;Pseudoscorpiones;C;1;1.5;1.34;1.5;0.89;0.48;0.42;0.48;0.32;1;-1;-1;-1;-1;;;;;0;absent;1;predator;2;Ambimorph;;
+Ps012;Occidenchthonius oromii Zaragoza, 2017;Pseudoscorpiones;T;1;1.22;;1.22;;0.38;;0.38;0.31;0;-1;-1;-1;-1;;;;;1;scarce;1;predator;0;Troglomorph;;
+Ps013;Occidenchthonius setosus (Mahnert, 1993);Pseudoscorpiones;T;1;1.64;;1.64;;0.52;;0.52;0.32;0;-1;-1;-1;-1;0.22;0.13;;0.22;2;reduced;1;predator;2;Ambimorph;;
+Ps014;Occidenchthonius tamaran (Mahnert, 2010);Pseudoscorpiones;C;1;1.7;1.3;1.7;0.76;0.49;0.42;0.49;0.29;1;-1;-1;-1;-1;0.22;0.13;0.19;0.22;2;reduced;1;predator;2;Ambimorph;;
+Ps015;Occidenchthonius tenerifae (Mahnert, 2010);Pseudoscorpiones;T;1;1.64;;1.64;;0.5;;0.5;0.3;0;-1;-1;-1;-1;0.23;0.14;;0.23;2;reduced;1;predator;0;Troglomorph;;
+Ps016;Paraliochthonius martini Mahnert, 1989 ;Pseudoscorpiones;H;1;0.62;0.62;;;0.56;0.56;;0.9;1;-1;-1;-1;-1;0.3;0.48;0.3;;2;reduced;1;predator;0;Troglomorph;;
+Ps017;Paraliochthonius mirus Mahnert, 2002 ;Pseudoscorpiones;P;1;0.73;0.73;;;0.7;0.7;;0.96;2;-1;-1;-1;-1;0.44;0.6;0.44;;2;reduced;1;predator;0;Troglomorph;;
+Ps018;Paraliochthonius setiger (Mahnert, 1997) ;Pseudoscorpiones;T;1;;;;;0.68;;0.68;;0;-1;-1;-1;-1;0.46;;;0.46;2;reduced;1;predator;0;Troglomorph;;
+Ps019;Paraliochthonius superstes (Mahnert, 1986);Pseudoscorpiones;T;1;0.67;0.67;;;0.85;0.69;0.85;1.27;0;-1;-1;-1;-1;0.51;0.76;0.47;0.51;0;absent;1;predator;0;Troglomorph;;
+Ps020;Paraliochthonius tenebrarum Mahnert, 1989;Pseudoscorpiones;T;1;0.53;0.53;;;0.48;0.48;;0.91;0;-1;-1;-1;-1;0.28;0.53;0.28;;0;absent;1;predator;0;Troglomorph;;
+Ps021;Microcreagrina cavicola Mahnert, 1993 ;Pseudoscorpiones;PGL;3;;;;;;;;;;-1;-1;-1;-1;0.47;;0.42;0.47;2;reduced;1;predator;2;Ambimorph;;
+Ps022;Microcreagrina subterranea Mahnert, 1993;Pseudoscorpiones;PGTC;4;0.74;0.58;0.74;0.78;0.56;0.46;0.56;0.76;0;-1;-1;-1;-1;0.39;0.53;0.3;0.39;2;reduced;1;predator;2;Ambimorph;;
+Zy001;Neoasterolepisma caeca Molero, Bach & Gaju, 1999;Hexapoda;P;1;10.6;;10.6;;1.88;;1.88;0.18;2;9;0.85;;9;1.35;0.13;;1.35;1;scarce;0;detritivorous;0;Troglomorph;;
+Zy002;Canariletia holosterna  Molero, Gaju, López & Bach, 2014;Hexapoda;C;1;7.1;6.5;7.1;0.92;1.23;1.13;1.23;0.17;0;5.4;0.76;4.9;5.4;0.65;0.09;0.6;0.65;0;absent;0;detritivorous;0;Troglomorph;;trophic.niche invented, check
+Zy003;Coletinia majorensis Molero, Gaju, López & Bach, 2014;Hexapoda;F;1;11;11;11;1;1.8;1.8;1.8;0.16;0;10.6;0.96;10.6;10.6;1.4;0.13;1.4;1.4;0;absent;0;detritivorous;0;Troglomorph;;trophic.niche invented, check
